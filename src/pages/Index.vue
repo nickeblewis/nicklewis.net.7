@@ -3,6 +3,7 @@
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Digital Consultancy</div>
+        <div class="text-green-700 leading-tight">CMS</div>
         <div class="text-green-700 leading-tight">Code</div>
         <div class="text-green-700 leading-tight">Content</div>
         <div class="text-green-700 leading-tight">Photography</div>
@@ -14,8 +15,10 @@
     </div> <!-- end hero -->
 
     <div class="container-inner mx-auto">
-      <p class="text-lg sm:text-xl">This gridsome theme was forked from my <a href="https://andremadarang.com">personal website</a>. I added more features and decided to release it as an open source project. Check it out on <a href="https://github.com/drehimself/gridsome-portfolio-starter">GitHub</a> or check out the <a href="https://www.youtube.com/watch?v=uHo6o1TNQeE">screencast I did</a>. Feel free to use it for your own site or projects! Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima, repellat. Dolores iure, quas perspiciatis rerum quaerat atque eum repellat autem.</p>
-
+      <p class="text-lg sm:text-xl">The web is a large and bewildering place, our business can help you get your ideas off the ground. We are here to help steer your ideas and deliver them online.</p>
+     
+      <p class="text-lg sm:text-xl">Content is the lifeblood of any successful business and with a broad range of experience across photography, content writing and CMS coding, we can make that happen for you.</p>
+     
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">
           <g-image src="../../static/mind_map.svg" alt="browser" />
@@ -28,7 +31,7 @@
 
     <div class="overflow-x-hidden">
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
-        <h2 class="font-bold mb-6" id="projects">Here are some projects I've worked on:</h2>
+        <h2 class="font-bold mb-6" id="projects">Here are some of the many services we can offer:</h2>
 
         <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
           <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
@@ -36,20 +39,20 @@
 
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
-            <div>Project One</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>CMS</div>
+            <div class="text-lg text-gray-600">Content Management Systems need not be daunting and that is why we work with lightweight, easy to learn, simple to use systems that can help us collaborate.</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Two</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Content Writing</div>
+            <div class="text-lg text-gray-600">My Wife and I both enjoy writing, so a lot of the writing Tina takes care of and she can help you put together great content for your website or other projects</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Three</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Photography</div>
+            <div class="text-lg text-gray-600">Feel free to visit our other site, dedicated to the topic of photography <a href="https://nicklewis.photo">nicklewis.photo</a> but my photography skills also play a big part in delivering great content to our clients</div>
           </li>
           <li class="checkmark mb-6">
-            <div>Project Four</div>
-            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui ab nam animi iure nemo exercitationem a, eius non culpa itaque!</div>
+            <div>Social Media</div>
+            <div class="text-lg text-gray-600">Social media has it's challenges but alongside traditional websites, is a critical part of any businesses connection with it's audience. Naturally writing, photography and viseo skills come into play</div>
           </li>
 
         </ul>
@@ -66,7 +69,7 @@
 
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
           <div><g-image src="../../static/profile.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
-          <div class="flex-1 text-lg sm:text-xl ml-6">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eum quae architecto minus molestias iusto ducimus fuga quo quia libero dignissimos, fugiat modi assumenda debitis laboriosam.</div>
+          <div class="flex-1 text-lg sm:text-xl ml-6">I am a freelance web and content developer, who is on a misison to help businesses and individuals share their story online.</div>
         </div>
 
         <!--<div class="responsive-container">
@@ -84,7 +87,7 @@
             <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
           </div>
 
-          <p class="mb-12">Static sites cannot submit forms on their own. However, services like <a href="https://www.netlify.com/docs/form-handling">Netlify Forms</a> or <a href="https://formspree.io">FormSpree</a> can help you do this without a backend.</p>
+          <!--<p class="mb-12">Static sites cannot submit forms on their own. However, services like <a href="https://www.netlify.com/docs/form-handling">Netlify Forms</a> or <a href="https://formspree.io">FormSpree</a> can help you do this without a backend.</p>-->
 
           <div class="text-lg sm:text-lg mb-16">
             <form action="#" class="mb-12">
@@ -94,7 +97,7 @@
                           Name
                       </label>
 
-                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
+                      <input type="text" name="name" id="name" placeholder="Joe Bloggs" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
                   </div>
 
                   <div class="w-full px-4 md:w-1/2">
@@ -128,7 +131,7 @@
         <h2 class="text-2xl font-bold mb-8">Join my Newsletter</h2>
 
         <div class="w-4/5 mx-auto mb-8">
-          <p class="mb-8 text-lg sm:text-xl">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis, voluptatum. Quam, deleniti nulla.</p>
+          <p class="mb-8 text-lg sm:text-xl">Errr, not just yet but there will be a newsletter at some point!</p>
 
           <form action="#">
             <div class="flex flex-col sm:flex-row">
