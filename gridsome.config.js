@@ -43,14 +43,14 @@ module.exports = {
         contentTypeName: 'Post',
         feedOptions: {
           title: 'Nick Lewis Blog',
-          feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
-          site_url: 'https://gridsome-portfolio-starter.netlify.com/'
+          feed_url: 'https://nicklewis.net/rss.xml',
+          site_url: 'https://nicklewis.net/'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
-          author: 'Andre Madarang',
+          url: 'https://nicklewis.net' + node.path,
+          author: 'Nick Lewis',
           date: node.date
         }),
         output: {
