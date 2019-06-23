@@ -10,7 +10,7 @@
         <div class="text-green-700 leading-tight">Video</div>
       </div>
       <div class="mt-8 sm:mt-0">
-        <g-image src="../../static/developer.svg" alt="hero" class="mx-auto sm:mx-0" />
+        <g-image src="../../static/content.svg" alt="hero" class="mx-auto sm:mx-0" />
       </div>
     </div> <!-- end hero -->
 
