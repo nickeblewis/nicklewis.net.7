@@ -39,3 +39,11 @@ Notes on my GitHub account
 
 https://github.com/LinusBorg/portal-vue
 https://github.com/nickeblewis/nicklewis.net.7/settings - could set up sponsors if I wanted to
+
+## Content for this website
+
+### Development
+### CMS
+### Photography
+- Drone
+- Photographic techniques and LR included
