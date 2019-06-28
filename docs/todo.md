@@ -44,6 +44,9 @@ https://github.com/nickeblewis/nicklewis.net.7/settings - could set up sponsors 
 
 ### Development
 ### CMS
+- Getting up and running with gridsome with netlify CMS (video screencast)
+  - Vimeo for my coding screencasts
+  - YT for photography, video and exploring the world
 ### Photography
 - Drone
 - Photographic techniques and LR included
