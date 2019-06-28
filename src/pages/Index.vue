@@ -57,6 +57,36 @@
 
         </ul>
       </div> <!-- end projects -->
+      <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
+        <h2 class="font-bold mb-6" id="projects">Projects:</h2>
+
+        <div class="absolute right-0" style="top: 50px; transform: translate(100%) rotate(180deg)">
+          <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
+        </div>
+
+        <ul class="text-lg sm:text-xl">
+          <li class="checkmark mb-6">
+            <div>nicklewis.photo</div>
+            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint eum quas cumque eligendi sunt consequatur at quos, veritatis a saepe facilis obcaecati illo natus consectetur voluptatem modi necessitatibus dicta repellat.</div>
+          </li>
+          <li class="checkmark mb-6">
+            <div>Nfolio</div>
+            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam aliquam numquam ut quidem quae voluptatem rerum, quibusdam fuga hic odio velit, rem dolorum corrupti magni nulla voluptates similique assumenda voluptate?</div>
+          </li>
+          <li class="checkmark mb-6">
+            <div>Headforcode</div>
+            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Illum totam, ratione recusandae autem provident ea. Corrupti minus magnam nulla ad odio. Fugit magnam accusamus nisi incidunt! Dignissimos itaque eos ab.</div>
+          </li>
+          <li class="checkmark mb-6">
+            <div>Bournemouth Jazz</div>
+            <div class="text-lg text-gray-600">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda alias quod iusto ea quaerat facilis quidem magnam eligendi iure facere sunt praesentium minima, voluptates ut porro enim sapiente commodi ullam!</div>
+          </li>
+          <li class="checkmark mb-6">
+            <div>How about yours?</div>
+            <div class="text-lg text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum vitae consequuntur, odit unde itaque corporis iusto, voluptatibus dolorum, veniam aspernatur deleniti. Perspiciatis minus unde odio quae? Sunt tempora expedita eius?</div>
+          </li>
+        </ul>
+      </div> <!-- end projects -->
     </div>
 
     <div class="overflow-x-hidden border-gray-200 border-b">
