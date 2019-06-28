@@ -11,6 +11,9 @@ tags: ['frontend', 'coding', 'vue']
   - [ ] must include docs as well as blog
 - [ ] google analytics
 - [ ] docs requires it's own template but base it on blog to start with
+- [ ] change the tags for this article and get docs covered by tags in the build
+- [ ] get the contact form wortkin on Netlify
+- [ ] as soon as poss map my domain to this
 
 ## General
 - Tree shaking what is it?
