@@ -7,10 +7,10 @@ tags: ['frontend', 'coding', 'vue']
 ---
 
 ## Stuff to set up
-[] google sitemap
-  - must include docs as well as blog
-- google analytics
-- docs requires it's own template but base it on blog to start with
+- [ ] google sitemap
+  - [ ] must include docs as well as blog
+- [ ] google analytics
+- [ ] docs requires it's own template but base it on blog to start with
 
 ## General
 - Tree shaking what is it?
