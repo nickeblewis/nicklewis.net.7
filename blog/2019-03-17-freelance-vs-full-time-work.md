@@ -1,7 +1,7 @@
 ---
 title: Freelance vs Full Time Work
 path: blog/2019/06/freelance-vs-full-time-work
-date: 2019-03-17
+date: 2019-06-29T07:47:01.518Z
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
 tags:
   - tag

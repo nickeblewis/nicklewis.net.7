@@ -1,7 +1,7 @@
 ---
 title: Design for Developers
 path: blog/2019/06/design-for-developers
-date: 2019-03-07
+date: 2019-06-29T07:47:01.518Z
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
 tags:
   - tag

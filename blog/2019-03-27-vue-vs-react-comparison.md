@@ -1,7 +1,7 @@
 ---
 title: Vue vs React Comparison
 path: blog/2019/06/vue-vs-react-comparison
-date: 2019-03-27
+date: 2019-06-29T07:47:01.518Z
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
 tags:
   - tag
