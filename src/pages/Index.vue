@@ -149,7 +149,7 @@
                           Email Address
                       </label>
 
-                      <input type="email" name="email" id="email" placeholder="email@example.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-orange-700 mb-2 p-4" 
+                      <input type="email" name="email" id="email" placeholder="email@example.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" 
                        v-model="formData.email"
                       required>
                   </div>
@@ -160,13 +160,13 @@
                       Message
                   </label>
 
-                  <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-orange-700 mb-2 px-4 py-4" placeholder="Enter your message here." 
+                  <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4" placeholder="Enter your message here." 
                   v-model="formData.message"
                   required></textarea>
               </div>
 
               <div class="flex justify-end w-full">
-                  <button type="submit" value="submit" class="block bg-orange-700 hover:bg-orange-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">Submit</button>
+                  <button type="submit" value="submit" class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">Submit</button>
               </div>
           </form>
           </div>
