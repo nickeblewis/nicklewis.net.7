@@ -14,8 +14,9 @@ tags: ['frontend', 'coding', 'vue']
 - [ ] change the tags for this article and get docs covered by tags in the build
 - [ ] get the contact form wortkin on Netlify
 - [ ] as soon as poss map my domain to this
-- [ ] the stock photo diary
 - [ ] snipcart purchase button underneath each image ;-) see if I can work out a way...
+- [ ] blog content themes
+    - Stock photography diary
 
 ## General
 - Tree shaking what is it?
