@@ -48,7 +48,7 @@
           </li>
           <li class="checkmark mb-6">
             <div>Photography</div>
-            <div class="text-lg text-gray-600">Feel free to visit our other site, dedicated to the topic of photography <a href="https://nicklewis.photo">nicklewis.photo</a> but my photography skills also play a big part in delivering great content to our clients</div>
+            <div class="text-lg text-gray-600">Feel free to visit our other site, dedicated to the topic of photography <a href="https://nicklewis.photo">nicklewis.photo</a> but my photography skills also play a big part in delivering great content to our clients and we also supply stock images to Alamy</div>
           </li>
           <li class="checkmark mb-6">
             <div>Social Media</div>
