@@ -17,6 +17,7 @@ tags: ['frontend', 'coding', 'vue']
 - [ ] snipcart purchase button underneath each image ;-) see if I can work out a way...
 - [ ] blog content themes
     - Stock photography diary
+- https://snipcart.com/vue-ecommerce
 
 ## General
 - Tree shaking what is it?
