@@ -8,4 +8,6 @@ tags:
   - code
 ---
 
-The article will come here later
+Why not Gatsby?
+
+Recently I have moved over to working a great deal more with Vue
