@@ -19,6 +19,12 @@ module.exports = {
   siteUrl: 'https://nicklewis.net',
   plugins: [
     {
+      use: '@gridsome/plugin-google-analytics',
+      options: {
+        id: 'UA-159000-18'
+      }
+    },
+    {
       use: `gridsome-plugin-netlify-cms`,
       options: {
         modulePath: `src/cms/index.js`,
