@@ -52,7 +52,7 @@ module.exports = {
       use: '@gridsome/source-filesystem',
       options: {
         path: 'docs/**/*.md',
-        typeName: 'Post',
+        typeName: 'Doc',
         refs: {
           tags: {
             typeName: 'Tag',
