@@ -1,15 +1,18 @@
 ---
-title: Apple Court Garden 
+title: Apple Court Garden
 path: blog/2019/07/apple-court-garden
 date: 2019-07-14T22:38:01.518Z
-summary: This weekend we discovered the beautiful garden of Apple Court in the village of Hordle near Lymington
 tags:
   - gardens
   - photography
   - hampshire
   - plants
   - england
+summary: >-
+  This weekend we discovered the beautiful garden of Apple Court in the village
+  of Hordle near Lymington
 ---
+![](/images/uploads/_dsc4917.jpg)
 
 In today's post I want to share a great place we discovered this weekend and at the same time share some photos that I took along the way...
 
