@@ -50,7 +50,7 @@ https://github.com/LinusBorg/portal-vue
 https://github.com/nickeblewis/nicklewis.net.7/settings - could set up sponsors if I wanted to
 
 ## Content for this website
-
+- Article about my workflow with LR, external drives etc
 ### Development
 ### CMS
 - Getting up and running with gridsome with netlify CMS (video screencast)
