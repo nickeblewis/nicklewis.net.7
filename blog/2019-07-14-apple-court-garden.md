@@ -50,3 +50,7 @@ As a photographer you discover over time which subjects interest you the most an
 ![background](./images/_DSC4954.jpg)
 
 ![background](./images/_DSC4955.jpg)
+
+Last of all if you want to visit then why not take a look at their web page? ADD LINK HERE They also have refreshments available and a very nice sheltered patio for you to enjoy.
+
+* Once the above is more complete share this article via buffer and my newsletter
