@@ -22,13 +22,13 @@ Tina and I have been exploring some more of our great gardens and making some fa
 
 As a photographer you discover over time which subjects interest you the most and I have no doubt that nature and gardens are up at the top, expecially when you start to become more adventurous with your approach to photographs. However one thing to keep in mind before going wild with the shutter button is to maintain how recognisable a subject is, which is key for stock photography. Do also take shots of labels for plants, so that later you don't have to recall from the depths of your mind... "What is this plant again? Oh heck, no idea what the latin name is either!"
 
-![background](/images/uploads/_DSC4919.jpg)
+![Garden Corridor](/images/uploads/_DSC4919.jpg "Garden Corridor")
 
-![background](/images/uploads/_DSC4920.jpg)
+![Pink flowers](/images/uploads/_DSC4920.jpg "Pink flowers")
 
-![background](/images/uploads/_DSC4924.jpg)
+![Doorway](/images/uploads/_DSC4924.jpg "Doorway")
 
-![background](/images/uploads/_DSC4927.jpg)
+![Hosta](/images/uploads/_DSC4927.jpg "Hosta")
 
 ![background](/images/uploads/_DSC4933.jpg)
 
