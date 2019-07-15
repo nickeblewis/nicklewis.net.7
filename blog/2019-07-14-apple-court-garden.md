@@ -18,7 +18,7 @@ In today's post I want to share a great place we discovered this weekend and at 
 
 Tina and I have been exploring some more of our great gardens and making some fabulous discoveries. This Saturday we went down towards Lymington armed with a copy of Gardeners World Magazine and a 2-for-1 voucher to visit Apple Court Garden and Nursery, which is stunning as I hope you will agree just by taking a look through some of the photos I took...
 
-![background](/images/uploads/_DSC4917.jpg)
+![Lily Pond](/images/uploads/_DSC4917.jpg "Lily Pond")
 
 As a photographer you discover over time which subjects interest you the most and I have no doubt that nature and gardens are up at the top, expecially when you start to become more adventurous with your approach to photographs. However one thing to keep in mind before going wild with the shutter button is to maintain how recognisable a subject is, which is key for stock photography. Do also take shots of labels for plants, so that later you don't have to recall from the depths of your mind... "What is this plant again? Oh heck, no idea what the latin name is either!"
 
