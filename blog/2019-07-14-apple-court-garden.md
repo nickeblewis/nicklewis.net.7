@@ -12,8 +12,6 @@ summary: >-
   This weekend we discovered the beautiful garden of Apple Court in the village
   of Hordle near Lymington
 ---
-![](/images/uploads/_dsc4917.jpg)
-
 In today's post I want to share a great place we discovered this weekend and at the same time share some photos that I took along the way...
 
 Tina and I have been exploring some more of our great gardens and making some fabulous discoveries. This Saturday we went down towards Lymington armed with a copy of Gardeners World Magazine and a 2-for-1 voucher to visit Apple Court Garden and Nursery, which is stunning as I hope you will agree just by taking a look through some of the photos I took...
@@ -24,34 +22,36 @@ As a photographer you discover over time which subjects interest you the most an
 
 ![Garden Corridor](/images/uploads/_DSC4919.jpg "Garden Corridor")
 
+Apple Court comprises of a number of "Garden Rooms" each connected by corridors that often lead to a feature of some kind. In this case an ornamental seat complete with cushions, which works really well from a photography perspective.
+
 ![Pink flowers](/images/uploads/_DSC4920.jpg "Pink flowers")
 
 ![Doorway](/images/uploads/_DSC4924.jpg "Doorway")
 
-![Hosta](/images/uploads/_DSC4927.jpg "Hosta")
+![Hosta - Prince of Wales](/images/uploads/_DSC4927.jpg "Hosta - Prince of Wales ")
 
-![background](/images/uploads/_DSC4933.jpg)
+![Climbers](/images/uploads/_DSC4933.jpg "Climbers")
 
-![background](/images/uploads/_DSC4934.jpg)
+![Crane sculptures](/images/uploads/_DSC4934.jpg "Crane sculptures in the White Garden")
 
-![background](/images/uploads/_DSC4937.jpg)
+![Wrough iron Garden bench (Black and white)](/images/uploads/_DSC4937.jpg "Wrough iron Garden bench (Black and white)")
 
-![background](/images/uploads/_DSC4942.jpg)
+![Perspective of the 3 lily ponds](/images/uploads/_DSC4942.jpg "Perspective of the 3 lily ponds with the patio area at the end")
 
-![background](/images/uploads/_DSC4943.jpg)
+![Lily pond](/images/uploads/_DSC4943.jpg "Lily pond")
 
-![background](/images/uploads/_DSC4944.jpg)
+![Lily pond](/images/uploads/_DSC4944.jpg "Lily pond")
 
-![background](/images/uploads/_DSC4945.jpg)
+![Japanese garden complete with Koi Carp](/images/uploads/_DSC4945.jpg "Japanese garden complete with Koi Carp")
 
-![background](/images/uploads/_DSC4947.jpg)
+![Japanese garden complete with Koi Carp](/images/uploads/_DSC4947.jpg "Japanese garden complete with Koi Carp")
 
-![background](/images/uploads/_DSC4948.jpg)
+![Japanese Gong](/images/uploads/_DSC4948.jpg "Japanese Gong")
 
-![background](/images/uploads/_DSC4949.jpg)
+![Lily Pond](/images/uploads/_DSC4949.jpg "Lily Pond")
 
-![background](/images/uploads/_DSC4954.jpg)
+![Eryngium planum ‘Jade Frost’](/images/uploads/_DSC4954.jpg "Eryngium planum ‘Jade Frost’")
 
-![background](/images/uploads/_DSC4955.jpg)
+![Eryngium planum ‘Jade Frost’](/images/uploads/_DSC4955.jpg "Eryngium planum ‘Jade Frost’")
 
 Last of all if you want to visit then why not take a look at their web page? http://applecourtgarden.co.uk/
