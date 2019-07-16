@@ -3,7 +3,7 @@ title: Todo
 path: docs/todo
 date: 2019-06-28
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
-tags: ['frontend', 'coding', 'vue']
+tags: ['todo']
 ---
 
 ## Stuff to set up
@@ -11,9 +11,10 @@ tags: ['frontend', 'coding', 'vue']
   - [*] must include docs as well as blog
 - [ ] google analytics
 - [ ] docs requires it's own template but base it on blog to start with
-- [ ] change the tags for this article and get docs covered by tags in the build
-- [ ] get the contact form wortkin on Netlify
-- [ ] as soon as poss map my domain to this
+- [*] change the tags for this article and get docs covered by tags in the build
+- [ ] get the contact form working on Netlify
+    - [ ] do I get emails? Are the forms captured within Netlify?
+- [*] as soon as poss map my domain to this
 - [ ] snipcart purchase button underneath each image ;-) see if I can work out a way...
 - [ ] blog content themes
     - Stock photography diary
