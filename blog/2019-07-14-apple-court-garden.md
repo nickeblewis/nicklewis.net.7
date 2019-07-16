@@ -36,7 +36,7 @@ _Find out more about this particular plant and didnt they say it is the original
 
 ![Climbers](/images/uploads/_DSC4933.jpg "Climbers")
 
-![Crane sculptures](/images/uploads/_DSC4934.jpg "Crane sculptures in the White Garden")
+![Crane sculpture](/images/uploads/_DSC4934.jpg "Crane sculpture in the White Garden")
 
 _Do we know who created the sculptures?_
 
