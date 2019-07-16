@@ -26,6 +26,8 @@ Apple Court comprises of a number of "Garden Rooms" each connected by corridors 
 
 ![Pink flowers](/images/uploads/_DSC4920.jpg "Pink flowers")
 
+Earlier in this article I mention the importance of keeping note of plant names or whatever your subject might be. I normally take a photo of the label that the gardener has pinned into the ground near the plant. I failed to do that in this case but I am guessing this is some form of Rose - answers on a postcard please! Well maybe not a postcard but an email via the contact form or a comment below (once I've added Disqus to this website that is) would be greatly appreciated!
+
 ![Doorway](/images/uploads/_DSC4924.jpg "Doorway")
 
 ![Hosta - Prince of Wales](/images/uploads/_DSC4927.jpg "Hosta - Prince of Wales ")
@@ -52,6 +54,14 @@ Apple Court comprises of a number of "Garden Rooms" each connected by corridors 
 
 ![Eryngium planum ‘Jade Frost’](/images/uploads/_DSC4954.jpg "Eryngium planum ‘Jade Frost’")
 
+In the case of this beautiful Eryngium planum "Jade Frost", I did make a note of the name. _Write about these plants here later_
+
 ![Eryngium planum ‘Jade Frost’](/images/uploads/_DSC4955.jpg "Eryngium planum ‘Jade Frost’")
 
-Last of all if you want to visit then why not take a look at their web page? http://applecourtgarden.co.uk/
+Last of all if you want to visit, then why not take a look at their web page? http://applecourtgarden.co.uk/
+
+_Interested in buying any of the photos on this page as a print, then drop me a line via our contact form_
+
+_Many of these images are available via my collection on Alamy (details here)_
+
+[ ] - Once happy with alll of the above, schedule for sharing and future shares across CoSchedule
