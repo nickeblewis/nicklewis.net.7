@@ -32,19 +32,27 @@ Earlier in this article I mention the importance of keeping note of plant names 
 
 ![Hosta - Prince of Wales](/images/uploads/_DSC4927.jpg "Hosta - Prince of Wales ")
 
+_Find out more about this particular plant and didnt they say it is the original plant?_
+
 ![Climbers](/images/uploads/_DSC4933.jpg "Climbers")
 
 ![Crane sculptures](/images/uploads/_DSC4934.jpg "Crane sculptures in the White Garden")
 
+_Do we know who created the sculptures?_
+
 ![Wrought iron Garden bench (Black and white)](/images/uploads/_DSC4937.jpg "Wrought iron Garden bench (Black and white)")
 
 ![Perspective of the 3 lily ponds](/images/uploads/_DSC4942.jpg "Perspective of the 3 lily ponds with the patio area at the end")
+
+_Anything I can glean from the official website_
 
 ![Lily pond](/images/uploads/_DSC4943.jpg "Lily pond")
 
 ![Lily pond](/images/uploads/_DSC4944.jpg "Lily pond")
 
 ![Japanese garden complete with Koi Carp](/images/uploads/_DSC4945.jpg "Japanese garden complete with Koi Carp")
+
+_What can we learn about Japanese gardens? Maybe a branch project where I seek out other similar gardens around the UK?_
 
 ![Japanese garden complete with Koi Carp](/images/uploads/_DSC4947.jpg "Japanese garden complete with Koi Carp")
 
@@ -60,7 +68,7 @@ In the case of this beautiful Eryngium planum "Jade Frost", I did make a note of
 
 Last of all if you want to visit, then why not take a look at their web page? http://applecourtgarden.co.uk/
 
-_Interested in buying any of the photos on this page as a print, then drop me a line via our contact form_
+_Interested in buying any of the photos on this page as a print, then drop me a line via our contact form or see the links beneath some of the images as I introduce a means of doing this more automatically_
 
 _Many of these images are available via my collection on Alamy (details here)_
 
