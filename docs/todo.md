@@ -61,7 +61,8 @@ https://github.com/nickeblewis/nicklewis.net.7/settings - could set up sponsors 
 - Drone
 - Photographic techniques and LR included
 
-
+### Next Location/Topic
+- Can't decide!
 
 
 Sunny 16?
