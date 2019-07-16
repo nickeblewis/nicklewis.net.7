@@ -72,4 +72,4 @@ _Interested in buying any of the photos on this page as a print, then drop me a 
 
 _Many of these images are available via my collection on Alamy (details here)_
 
-[ ] - Once happy with alll of the above, schedule for sharing and future shares across CoSchedule
+[ ] - Once happy with all of the above, schedule for sharing and future shares across CoSchedule
