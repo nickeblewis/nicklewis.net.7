@@ -36,7 +36,7 @@ Earlier in this article I mention the importance of keeping note of plant names 
 
 ![Crane sculptures](/images/uploads/_DSC4934.jpg "Crane sculptures in the White Garden")
 
-![Wrough iron Garden bench (Black and white)](/images/uploads/_DSC4937.jpg "Wrough iron Garden bench (Black and white)")
+![Wrought iron Garden bench (Black and white)](/images/uploads/_DSC4937.jpg "Wrought iron Garden bench (Black and white)")
 
 ![Perspective of the 3 lily ponds](/images/uploads/_DSC4942.jpg "Perspective of the 3 lily ponds with the patio area at the end")
 
