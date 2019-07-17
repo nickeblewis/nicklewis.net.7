@@ -23,3 +23,5 @@ The above picture has had some AI enhnacements applied to it which is an area of
 Below is a screengrab of the software's UI and shows how I quickly enhanced this image with a single slider. I could have further enhanced the photo but chose to leave it at that. Just theone filter!
 
 ![Screenshot of Luminar](/images/uploads/screenshot-2019-07-17-at-21.22.34.png "Screenshot of Luminar")
+
+Will it replace Lightroom for me? I have yet to form an overall opinion on this and that will take time. Naturally I will write more about my discoveries and adventures with this different application! So join me for the journey :-)
