@@ -1,7 +1,7 @@
 ---
 title: Apple Court Garden
 path: blog/2019/07/apple-court-garden
-date: 2019-07-14T22:38:01.518Z
+date: 2019-07-17T13:22:01.518Z
 tags:
   - gardens
   - photography
@@ -32,13 +32,13 @@ Earlier in this article I mention the importance of keeping note of plant names 
 
 ![Hosta - Prince of Wales](/images/uploads/_DSC4927.jpg "Hosta - Prince of Wales ")
 
-_Find out more about this particular plant and didnt they say it is the original plant?_
+The label is interesting if you take a closer look.
 
 ![Climbers](/images/uploads/_DSC4933.jpg "Climbers")
 
 ![Crane sculpture](/images/uploads/_DSC4934.jpg "Crane sculpture in the White Garden")
 
-_Do we know who created the sculptures?_
+I will soon be publishing a similar article on the blog about Sir Harold Hillier Gardens which we visited the day after Apple Court. They had a number of sculptures on display as part of a trail. Other gardens that sprint to mind are Wisley and Kew which often feature Sculptures here and there!
 
 ![Wrought iron Garden bench (Black and white)](/images/uploads/_DSC4937.jpg "Wrought iron Garden bench (Black and white)")
 
@@ -52,7 +52,7 @@ _Anything I can glean from the official website_
 
 ![Japanese garden complete with Koi Carp](/images/uploads/_DSC4945.jpg "Japanese garden complete with Koi Carp")
 
-_What can we learn about Japanese gardens? Maybe a branch project where I seek out other similar gardens around the UK?_
+I often keep track of project ideas that spawn off of other things, normally by association of some kind. I would love to visit as many Japanese Gardens as I can around the UK. I would love to know of any you've perhaps discovered in the past that you'd recommend a visit to.
 
 ![Japanese garden complete with Koi Carp](/images/uploads/_DSC4947.jpg "Japanese garden complete with Koi Carp")
 
@@ -62,14 +62,14 @@ _What can we learn about Japanese gardens? Maybe a branch project where I seek o
 
 ![Eryngium planum ‘Jade Frost’](/images/uploads/_DSC4954.jpg "Eryngium planum ‘Jade Frost’")
 
-In the case of this beautiful Eryngium planum "Jade Frost", I did make a note of the name. _Write about these plants here later_
+In the case of this beautiful Eryngium planum "Jade Frost", I did make a note of the name. I found [this article](https://www.gardenersworld.com/plants/eryngium-planum-jade-frost/) on the Gardener's World website very interesting. I had no idea it's common name is "Sea Holly" despite seeing a few of these plants in other gardens. I wouldn't mind introducing one to our garden at home.
 
 ![Eryngium planum ‘Jade Frost’](/images/uploads/_DSC4955.jpg "Eryngium planum ‘Jade Frost’")
 
 Last of all if you want to visit, then why not take a look at their web page? http://applecourtgarden.co.uk/
 
-_Interested in buying any of the photos on this page as a print, then drop me a line via our contact form or see the links beneath some of the images as I introduce a means of doing this more automatically_
+Interested in buying any of the photos on this page as a print? Then you are more than welcome to drop me a line via our contact form.
 
-_Many of these images are available via my collection on Alamy (details here)_
+Soon there will be an easier way of doing this when I introduce Snipcart or another similar payment gateway system to the site. 
 
-[ ] - Once happy with all of the above, schedule for sharing and future shares across CoSchedule
+Many of these images plus thousands more are available via my [Alamy Portfolio](https://www.alamy.com/search/imageresults.aspx?pl=1&plno=188013)
