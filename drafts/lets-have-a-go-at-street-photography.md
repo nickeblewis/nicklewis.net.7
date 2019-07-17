@@ -1,0 +1,1 @@
+I am not a dedicated street photographer but let's give it a shot!
