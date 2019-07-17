@@ -1,0 +1,1 @@
+articles like this take time to create and edit
