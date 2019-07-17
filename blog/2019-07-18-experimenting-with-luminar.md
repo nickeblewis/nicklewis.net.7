@@ -18,9 +18,9 @@ I have been a Lightroom user for many years and can remember the days when I was
 
 ![The Glasshouse at RHS Wisley](/images/uploads/_dsc3200-800.jpeg "The Glasshouse at RHS Wisley")
 
-The above picture has had some AI enhnacements applied to it which is an area of software development that deeply fascinates me. Well delighted to see that it does a great kob with saturation and enhancing the drama we see in those clouds, nice job on the contrasts yet it maintains the relative normality and balance of the other elements of the photograph. 
+The above picture of the Glasshouse at RHS Wisley has had some AI enhnacements applied to it which is an area of software development that deeply fascinates me. Well delighted to see that it does a great kob with saturation and enhancing the drama we see in those clouds, nice job on the contrasts yet it maintains the relative normality and balance of the other elements of the photograph. 
 
-Below is a screengrab of the software's UI and shows how I quickly enhanced this image with a single slider. I could have further enhanced the photo but chose to leave it at that. Just theone filter!
+Below is a screengrab of the software's UI and shows how I quickly enhanced this image with a single slider. I could have further enhanced the photo but chose to leave it at that. Just the one filter!
 
 ![Screenshot of Luminar](/images/uploads/screenshot-2019-07-17-at-21.22.34.png "Screenshot of Luminar")
 
