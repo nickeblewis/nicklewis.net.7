@@ -1,0 +1,3 @@
+## what on earth is a headless CMS?
+
+It may sound a bit weird and trust me it has nothing to do with myths or the legends of the headless horsemen of the Apocalypse! It may be easier to explain what a normal CMS is first before going on from there...
