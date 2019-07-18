@@ -29,9 +29,9 @@ Give me a hand and make suggestions via my Twitter account @nicklewis, this arti
 - Location 1: A river
 - Location 2: Somewhere historic
 - Location 3: On the beach
-- Location 4: ????
-- Location 5: ????
-- Location 6: ????
+- Location 4: Somewhere modern
+- Location 5: Somewhere sporting
+- Location 6: Somewhere transport
 - Location 7: ????
 - Location 8: ????
 - Location 9: ????
