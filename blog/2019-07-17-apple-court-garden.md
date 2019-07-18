@@ -44,8 +44,6 @@ I will soon be publishing a similar article on the blog about Sir Harold Hillier
 
 ![Perspective of the 3 lily ponds](/images/uploads/_DSC4942.jpg "Perspective of the 3 lily ponds with the patio area at the end")
 
-_Anything I can glean from the official website_
-
 ![Lily pond](/images/uploads/_DSC4943.jpg "Lily pond")
 
 ![Lily pond](/images/uploads/_DSC4944.jpg "Lily pond")
