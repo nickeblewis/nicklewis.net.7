@@ -27,13 +27,14 @@ Please note all locations must and will comply with the "Drone Code"
 Give me a hand and make suggestions via my Twitter account @nicklewis, this article is in draft at the moment but as I gather some ideas together, I shall go and see what I can photograph. No silly suggestions (such as Gatwick) please!
 
 - Location 1: A river
+I have filmed over a river before at least once, you can see my previous video here but that's cheating, I want to shoot a new video/photo of a different river that's fairly local to me.
 - Location 2: Somewhere historic
 - Location 3: On the beach
 - Location 4: Somewhere modern
 - Location 5: Somewhere sporting
 - Location 6: Somewhere transport
-- Location 7: ????
-- Location 8: ????
+- Location 7: Derelict
+- Location 8: Industrial
 - Location 9: ????
 - Location 10: ????
 - Location 11: ????
