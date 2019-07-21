@@ -10,7 +10,9 @@ tags:
   - CMS
   - JamStack
   - Markdown
-summary: I want to document the work that I do, so that I can create better blog and marketing content to describe it to a broader audience
+summary: >-
+  I want to document the work that I do, so that I can create better blog and
+  marketing content to describe it to a broader audience
 ---
 ## JamStack
 ## JavaScript
