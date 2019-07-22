@@ -39,6 +39,11 @@ I have filmed over a river before at least once, you can see my previous video h
 * Location 7: Derelict
 * Location 8: Industrial
 * Location 9: Shipwrecks
+
+![Aerial photo of Shipwreck at Warsash, Hampshire](/images/uploads/dji_0002.jpeg "Aerial photo of Shipwreck at Warsash, Hampshire (original photo)")
+
+![Aerial photo of Shipwreck at Warsash, Hampshire](/images/uploads/dji_0002-2.jpeg "Aerial photo of Shipwreck at Warsash, Hampshire (cropped photo)")
+
 * Location 10: A Film Set
 * Location 11: ????
 * Location 12: ????
