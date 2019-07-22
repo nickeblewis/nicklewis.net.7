@@ -17,6 +17,6 @@ summary: >-
 ---
 How to build a small online store using Gridsome, Snipcart and Airtable... I found an interesting article on how to do this and then I adapted it for my own workflow and practices.
 
-\## Enter Airtable
+## Enter Airtable
 
 I must confess I have never heard of AirTable before
