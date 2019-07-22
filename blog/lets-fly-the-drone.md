@@ -39,6 +39,6 @@ I have filmed over a river before at least once, you can see my previous video h
 * Location 7: Derelict
 * Location 8: Industrial
 * Location 9: Shipwrecks
-* Location 10: ????
+* Location 10: A Film Set
 * Location 11: ????
 * Location 12: ????
