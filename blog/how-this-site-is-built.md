@@ -14,6 +14,8 @@ summary: >-
   I want to document the work that I do, so that I can create better blog and
   marketing content to describe it to a broader audience
 ---
+## Introduction
+The old nicklewis.net website was moved to nicklewis.online a little while ago, so that I can retire it to a certain degree and instead develop the site using more modern JavaScript tools.
 ## JamStack
 ## JavaScript
 ## VueJS
