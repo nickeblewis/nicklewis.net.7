@@ -10,7 +10,8 @@ tags:
   - mavic
   - england
 summary: >-
-  Trying out different ideas with the Mavic to illustrate some ideas that I hope will inspire you
+  Trying out different ideas with the Mavic to illustrate some ideas that I hope
+  will inspire you
 ---
 ## Drone Photography - let's do it!
 
@@ -26,24 +27,23 @@ Please note all locations must and will comply with the "Drone Code"
 
 Give me a hand and make suggestions via my Twitter account @nicklewis, this article is in draft at the moment but as I gather some ideas together, I shall go and see what I can photograph. No silly suggestions (such as Gatwick) please!
 
-- Location 1: A river
+* Location 1: A river
 
 I have filmed over a river before at least once, you can see my previous video here but that's cheating, I want to shoot a new video/photo of a different river that's fairly local to me.
 
-- Location 2: Somewhere historic
-- Location 3: On the beach
-- Location 4: Somewhere modern
-- Location 5: Somewhere sporting
-- Location 6: Somewhere transport
-- Location 7: Derelict
-- Location 8: Industrial
-- Location 9: ????
-- Location 10: ????
-- Location 11: ????
-- Location 12: ????
+* Location 2: Somewhere historic
+* Location 3: On the beach
+* Location 4: Somewhere modern
+* Location 5: Somewhere sporting
+* Location 6: Somewhere transport
+* Location 7: Derelict
+* Location 8: Industrial
+* Location 9: Shipwrecks
 
-Total time taken in days, well started planning this out 18/07/19
+![Aerial photo of Shipwreck at Warsash, Hampshire](/images/uploads/dji_0002.jpeg "Aerial photo of Shipwreck at Warsash, Hampshire (original photo)")
 
-Miles travelled!
+![Aerial photo of Shipwreck at Warsash, Hampshire](/images/uploads/dji_0002-2.jpeg "Aerial photo of Shipwreck at Warsash, Hampshire (cropped photo)")
 
-Now it's your turn, so long as you have a drone of course!
+* Location 10: A Film Set
+* Location 11: ????
+* Location 12: ????
