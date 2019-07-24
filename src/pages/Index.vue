@@ -70,8 +70,12 @@
             <div class="text-lg text-gray-600">Further up this page you will have seen me mention <a href="https://nicklewis.photo">nicklewis.photo</a> which is one of my projects with a distinct portfolio look and feel about it. There is a fairly lightweight blog there too. It was built using GatsbyJS and like all of my sites now, is hosted on Netlify in conjunction with the Sanity.io CMS (which is superb by the way).</div>
           </li>
           <li class="checkmark mb-6">
+            <div>headforcode.com</div>
+            <div class="text-lg text-gray-600">I have been working on the concepts for a project known as <a href="https://headforcode.com">headforcode.com</a> for a while and the aim will be to help people learn more about code, the art of coding and how you can achieve so much with something as ubiquitous as the browser you have on your computer or the phone in your pocket. So it will be a tutorial site with content you'd either subscribe to or donate to via Patreon. Decision to be made there. Oh and the website at the moment is a bit of a placeholder to be frank...</div>
+          </li>
+          <li class="checkmark mb-6">
             <div>Nfolio</div>
-            <div class="text-lg text-gray-600">Many years ago I ran another version of this site but I must have shut it down around 2010, if not before. I have recently rekindled the domain which I never closed and have started creating a new version at <a href="https://www.nfolio.com">nfolio.com</a>. I am building this site with Nuxt, Vue, Sanity and Netlify. It allows people to buy prints from my extensive range of photos, taken from Hampshire to Rome.</div>
+            <div class="text-lg text-gray-600">Many years ago I ran another version of a site I called Nfolio but I must have shut it down around 2010, if not before. I have recently rekindled the domain which I never closed and have started creating a new version at <a href="https://www.nfolio.com">nfolio.com</a>. I am building this site with Nuxt, Vue, Sanity and Netlify. It allows people to buy prints from my extensive range of photos, taken from Hampshire to Rome.</div>
           </li>
           <!-- <li class="checkmark mb-6">
             <div>Headforcode</div>

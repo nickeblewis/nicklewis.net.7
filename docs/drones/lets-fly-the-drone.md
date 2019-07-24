@@ -1,6 +1,6 @@
 ---
-title: Let's fly the Drone
-path: drafts/lets-fly-the-drone
+title: Finding Locations
+path: drones/finding-locations
 date: 2019-07-19T13:22:01.518Z
 tags:
   - aerial

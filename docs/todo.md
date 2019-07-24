@@ -1,6 +1,6 @@
 ---
 title: Todo
-path: docs/todo
+path: todo
 date: 2019-06-28
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
 tags: ['todo']
@@ -9,7 +9,7 @@ tags: ['todo']
 ## Stuff to set up
 - [*] google sitemap
   - [*] must include docs as well as blog
-- [ ] google analytics
+- [ ] google analytics - isn't this one done?
 - [ ] docs requires it's own template but base it on blog to start with
 - [*] change the tags for this article and get docs covered by tags in the build
 - [ ] get the contact form working on Netlify
@@ -22,7 +22,7 @@ tags: ['todo']
 
 ## General
 - Tree shaking what is it?
-- patreon
+- patreon - for what?
 - github sponsorship (what?)
   - develop gridsome/gatsby plugins perhaps for which I could seek sponsorship?
 - https://gridsome.org/plugins/gridsome-plugin-netlify-cms 
