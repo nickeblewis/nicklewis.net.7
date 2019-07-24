@@ -27,21 +27,24 @@ Please note all locations must and will comply with the "Drone Code"
 
 Give me a hand and make suggestions via my Twitter account @nicklewis, this article is in draft at the moment but as I gather some ideas together, I shall go and see what I can photograph. No silly suggestions (such as Gatwick) please!
 
-* Location 1: A river
-
-I have filmed over a river before at least once, you can see my previous video here but that's cheating, I want to shoot a new video/photo of a different river that's fairly local to me.
-
-* Location 2: Somewhere historic
-* Location 3: On the beach
-* Location 4: Somewhere modern
-* Location 5: Somewhere sporting
-* Location 6: Somewhere transport
-* Location 7: Derelict
-* Location 8: Industrial
-* Location 9: Shipwrecks
+* Location 1: Shipwrecks
 
 ![Aerial photo of Shipwreck at Warsash, Hampshire](/images/uploads/dji_0002.jpeg "Aerial photo of Shipwreck at Warsash, Hampshire (original photo)")
 
 ![Aerial photo of Shipwreck at Warsash, Hampshire](/images/uploads/dji_0002-2.jpeg "Aerial photo of Shipwreck at Warsash, Hampshire (cropped photo)")
+
+## More coming soon (hopefully)
+
+* Location 2: A river
+
+I have filmed over a river before at least once, you can see my previous video here but that's cheating, I want to shoot a new video/photo of a different river that's fairly local to me.
+
+* Location 3: Somewhere historic
+* Location 4: On the beach
+* Location 5: Somewhere modern
+* Location 6: Somewhere sporting
+* Location 7: Somewhere transport
+* Location 8: Derelict
+* Location 9: Industrial
 
 * Location 10: A Film Set
