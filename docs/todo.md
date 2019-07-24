@@ -7,17 +7,15 @@ tags: ['todo']
 ---
 
 ## Stuff to set up
-- [*] google sitemap
-  - [*] must include docs as well as blog
+- [x] google sitemap  
 - [ ] google analytics - isn't this one done?
 - [ ] docs requires it's own template but base it on blog to start with
-- [*] change the tags for this article and get docs covered by tags in the build
+- [x] change the tags for this article and get docs covered by tags in the build
 - [ ] get the contact form working on Netlify
-    - [ ] do I get emails? Are the forms captured within Netlify?
-- [*] as soon as poss map my domain to this
+- [x] as soon as poss map my domain to this
 - [ ] snipcart purchase button underneath each image ;-) see if I can work out a way...
 - [ ] blog content themes
-    - Stock photography diary
+- [ ] Stock photography diary
 - https://snipcart.com/vue-ecommerce
 
 ## General
