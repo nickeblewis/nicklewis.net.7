@@ -8,10 +8,10 @@ tags: ['todo']
 
 ## Stuff to set up
 - [x] google sitemap  
-- [ ] google analytics - isn't this one done?
-- [ ] docs requires it's own template but base it on blog to start with
+- [x] google analytics - isn't this one done?
+- [x] docs requires it's own template but base it on blog to start with
 - [x] change the tags for this article and get docs covered by tags in the build
-- [ ] get the contact form working on Netlify
+- [x] get the contact form working on Netlify
 - [x] as soon as poss map my domain to this
 - [ ] snipcart purchase button underneath each image ;-) see if I can work out a way...
 - [ ] blog content themes
