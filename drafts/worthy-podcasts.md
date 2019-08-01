@@ -1,4 +1,7 @@
 future of photography
+Syntax
+Startups for the rest of us
+Fully Charged
 
 related
 

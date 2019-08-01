@@ -7,10 +7,14 @@ tags: ['todo']
 ---
 
 ## Stuff to set up
+- [ ] Update Gridsome from 0.6.4 to latest and what changes does that bring update current blog journal
+- [ ] I want to make my home apge more of a personal tone, like Kent C dodds and to appeal as a mentor and teacher as much as a faceless business
+- [ ] Slack channel headforcode
+- [ ] Add something to any of my "incomplete" content pages that are there as placeholders to allow people to make contributions to them or to be updated when they are actually published?
 - [x] google sitemap  
 - [x] google analytics - isn't this one done?
-- [x] docs requires it's own template but base it on blog to start with
-- [x] change the tags for this article and get docs covered by tags in the build
+- [x] content requires it's own template but base it on blog to start with
+- [x] change the tags for this article and get content covered by tags in the build
 - [x] get the contact form working on Netlify
 - [x] as soon as poss map my domain to this
 - [ ] snipcart purchase button underneath each image ;-) see if I can work out a way...

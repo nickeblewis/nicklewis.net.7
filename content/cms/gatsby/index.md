@@ -1,6 +1,6 @@
 ---
 title: Gatsby
-path: docs/cms/gatsby
+path: cms/gatsby
 date: 2019-06-28
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
 tags: ['frontend', 'coding', 'vue']

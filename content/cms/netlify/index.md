@@ -1,12 +1,10 @@
 ---
-title: terte656546
-path: docs/photography/sony
-date: 2019-04-03
+title: Netlify
+path: cms/netlify
+date: 2019-06-28
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
 tags: ['frontend', 'coding', 'vue']
 ---
-
-![background](./images/blog_bg_3.jpg)
 
 An h1 header
 ============

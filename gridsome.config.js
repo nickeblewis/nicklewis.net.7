@@ -57,7 +57,7 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'docs/**/*.md',
+        path: 'content/**/*.md',
         typeName: 'Doc',
         refs: {
           tags: {

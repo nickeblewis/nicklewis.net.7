@@ -2,7 +2,7 @@
   <Layout>
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
-        <div class="leading-tight">Digital Consultancy</div>
+        <div class="leading-tight">Consultancy</div>
         <div class="text-green-700 leading-tight">CMS</div>
         <div class="text-green-700 leading-tight">Code</div>
         <div class="text-green-700 leading-tight">Content</div>
@@ -40,7 +40,7 @@
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
             <div>CMS/Web Development</div>
-            <div class="text-lg text-gray-600">Content Management Systems need not be daunting and that is why we work with lightweight, easy to learn, simple to use systems that can help us collaborate. Take for example <a href="/docs/cms/netlify">Netlify CMS</a> and I am also a Javascript Developer, highly experienced with frameworks such as Vue and React.</div>
+            <div class="text-lg text-gray-600">Content Management Systems need not be daunting and that is why we work with lightweight, easy to learn, simple to use systems that can help us collaborate. Take for example <a href="cms/netlify">Netlify CMS</a> and I am also a Javascript Developer, highly experienced with frameworks such as Vue and React.</div>
           </li>
           <li class="checkmark mb-6">
             <div>Content Writing</div>

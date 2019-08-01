@@ -14,7 +14,7 @@
       </div>
       <div class="markdown-body mb-8" v-html="$page.doc.content" />
       <div class="mb-8">
-        <g-link to="/docs" class="font-bold uppercase">Back to Blog</g-link>
+        <g-link to="/content" class="font-bold uppercase">Back to Blog</g-link>
       </div>
     </div>
   </Layout>
