@@ -16,8 +16,8 @@
       <div class="mb-8">
         <g-link to="/content" class="font-bold uppercase">Back to Blog</g-link>
       </div>
+      <vue-disqus shortname="nicklewis-net" :identifier="$page.doc.title"></vue-disqus>
     </div>
-    <vue-disqus shortname="nicklewis-net" :identifier="$page.doc.title"></vue-disqus>
   </Layout>
 </template>
 
