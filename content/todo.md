@@ -150,6 +150,7 @@ mentions:
 - vue-bootstrap, fabric, toast editor and wot-not
 - what kind of app can I build that is loosely based on the architecture of form builder (clearbox), so that I carry on some of the knowledge and skills learnt here before October
     - Now I do already have an older version of it on my mac does this still build ok, then use that as a guide to build some form of bootstrap, push to Git, document here on this site and share. I think this will be very valuable
+    - drop Lee a line and share github with him
 - nativescript vue sounds intriguing
 - CV
 - Github - projects to use
