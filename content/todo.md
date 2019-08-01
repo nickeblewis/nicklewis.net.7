@@ -1,38 +1,38 @@
 ---
-title: Todo
+title: Road Map, Tasks and Business Plan
 path: todo
-date: 2019-06-28
-summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
-tags: ['todo']
+date: 2019-08-01
+summary: My summary
+tags: ['business plan', 'road map']
 ---
 
-# Main
+I have discovered how Markdown in conjunction with the fabulous Visual Studio Code is helping me structure my thoughts in ways that traditional todo apps and note taking apps don't achieve. That said though Bear, IA Writer and Ulysses are all really good and can be exported as Markdown. So I feel that these tools are all very closely aligned.
 
-## Screencasts
-[ ] - Short screencasts to show off stuff I think is great in the devtools I use, starting with VS Code and it's new breadscrumbs feature and how it works so well with markdown documents like this one - then tweet both the website link here and the actual video directly
+This document started life as "Todo" though I am now doubting this title, for it is a file where I dump my initial business ideas, thoughts, even tasks and from this I _incubate_ things from the tiny seeds of ideas into fully fledged projects, whether it is code or photography.
 
-## Tasks
+# Tasks
 
-Income streams in additon to contracts
-[ ] - Tidy up this document and make it more useful and even shareable! I could scan through the content folder and mapt out what needs doing to complete the ideas I have come up with and a better structure for the folders that we can stick with more reliably. permalinks matter for SEO purposes
-[ ] - /screencasts/how i edit this site - write the transcript and record the video :-)
-[ ] - check up on my search console, looking like its ramping up and do some test searches on Google, review the clicks and what the keywords were for them
+- [ ] Income streams in addition to contracts
 
-Hmmm - just drilled down to the clicks for this and it may be referring to my old site? However I could translate some of the old content from wordpress to markdown, such as the red kites article? 
+- [ ] Tidy up this document and make it more useful and even shareable! I could scan through the content folder and map out what needs doing to complete the ideas I have come up with and a better structure for the folders that we can stick with more reliably. permalinks matter for SEO purposes
+- [ ] /screencasts/how i edit this site - write the transcript and record the video :-)
+- [ ] check up on my search console, looking like its ramping up and do some test searches on Google, review the clicks and what the keywords were for them
 
-[ ] - maybe delete properties in search console for nicklewis.net and start again
+Hmmm - just drilled down to the clicks for this and it may be referring to my old site? However I could translate some of the old content from Wordpress to markdown, such as the red kites article? 
 
-[ ] - Disqus would be great too
+- [ ] maybe delete properties in search console for nicklewis.net and start again
 
-softwarebyrob.com
+- [ ] Disqus would be great too
 
-[ ] - move my mugshot to the top, should be opener
+- [ ] softwarebyrob.com
 
-[ ] - continue content development, find ways of managing it better, though doing it all through VS Code like this seems to be a beautiful way :-)
-### Stuff to set up
+- [ ] move my mugshot to the top, should be opener
+
+- [ ] continue content development, find ways of managing it better, though doing it all through VS Code like this seems to be a beautiful way :-)
+
 - [ ] Update Gridsome from 0.6.4 to latest and what changes does that bring update current blog journal
-- [ ] I want to make my home apge more of a personal tone, like Kent C dodds and to appeal as a mentor and teacher as much as a faceless business
-- [ ] Slack channel headforcode
+- [ ] I want to make my home page more of a personal tone, like Kent C dodds and to appeal as a mentor and teacher as much as a faceless business
+- [ ] Slack channel HeadForCode
 - [ ] Add something to any of my "incomplete" content pages that are there as placeholders to allow people to make contributions to them or to be updated when they are actually published?
 - [x] google sitemap  
 - [x] google analytics - isn't this one done?
@@ -40,62 +40,98 @@ softwarebyrob.com
 - [x] change the tags for this article and get content covered by tags in the build
 - [x] get the contact form working on Netlify
 - [x] as soon as poss map my domain to this
-- [ ] snipcart purchase button underneath each image ;-) see if I can work out a way...
+- [ ] Snipcart purchase button underneath each image ;-) see if I can work out a way...
 - [ ] blog content themes
 - [ ] Stock photography diary
-- https://snipcart.com/vue-ecommerce
+- [ ] https://snipcart.com/vue-ecommerce
 
-## Read up on more
-- Tree shaking what is it?
-## General
 
-- patreon - for what?
-- github sponsorship (what?)
-  - develop gridsome/gatsby plugins perhaps for which I could seek sponsorship?
-- https://gridsome.org/plugins/gridsome-plugin-netlify-cms 
-  - Install for this site and see how it goes
-- SEO tags for these pages
-  - Noted that nicklewis.photo searches for aldershot festival yield nothing, so need to master how this works
+- [ ] Tree shaking what is it?
+
+
+- [ ] scss in vue
+- [ ] tailwind Gridsome grids for photos
+- [ ] vue-bootstrap, fabric, toast editor and wot-not
+
+- [ ] nativescript vue sounds intriguing
+- [ ] CV
+- [ ] Github -projects to use
+- [ ] JSFiddle, Codepen and what are the other great alternatives out there. Plus what we use on this site for code documentation
+- [ ] Modify the readme for this project to reflect what I am doing with nicklewis.net
+- [ ] change the graphics on my homepage to be more personal to me
+- [ ] Patreon -for what?
+- [ ] github sponsorship (what?)
+  - [ ] develop gridsome/gatsby plugins perhaps for which I could seek sponsorship?
+- [ ] https://gridsome.org/plugins/gridsome-plugin-netlify-cms 
+  - [ ] Install for this site and see how it goes
+- [ ] SEO tags for these pages
+  - [ ] Noted that nicklewis.photo searches for aldershot festival yield nothing, so need to master how this works
 
 https://www.patreon.com/sindresorhus
 https://help.github.com/en/articles/displaying-a-sponsor-button-in-your-repository
 https://www.patreon.com/FullyChargedShow
-https://gridsome.org/plugins/gridsome-plugin-netlify-cms - there is a step-by-step guide on their site
+https://gridsome.org/plugins/gridsome-plugin-netlify-cms -there is a step-by-step guide on their site
 Courses, tutorials etc
 
 ## Vue JS
 
 Stuff to watch out for at the moment
 
-- VueJS 2 - 3 migration path
-- vue-bootstrap 
+- [ ] VueJS 2 -3 migration path
+- [ ] vue-bootstrap 
 
 ## GitHub
 
 Notes on my GitHub account
 
 https://github.com/LinusBorg/portal-vue
-https://github.com/nickeblewis/nicklewis.net.7/settings - could set up sponsors if I wanted to
+https://github.com/nickeblewis/nicklewis.net.7/settings -could set up sponsors if I wanted to
 
 ## Content for this website
-- Article about my workflow with LR, external drives etc
+- [ ] Article about my workflow with LR, external drives etc
 ### Development
 ### CMS
-- Getting up and running with gridsome with netlify CMS (video screencast)
-  - Vimeo for my coding screencasts
-  - YT for photography, video and exploring the world
+- [ ] Getting up and running with gridsome with netlify CMS (video screencast)
+  - [ ] Vimeo for my coding screencasts
+  - [ ] YT for photography, video and exploring the world
 ### Photography
-- Drone
-- Photographic techniques and LR included
+- [ ] Drone
+- [ ] Photographic techniques and LR included
 
 ### Next Location/Topic
-- Can't decide!
+- [ ] Can't decide!
 
 
 Sunny 16?
 Stories from my archives
 Wes Bos and Scott Tolinski
 
+# Applications I am planning to build
+
+## HeadForCode
+
+* I am going to base this on the copy of form builder that I have
+* Will work out how I plan to use it, even if it is just for structural guidance and nothing else
+* I plan to build a platform that could be used for other tutorial sites besides HeadForCode
+* The application will allow you to build courses and publish them online to subscribing customers
+
+### Databases, API and back-end?
+
+I am thinking along the lines of something that outputs GraphQL
+
+## Tina's site 
+
+* Not yet named but it could use the same tool that HeadForCode uses as described above??
+
+# Nicklewis.net
+
+So what we have right now is this lovely website....
+
+## Screencasts
+
+- [ ] Short screencasts to show off stuff I think is great in the devtools I use, starting with VS Code and it's new breadcrumbs feature and how it works so well with markdown documents like this one - then tweet both the website link here and the actual video directly
+
+# External Links
 ## startups for the rest of us: ep. 452
 mentions:
 - bootstrapped web - is that a podcast?
@@ -112,10 +148,15 @@ mentions:
 
 - npm list
 
-# External components documentation
+# Form builder notes
+
+I want to take away some stuff with me, I know I have until October but there is so much to glean from this project that I want to capture some notes of my own. A lot of this should probably go on a page of it's own but for now, I am dumping things on this markdown page.
+
+## General
+### External components documentation
 * [axios](https://github.com/axios/axios)
 * [axios-extensions](https://github.com/kuitos/axios-extensions)
-* [bootstrap-vue](https://bootstrap-vue.js.org/docs/) - CSS Bottstrap in Vue style
+* [bootstrap-vue](https://bootstrap-vue.js.org/docs/) - CSS Bootstrap in Vue style
 * [kendo-vue-grid](https://www.telerik.com/kendo-vue-ui/components/grid-native/) - Kendo Grid
 * [quill-image-resize-module](https://www.npmjs.com/package/quill-image-resize-module) - Image Resize Quill Module
 * [v-calendar](https://github.com/nathanreyes/v-calendar) - Popup Calendar
@@ -129,14 +170,14 @@ mentions:
 * [Toast UI Image Editor](https://github.com/nhn/tui.image-editor) 
 *    To run Tost UI Image Editor is necessary to install fabric dependency: npm install --no-save --no-optional fabric@~1.6.7
 
-## PWA
+### PWA
 * Vue-cli 3.0+ necessary, to install or update: npm install -g @vue/cli
 * To install PWA: vue add @vue/pwa
 * Basic tutorial: (https://naturaily.com/blog/pwa-vue-cli-3)
 * For configuration [WorkBox] is used (internal dependency of @vue/pwa)
 * Details: (https://developers.google.com/web/tools/workbox/guides/generate-service-worker/webpack)
 
-## API MOCK
+### API MOCK
 * In the development environment is used the JSON-Server, an REST APIs emulator
 * Because of the way the API was built, a number of settings were required for the emulator to behave exactly like the API
 * The file [src/mock_api/server.js] control the API emulator, and the file [src/mock_api/db.json] contains all api mock data
@@ -147,15 +188,4 @@ mentions:
 ## Future Implementation
 * [vue-i18n](https://github.com/kazupon/vue-i18n/)
 
-- scss in vue
-- tailwind gridsome grids for photos
-- vue-bootstrap, fabric, toast editor and wot-not
-- what kind of app can I build that is loosely based on the architecture of form builder (clearbox), so that I carry on some of the knowledge and skills learnt here before October
-    - Now I do already have an older version of it on my mac does this still build ok, then use that as a guide to build some form of bootstrap, push to Git, document here on this site and share. I think this will be very valuable
-    - drop Lee a line and share github with him
-- nativescript vue sounds intriguing
-- CV
-- Github - projects to use
-- JSFiddle, codepen and what are the other great alternatives out there. Plus what we use on this site for code documentaion
-- Modify the readme for this project to reflect what I am doing with nicklewis.net
-- change the graphics on my homepage to be more personal to me
+
