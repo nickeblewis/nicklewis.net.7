@@ -6,6 +6,7 @@ summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earu
 tags: ['todo']
 ---
 
+[ ] - Tidy up this document and make it more useful and even shareable!
 [ ] - /screencasts/how i edit this site - write the transcript and record the video :-)
 [ ] - check up on my search console, looking like its ramping up and do some test searches on Google, review the clicks and what the keywords were for them
 
@@ -84,3 +85,52 @@ https://github.com/nickeblewis/nicklewis.net.7/settings - could set up sponsors 
 Sunny 16?
 Stories from my archives
 Wes Bos and Scott Tolinski
+
+## startups for the rest of us: ep. 452
+mentions:
+- bootstrapped web - is that a podcast?
+- clickcart
+- interviewee is interesting, keeps 12 month cash up front
+
+## new stuff discovered
+
+- Vue draggable which we use at clearbox https://github.com/SortableJS/Vue.Draggable/issues/324
+
+## to find out
+
+- npm list
+
+# External components documentation
+* [axios](https://github.com/axios/axios)
+* [axios-extensions](https://github.com/kuitos/axios-extensions)
+* [bootstrap-vue](https://bootstrap-vue.js.org/docs/) - CSS Bottstrap in Vue style
+* [kendo-vue-grid](https://www.telerik.com/kendo-vue-ui/components/grid-native/) - Kendo Grid
+* [quill-image-resize-module](https://www.npmjs.com/package/quill-image-resize-module) - Image Resize Quill Module
+* [v-calendar](https://github.com/nathanreyes/v-calendar) - Popup Calendar
+* [vue-quill](https://www.npmjs.com/package/vue-quill) - Vue wrapper for [Quill](https://quilljs.com/)
+* [vue-signature](https://www.npmjs.com/package/vue-signature) - SVG Signature
+* [vue-drag-resize](https://github.com/kirillmurashov/vue-drag-resize/) - Drag and Resize
+* [vue-js-toggle-button](https://github.com/euvl/vue-js-toggle-button) - Switch/Toggle Button
+* [vue-tour](https://pulsar.gitbooks.io/vue-tour/)
+* [vuedraggable](https://www.npmjs.com/package/vuedraggable) - Vue wrapper for [SortableJS](https://github.com/SortableJS/Sortable)
+* [concurrently](https://github.com/kimmobrunfeldt/concurrently)
+* [Toast UI Image Editor](https://github.com/nhn/tui.image-editor) 
+*    To run Tost UI Image Editor is necessary to install fabric dependency: npm install --no-save --no-optional fabric@~1.6.7
+
+## PWA
+* Vue-cli 3.0+ necessary, to install or update: npm install -g @vue/cli
+* To install PWA: vue add @vue/pwa
+* Basic tutorial: (https://naturaily.com/blog/pwa-vue-cli-3)
+* For configuration [WorkBox] is used (internal dependency of @vue/pwa)
+* Details: (https://developers.google.com/web/tools/workbox/guides/generate-service-worker/webpack)
+
+## API MOCK
+* In the development environment is used the JSON-Server, an REST APIs emulator
+* Because of the way the API was built, a number of settings were required for the emulator to behave exactly like the API
+* The file [src/mock_api/server.js] control the API emulator, and the file [src/mock_api/db.json] contains all api mock data
+* [JSON-Server] project and documentation: (https://github.com/typicode/json-server)
+* JSON-Server uses [db.low] to manage its database in JSON. 
+  * If be necessary to interact directly with JSON, more information can be found at: (https://github.com/typicode/lowdb)
+
+## Future Implementation
+* [vue-i18n](https://github.com/kazupon/vue-i18n/)
