@@ -6,6 +6,20 @@ summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earu
 tags: ['todo']
 ---
 
+[ ] - /screencasts/how i edit this site - write the transcript and record the video :-)
+[ ] - check up on my search console, looking like its ramping up and do some test searches on Google, review the clicks and what the keywords were for them
+
+Hmmm - just drilled down to the clicks for this and it may be referring to my old site? However I could translate some of the old content from wordpress to markdown, such as the red kites article? 
+
+[ ] - maybe delete properties in search console for nicklewis.net and start again
+
+[ ] - Disqus would be great too
+
+softwarebyrob.com
+
+[ ] - move my mugshot to the top, should be opener
+
+[ ] - continue content development, find ways of managing it better, though doing it all through VS Code like this seems to be a beautiful way :-)
 ## Stuff to set up
 - [ ] Update Gridsome from 0.6.4 to latest and what changes does that bring update current blog journal
 - [ ] I want to make my home apge more of a personal tone, like Kent C dodds and to appeal as a mentor and teacher as much as a faceless business

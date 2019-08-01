@@ -3,6 +3,11 @@ I have decided to write these as monthly journals coverin everything from what I
 ## Health
 
 Been a downer 
+
 ## Contracting at Clearbox
 
 Still going strong, project approaching release and I love Vue JS
+
+## Building content for the JamStack
+
+- How I build this site using Visual Studio Code and no CMS tool [I will create a screencast for it](/screencasts/how-i-edit-this-site)
