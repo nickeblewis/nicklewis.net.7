@@ -101,6 +101,8 @@ mentions:
 - bootstrapped web - is that a podcast?
 - clickcart
 - interviewee is interesting, keeps 12 month cash up front
+### ep. 453
+- Ambassador?
 
 ## new stuff discovered
 
