@@ -6,7 +6,15 @@ summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earu
 tags: ['todo']
 ---
 
-[ ] - Tidy up this document and make it more useful and even shareable!
+# Main
+
+## Screencasts
+[ ] - Short screencasts to show off stuff I think is great in the devtools I use, starting with VS Code and it's new breadscrumbs feature and how it works so well with markdown documents like this one - then tweet both the website link here and the actual video directly
+
+## Tasks
+
+
+[ ] - Tidy up this document and make it more useful and even shareable! I could scan through the content folder and mapt out what needs doing to complete the ideas I have come up with and a better structure for the folders that we can stick with more reliably. permalinks matter for SEO purposes
 [ ] - /screencasts/how i edit this site - write the transcript and record the video :-)
 [ ] - check up on my search console, looking like its ramping up and do some test searches on Google, review the clicks and what the keywords were for them
 
@@ -21,7 +29,7 @@ softwarebyrob.com
 [ ] - move my mugshot to the top, should be opener
 
 [ ] - continue content development, find ways of managing it better, though doing it all through VS Code like this seems to be a beautiful way :-)
-## Stuff to set up
+### Stuff to set up
 - [ ] Update Gridsome from 0.6.4 to latest and what changes does that bring update current blog journal
 - [ ] I want to make my home apge more of a personal tone, like Kent C dodds and to appeal as a mentor and teacher as much as a faceless business
 - [ ] Slack channel headforcode
@@ -37,8 +45,10 @@ softwarebyrob.com
 - [ ] Stock photography diary
 - https://snipcart.com/vue-ecommerce
 
-## General
+## Read up on more
 - Tree shaking what is it?
+## General
+
 - patreon - for what?
 - github sponsorship (what?)
   - develop gridsome/gatsby plugins perhaps for which I could seek sponsorship?
@@ -134,3 +144,15 @@ mentions:
 
 ## Future Implementation
 * [vue-i18n](https://github.com/kazupon/vue-i18n/)
+
+- scss in vue
+- tailwind gridsome grids for photos
+- vue-bootstrap, fabric, toast editor and wot-not
+- what kind of app can I build that is loosely based on the architecture of form builder (clearbox), so that I carry on some of the knowledge and skills learnt here before October
+    - Now I do already have an older version of it on my mac does this still build ok, then use that as a guide to build some form of bootstrap, push to Git, document here on this site and share. I think this will be very valuable
+- nativescript vue sounds intriguing
+- CV
+- Github - projects to use
+- JSFiddle, codepen and what are the other great alternatives out there. Plus what we use on this site for code documentaion
+- Modify the readme for this project to reflect what I am doing with nicklewis.net
+- change the graphics on my homepage to be more personal to me
