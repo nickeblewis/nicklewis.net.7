@@ -130,6 +130,7 @@ So what we have right now is this lovely website....
 ## Screencasts
 
 - [ ] Short screencasts to show off stuff I think is great in the devtools I use, starting with VS Code and it's new breadcrumbs feature and how it works so well with markdown documents like this one - then tweet both the website link here and the actual video directly
+- [ ] I review some of my favourite website UIs and I have just created a new page here that goes into further plans for this idea, as I want to shortlist the sites that inspire me and how I would go about creating similar UI features using Vue. See [Screencasts Todo list](screencasts/todo)
 
 # External Links
 ## startups for the rest of us: ep. 452
@@ -187,5 +188,4 @@ I want to take away some stuff with me, I know I have until October but there is
 
 ## Future Implementation
 * [vue-i18n](https://github.com/kazupon/vue-i18n/)
-
 
