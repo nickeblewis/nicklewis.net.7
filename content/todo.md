@@ -13,7 +13,8 @@ This document started life as "Todo" though I am now doubting this title, for it
 # Tasks
 
 - [ ] Income streams in addition to contracts
-
+- [ ] what is vue fuse
+- [ ] sign up for netlify analytics
 - [ ] Tidy up this document and make it more useful and even shareable! I could scan through the content folder and map out what needs doing to complete the ideas I have come up with and a better structure for the folders that we can stick with more reliably. permalinks matter for SEO purposes
 - [ ] /screencasts/how i edit this site - write the transcript and record the video :-)
 - [ ] check up on my search console, looking like its ramping up and do some test searches on Google, review the clicks and what the keywords were for them
