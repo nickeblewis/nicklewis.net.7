@@ -21,7 +21,7 @@ export default function (Vue, { router, head, isClient }) {
   Vue.use(VueDisqus)
 
   Vue.use(VueFbCustomerChat, {
-    page_id: 652793048464782, //  change 'null' to your Facebook Page ID,
+    page_id: 182108598496942, //  change 'null' to your Facebook Page ID,
     theme_color: '#333333', // theme color in HEX
     location: 'en_US', // default 'en_US'
   })
