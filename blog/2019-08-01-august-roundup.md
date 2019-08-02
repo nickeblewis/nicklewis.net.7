@@ -12,7 +12,7 @@ Still going strong, project approaching release and I love Vue JS
 # New Content
 ## Building content for the JamStack
 
-- How I build this site using Visual Studio Code and no CMS tool [I will create a screencast for it](/screencasts/how-i-edit-this-site)
+- How I build this site using Visual Studio Code and no CMS tool [I will create a screencast for it](screencasts/how-i-edit-this-site)
 - [This link doesn't exist](/screencasts/newfile)
 
 # Food and Drink
@@ -40,3 +40,6 @@ some things made with it etc
 
 # Todo
 - [ ] Fix the share to social media thing, add cover image which is used for the OG wotsit
+- [ ] https://github.com/gridsome/gridsome/tree/master/packages/transformer-remark
+  - [ ] https://github.com/remarkjs/remark/blob/master/doc/plugins.md#list-of-plugins
+  - [ ] May need this one remark-relative-links
