@@ -13,21 +13,30 @@ Still going strong, project approaching release and I love Vue JS
 ## Building content for the JamStack
 
 - How I build this site using Visual Studio Code and no CMS tool [I will create a screencast for it](/screencasts/how-i-edit-this-site)
+- [This link doesn't exist](/screencasts/newfile)
 
 # Food and Drink
 ## The Gin Club 
 
 ![Gin Club](/images/uploads/IMG_1214.jpg "Craft Gin Club")
 ![My photo taken for Twitter the other day of my Gin Club delivery]{}
-@craftginclub
+@craftginclub (check tjhis is right)
 
 Manly Spirits from Australia
 
 some things made with it etc
 
 # Travel
+## Cambridge in September
+## Forest of Dean & Wye Valley this Autumn
 ## Heading for South Africa in 2020
 
 # Photography
 
 ## Wisley
+
+# Links of the month
+[Gin Club]()
+
+# Todo
+- [ ] Fix the share to social media thing, add cover image which is used for the OG wotsit
