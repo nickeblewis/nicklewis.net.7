@@ -6,6 +6,8 @@ tags:
   - birds
   - red kites
   - reintroduction
+  - hampshire
+  - england
 summary: >-
   Its funny how one very small post I made on this blog earlier this year has sparked off quite a few comments about Red Kite
 ---

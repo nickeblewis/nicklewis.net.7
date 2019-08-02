@@ -5,6 +5,7 @@ import DefaultLayout from '~/layouts/Default.vue'
 import VueScrollTo from 'vue-scrollto'
 import VueFuse from 'vue-fuse'
 import VueDisqus from 'vue-disqus'
+import VueFbCustomerChat from 'vue-fb-customer-chat'
 
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
@@ -18,6 +19,12 @@ export default function (Vue, { router, head, isClient }) {
   Vue.use(VueFuse)
 
   Vue.use(VueDisqus)
+
+  Vue.use(VueFbCustomerChat, {
+    page_id: '180890019477367', //  change 'null' to your Facebook Page ID,
+    theme_color: '#333333', // theme color in HEX
+    location: 'en_US', // default 'en_US'
+  })
 
   head.meta.push({
     name: 'keywords',

@@ -20,6 +20,7 @@
     "lodash.pick": "^4.4.0",
     "netlify-cms": "^2.9.4",
     "vue-disqus": "^3.0.5",
+    "vue-fb-customer-chat": "^0.1.4",
     "vue-fuse": "^2.1.0",
     "vue-scrollto": "^2.15.0"
   },

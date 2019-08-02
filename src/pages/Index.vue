@@ -39,7 +39,7 @@
         <ul class="text-lg sm:text-xl">
           <li class="checkmark mb-6">
             <div>CMS/Web Development</div>
-            <div class="text-lg text-gray-600">Content Management Systems need not be daunting and that is why we work with lightweight, easy to learn, simple to use systems that can help us collaborate. Take for example <a href="cms/netlify">Netlify CMS</a> and I am also a Javascript Developer, highly experienced with frameworks such as Vue and React.</div>
+            <div class="text-lg text-gray-600">Content Management Systems need not be daunting and that is why we work with lightweight, easy to learn, simple to use systems that can help us collaborate. Take for example Netlify CMS and I am also a Javascript Developer, highly experienced with frameworks such as Vue and React.</div>
           </li>
           <li class="checkmark mb-6">
             <div>Content Writing</div>
