@@ -36,10 +36,11 @@ some things made with it etc
 ## Wisley
 
 # Links of the month
-[Gin Club]()
+[The Craft Gin Club](https://craftginclub.co.uk)
 
 # Todo
 - [ ] Fix the share to social media thing, add cover image which is used for the OG wotsit
 - [ ] https://github.com/gridsome/gridsome/tree/master/packages/transformer-remark
   - [ ] https://github.com/remarkjs/remark/blob/master/doc/plugins.md#list-of-plugins
   - [ ] May need this one remark-relative-links
+  - [ ] Evolving my process as a content creator, writer and dev
