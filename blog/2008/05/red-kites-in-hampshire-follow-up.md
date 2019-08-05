@@ -1,6 +1,7 @@
 ---
 title: Red Kites in Hampshire
 path: 2008/05/22/red-kites-in-hampshire-follow-up/
+published: true
 date: 2019-08-02
 tags:
   - birds

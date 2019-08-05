@@ -1,6 +1,7 @@
 ---
 title: Finding Locations
 path: blog/2019/07/drones-finding-locations
+published: true
 date: 2019-07-19T13:22:01.518Z
 tags:
   - aerial
