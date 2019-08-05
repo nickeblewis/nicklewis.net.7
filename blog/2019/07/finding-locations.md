@@ -47,3 +47,5 @@ Give me a hand and make suggestions via my Twitter account @nicklewis, this arti
 
 ## Question: Does anyone know...
 I am now rather keen to explore intertidal photography and footage ideas, something which goes back to when I was watching the briliant Channel 4 series called "Britain at low tide" which also introduced me to CITiZAN, they made use of drones to fly out over terrain too risky for people to set foot upon.
+
+My question to you really is, know anywhere that you'd like to see filmed/photographed from the air especially if it is a shipwreck?
