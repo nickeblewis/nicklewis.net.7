@@ -16,6 +16,7 @@
     "gridsome": "^0.6.6",
     "gridsome-plugin-netlify-cms": "^1.0.7",
     "gridsome-plugin-remark-shiki": "^0.3.0",
+    "gridsome-plugin-remark-youtube": "^1.0.1",
     "gridsome-plugin-rss": "^1.1.0",
     "lodash.pick": "^4.4.0",
     "netlify-cms": "^2.9.4",

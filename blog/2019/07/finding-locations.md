@@ -23,19 +23,19 @@ Take for example this post, I am setting myself the challenge to gather as many 
 
 So let's set the number to a dozen different locations, each one including something a little different. 
 
-Please note all locations must and will comply with the "Drone Code"
+Please note all locations must and will comply with the ["Drone Code"](https://dronesafe.uk/drone-code/)
 
-Give me a hand and make suggestions via my Twitter account @nicklewis, this article is in draft at the moment but as I gather some ideas together, I shall go and see what I can photograph. No silly suggestions (such as Gatwick) please!
+Give me a hand and make suggestions via my Twitter account [@nicklewis](https://twitter.com/nicklewis), this article is in draft at the moment but as I gather some ideas together, I shall go and see what I can photograph. No silly suggestions (such as Gatwick) please!
 
-* Location 1: Shipwrecks
+## Location 1: Shipwrecks
 
 ![Aerial photo of Shipwreck at Warsash, Hampshire](/images/uploads/dji_0002.jpeg "Aerial photo of Shipwreck at Warsash, Hampshire (original photo)")
 
 ![Aerial photo of Shipwreck at Warsash, Hampshire](/images/uploads/dji_0002-2.jpeg "Aerial photo of Shipwreck at Warsash, Hampshire (cropped photo)")
 
-- [ ] The video is now up on Vimeo but I shall upload it to YouTube tonight and add the plugin to embed it here
+`youtube:https://youtu.be/gk_1v_ca8CA`
 
 ## Question: Does anyone know...
-I am now rather keen to explore intertidal photography and footage ideas, something which goes back to when I was watching the briliant Channel 4 series called "Britain at low tide" which also introduced me to CITiZAN, they made use of drones to fly out over terrain too risky for people to set foot upon.
+I am now rather keen to explore [intertidal zone](https://en.wikipedia.org/wiki/Intertidal_zone) with aerial photography and footage ideas, something which goes back to when I was watching the briliant Channel 4 series called ["Britain at low tide"](https://www.channel4.com/programmes/britain-at-low-tide) which also introduced me to [CITiZAN](https://www.citizan.org.uk/), they made use of drones to fly out over terrain too risky for people to set foot upon.
 
 My question to you really is, know anywhere that you'd like to see filmed/photographed from the air especially if it is a shipwreck?
