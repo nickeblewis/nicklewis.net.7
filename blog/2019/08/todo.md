@@ -45,3 +45,5 @@
   * recent stock photography sales
   * change the life of your readers
   * Tina and I could produce a podcast rather than a youtube video, easier to get going 
+  * Import content from Wordpress using a source plugin
+  * Should put more of my images up on the home page,as right now it is all a bit hmm
