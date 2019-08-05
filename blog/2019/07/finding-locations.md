@@ -34,17 +34,6 @@ Give me a hand and make suggestions via my Twitter account @nicklewis, this arti
 
 - [ ] The video is now up on Vimeo but I shall upload it to YouTube tonight and add the plugin to embed it here
 
-## Where next?
-
-* Location 2: A river
-* Location 3: Somewhere historic
-* Location 4: On the beach
-* Location 5: Somewhere modern
-* Location 6: Somewhere sporting
-* Location 7: Somewhere transport
-* Location 8: Derelict
-* Location 9: Industrial
-
 ## Question: Does anyone know...
 I am now rather keen to explore intertidal photography and footage ideas, something which goes back to when I was watching the briliant Channel 4 series called "Britain at low tide" which also introduced me to CITiZAN, they made use of drones to fly out over terrain too risky for people to set foot upon.
 
