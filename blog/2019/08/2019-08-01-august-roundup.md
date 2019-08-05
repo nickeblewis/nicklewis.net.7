@@ -9,7 +9,7 @@ Been a downer
 
 Still going strong, project approaching release and I love Vue JS
 
-# New Content
+# This website and new Content
 ## Building content for the JamStack
 
 - How I build this site using Visual Studio Code and no CMS tool [I will create a screencast for it](screencasts/how-i-edit-this-site)
@@ -33,7 +33,9 @@ some things made with it etc
 
 # Photography
 
-## Wisley
+## RHS Wisley
+![Tina walking towards the entrance at Wisley](./wisley/images/IMG_1215.jpg)
+The first weekend of August, a Sunday morning we arrived early for breakfast and we took a walk around the new entrance hall, food hall, shop, garden centre and of course the gardens themselves. [Read more about Wisley here...](blog/2019/08/wisley)
 
 # Links of the month
 [The Craft Gin Club](https://craftginclub.co.uk)

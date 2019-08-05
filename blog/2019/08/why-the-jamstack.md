@@ -1,0 +1,1 @@
+## Why I believe in the JAMStack

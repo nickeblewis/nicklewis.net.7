@@ -24,7 +24,7 @@ We have been members of the RHS for a long time and Wisley is a place we go to a
 ## We were very impressed 
 It was also the first time we had been since the new reception building opened about a month or so back. It really is quite something. I like the way the garden centre, shop and cafe have been rolled into one huge mall plus it is very light and airy with places to sit in the shop if you want to take a slower look at a book you are planning to buy. The bookshop is huge and the plant selection colossal.
 
-![](./images/IMG_1215.jpg)
+![Tina walking towards the new RHS Wisley building](./images/IMG_1215.jpg)
 
 We are thinking of planting some lower level plants to sit beneath the larger shrubs and roses in our own garden. So these lovely Alliums caught our eyes because of the frenzy of insect activity that they were attracting. The shot below illustrates this, I wanted the depth of field to be shallow, so it works quite well as a photograph with the layers of pin sharp and out of focus elements, if only that small butterfly was a bit more distinct, for me that lets the shot down a bit.
 
