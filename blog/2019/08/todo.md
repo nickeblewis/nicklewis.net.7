@@ -33,5 +33,15 @@
   * Location: Tintern
   * pretty things yummy food
     * Canva
+  * Stefano (photographer/web dev)
+    * amazon afiliate links
+    * build a business around JAMStack
+    * "the internet needs our content"
+    * International start a blog day!
+    * problogger.com/podcast/episode/274
   * problogger FB group and share my blog there!!!
   * integrate Insta somehow
+  * why I no longer use Wordpress?
+  * recent stock photography sales
+  * change the life of your readers
+  * Tina and I could produce a podcast rather than a youtube video, easier to get going 
