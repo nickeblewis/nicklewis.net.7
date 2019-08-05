@@ -40,6 +40,7 @@
     * International start a blog day!
     * problogger.com/podcast/episode/274
   * problogger FB group and share my blog there!!!
+    * watch first episode where the password is revealed
   * integrate Insta somehow
   * why I no longer use Wordpress?
   * recent stock photography sales
