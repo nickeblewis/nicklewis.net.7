@@ -48,3 +48,10 @@
   * Tina and I could produce a podcast rather than a youtube video, easier to get going 
   * Import content from Wordpress using a source plugin
   * Should put more of my images up on the home page,as right now it is all a bit hmm
+  * being a contractor
+  * https://stackoverflow.com/questions/40181133/delete-a-vue-child-component
+    * https://jsfiddle.net/mani04/4kyzkgLu/
+  * Tailwind (not the CSS tool but the _marketing_ tool?)
+  * Rowansims.com of Digital Photography School's blog
+    * consider pinterest
+  * Why FB is bad for your blog
