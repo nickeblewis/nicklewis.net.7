@@ -55,3 +55,7 @@
   * Rowansims.com of Digital Photography School's blog
     * consider pinterest
   * Why FB is bad for your blog
+  * TFOP
+    * Phone photography
+      * Focos App
+      * Snapseed
