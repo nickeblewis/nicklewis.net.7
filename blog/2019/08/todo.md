@@ -59,3 +59,5 @@
     * Phone photography
       * Focos App
       * Snapseed
+      * See full list via the show notes on the website
+      * Find Eimar's website IG
