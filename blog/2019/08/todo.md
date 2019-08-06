@@ -56,6 +56,7 @@
     * consider pinterest
   * Why FB is bad for your blog
   * share more videos on my site
+  * Composition: Compose/recompose - the first angle may be ok but think again, pause and lok deeper
   * TFOP
     * Phone photography
       * Focos App
