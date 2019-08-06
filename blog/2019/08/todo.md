@@ -55,9 +55,11 @@
   * Rowansims.com of Digital Photography School's blog
     * consider pinterest
   * Why FB is bad for your blog
+  * share more videos on my site
   * TFOP
     * Phone photography
       * Focos App
+      * Diptych
       * Snapseed
       * See full list via the show notes on the website
       * Find Eimar's website IG
