@@ -84,3 +84,9 @@
     * Perhaps I should write the occasional link articles to peoples blogs like turn left?
   * I should put my Crunch article blog post on evergreen reblog wotsit coschedule
   * Update Dad and Vic on their Google ranking for the past month
+  * Table Tennis blog by Tom (problogger)
+  * content - hope to gather these all in one place
+    * blog -> /blog
+    * photography -> /photography
+    * learn -> /learn
+    * explore -> /explore
