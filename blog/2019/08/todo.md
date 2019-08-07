@@ -61,6 +61,13 @@
   * Contact Crunch regarding offboarding Tina in Sept/Oct
     * Can I operate without a co-director or company sec?
       * Can I therefore switch Divs to %100?
+  * Compare chatbots, alternatives to facebook :-)
+    * Coding challenge, here is how it turned out
+      * Netlify functions, since this site is hosted on Netlify (add these items to my content section)
+      * Dialogflow (add these items to my content section)
+      * Slack (add these items to my content section)
+  * Google has indexed a lot of my incomplete pages which is a problem - how best to solve?
+    * also there are many old pages indexed that may need to be 301ed and/or re-written and re-published
   * TFOP
     * Phone photography
       * Focos App
