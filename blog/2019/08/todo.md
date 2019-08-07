@@ -58,6 +58,9 @@
   * share more videos on my site
   * Composition: Compose/recompose - the first angle may be ok but think again, pause and lok deeper
   * Is it now harder to find photos compared to the "old days"?
+  * Contact Crunch regarding offboarding Tina in Sept/Oct
+    * Can I operate without a co-director or company sec?
+      * Can I therefore switch Divs to %100?
   * TFOP
     * Phone photography
       * Focos App
