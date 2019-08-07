@@ -90,3 +90,10 @@
     * photography -> /photography
     * learn -> /learn
     * explore -> /explore
+    * services
+    * Three tips
+      * messy first drafts
+      * stand behind your ideas
+      * write the way that you talk
+      * find someone to critque
+        * reminds me we could run critqiues on this site ;-)
