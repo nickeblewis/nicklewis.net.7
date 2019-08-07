@@ -79,3 +79,5 @@
       * Snapseed
       * See full list via the show notes on the website
       * Find Eimar's website IG
+  * Mind blown! Love the kidney transplant ladies blog episode: turning left for less
+  * I should put my Crunch article blog post on evergreen reblog wotsit coschedule
