@@ -38,7 +38,7 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'blog/**/*.md',
+        path: 'content/blog/**/*.md',
         typeName: 'Post',
         refs: {
           tags: {
@@ -58,7 +58,7 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'photography/**/*.md',
+        path: 'content/photography/**/*.md',
         typeName: 'Post',
         refs: {
           tags: {
