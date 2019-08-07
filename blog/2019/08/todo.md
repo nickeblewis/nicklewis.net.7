@@ -57,6 +57,7 @@
   * Why FB is bad for your blog
   * share more videos on my site
   * Composition: Compose/recompose - the first angle may be ok but think again, pause and lok deeper
+  * Is it now harder to find photos compared to the "old days"?
   * TFOP
     * Phone photography
       * Focos App
