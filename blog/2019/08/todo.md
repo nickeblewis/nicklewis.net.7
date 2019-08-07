@@ -79,5 +79,8 @@
       * Snapseed
       * See full list via the show notes on the website
       * Find Eimar's website IG
-  * Mind blown! Love the kidney transplant ladies blog episode: turning left for less
+  * Mind blown! Love the kidney transplant ladies blog episode: 261: "turning left for less"
+    * Need to put the transplant diary on new site
+    * Perhaps I should write the occasional link articles to peoples blogs like turn left?
   * I should put my Crunch article blog post on evergreen reblog wotsit coschedule
+  * Update Dad and Vic on their Google ranking for the past month
