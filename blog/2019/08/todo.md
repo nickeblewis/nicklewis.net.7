@@ -4,6 +4,7 @@
 - [ ] [pro-blogger 31 days](build-a-better-blog-in-31days)
 
 * How I archive my images and use Lightroom to manage this
+* The footer with my mugshot in it needs to be at the bottom of each page
 * Going back to photography not shared on this site
 * Journalling my experiences with Gridsome and VueJs for building this site
 * This coming weekend I am going to pick somewhere to go for photography
@@ -68,6 +69,8 @@
       * Slack (add these items to my content section)
   * Google has indexed a lot of my incomplete pages which is a problem - how best to solve?
     * also there are many old pages indexed that may need to be 301ed and/or re-written and re-published
+  * Magnet pages as mentioned on problogger, already do this under the content folder
+    * idea sparked by the above, this would work well for FG
   * TFOP
     * Phone photography
       * Focos App
