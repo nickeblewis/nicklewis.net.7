@@ -5,6 +5,9 @@ tags:
  - JAMStack
  - VS Code
 ---
+
+_This document is a work in progress, as is most of this website. I am gradually writing down my experiences as a developer to share with other people. If you are interested in seeing the complete document, please post a comment below and we shall notify you_
+
 Let me start this article with the statement, "I use Visual Studio Code as a CMS" and that is because that is precisely what I do and here are some reasons for why I do so. 
 
 ## Markdown
