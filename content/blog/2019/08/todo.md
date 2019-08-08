@@ -105,3 +105,7 @@ https://moz.com/blog/category/link-building
 
 Ep. 156
 Swipe Files - copywriting
+
+Look up on problogger how to blog with no niche but multiple areas of expertise
+
+Divided up mailing list based on photography, code and places
