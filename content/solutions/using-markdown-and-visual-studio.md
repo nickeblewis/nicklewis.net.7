@@ -4,6 +4,7 @@ path: solutions/using-visual-studio-as-cms
 tags:
  - JAMStack
  - VS Code
+ - Content
 ---
 
 _This document is a work in progress, as is most of this website. I am gradually writing down my experiences as a developer to share with other people. If you are interested in seeing the complete document, please post a comment below and we shall notify you_
