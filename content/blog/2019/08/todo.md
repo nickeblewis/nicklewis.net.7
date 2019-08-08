@@ -1,9 +1,10 @@
-- [ ] planning content for the rest of this month -> CoSchedule the editorial calendar
-- [ ] Facebook bot for our site and a new greeting -> other bot options and Slack yeah!
-- [ ] pick up on the issue where I am seeing all of our articles that haven't yet been completed
-- [ ] [pro-blogger 31 days](build-a-better-blog-in-31days)
+- [] planning content for the rest of this month -> CoSchedule the editorial calendar
+- [] Facebook bot for our site and a new greeting -> other bot options and Slack yeah!
+- [] pick up on the issue where I am seeing all of our articles that haven't yet been completed
+- [] [pro-blogger 31 days](build-a-better-blog-in-31days)
 
 * How I archive my images and use Lightroom to manage this
+  * Make this a screencast on Nicklewis Digital YT channel
 * The footer with my mugshot in it needs to be at the bottom of each page
 * Going back to photography not shared on this site
 * Journalling my experiences with Gridsome and VueJs for building this site
