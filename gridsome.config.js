@@ -114,6 +114,25 @@ module.exports = {
       }
     },
     {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'content/solutions/**/*.md',
+        typeName: 'Post',
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            route: 'tag/:id',
+            create: true
+          }
+        },
+        remark: {
+          plugins: [
+            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+          ]
+        }
+      }
+    },
+    {
       use: 'gridsome-plugin-rss',
       options: {
         contentTypeName: 'Post',
