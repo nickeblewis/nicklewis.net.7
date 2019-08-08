@@ -39,7 +39,7 @@ You need not be on Social Media yourselves but companies like ours love to help 
 
 ## Expand the audience beyond the room
 
-What do we mean by this? Well you could record, video some of your meetings or do audio recordings to produce Podcasts. It might be good fun to listen back to some of the presentations later anyway plus that would give newcomers the chance to listen to some of your earlier sessions. You may need to do some clever edits so that the music isn't played in it's entirety.
+What do we mean by this? Well you could record, video some of your meetings or do audio recordings to produce Podcasts. It might be good fun to listen back to some of the presentations later anyway plus that would give newcomers the chance to listen to some of your earlier sessions. You may need to do some clever edits so that the music isn't played in it's entirety. You only need an iPhone to record the audio, the quality would be sufficient.
 
 ## More articles
 
