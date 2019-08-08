@@ -41,6 +41,10 @@ You need not be on Social Media yourselves but companies like ours love to help 
 
 What do we mean by this? Well you could record, video some of your meetings or do audio recordings to produce Podcasts. It might be good fun to listen back to some of the presentations later anyway plus that would give newcomers the chance to listen to some of your earlier sessions. You may need to do some clever edits so that the music isn't played in it's entirety.
 
+## More articles
+
+I think the HTML versions of the newsletters I have created for your most recent meetings will help because they refer to quite a lot of Jazz trivia and Google see's all of these things and that can help.
+
 ## Notes and actions to take
 
 - [ ] CoSchedule s
