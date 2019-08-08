@@ -12,9 +12,17 @@ As a developer who does a lot of contract and freelance work, I spend a lot of m
 
 - Node's latest developments
 - Machine learning and AI - such as website chatbots and so on
-- Electron
+- Electron 
+- Sanity.io
 - Refine my VueJS skills further by writing about the framework and developing my own set of courses for other people to learn from
-- JS/ES6 ongoing learning and refinement
+- ReactJs
+- JS/ES6/ES7 ongoing learning and refinement
+
+## Photography
+
+- Flash photography
+- Astro photography
+- Automated drone flight
 
 ## Footnote
 
