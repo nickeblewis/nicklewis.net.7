@@ -15,7 +15,7 @@ As a developer who does a lot of contract and freelance work, I spend a lot of m
 - Sanity.io
 - Refine my VueJS skills further by writing about the framework and developing my own set of courses for other people to learn from
 - Gridsome and the plugins available
-- Headless CMSes
+- Headless CMSes, how they can be used with this site and my customers
 - ReactJs
 - JS/ES6/ES7 ongoing learning and refinement
 - Tailwind
@@ -24,9 +24,12 @@ That is a bit of a short list for the moment, there are other ideas I'll chuck i
 
 ## Marketing
 
+Ways to get better at the following
+
 - Newsletters
 - Analytics
 - SEO
+- Affiliates to monetise 
 
 ## Photography
 

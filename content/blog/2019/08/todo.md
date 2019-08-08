@@ -97,3 +97,7 @@
       * write the way that you talk
       * find someone to critque
         * reminds me we could run critqiues on this site ;-)
+
+https://moz.com/help/moz-pro/links/opportunities and BuzzSumo
+-[] Join Buzzsumo
+https://moz.com/blog/category/link-building
