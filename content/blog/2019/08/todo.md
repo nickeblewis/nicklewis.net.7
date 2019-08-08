@@ -1,17 +1,33 @@
+# Jazz Club
+## Content
+
+# Nick Lewis Net
+## Content
 - [] planning content for the rest of this month -> CoSchedule the editorial calendar
+
+## Lab
 - [] Facebook bot for our site and a new greeting -> other bot options and Slack yeah!
+
+## Fixes & changes
 - [] pick up on the issue where I am seeing all of our articles that haven't yet been completed
+* The footer with my mugshot in it needs to be at the bottom of each page
+* How I am going to revamp the home page for this site to bring new blog content to the fore
+
+## Learning material
 - [] [pro-blogger 31 days](build-a-better-blog-in-31days)
 
+## Learn/Teach/Blog
+* Journalling my experiences with Gridsome and VueJs for building this site
+* write about my plans for a tutorial series on jamstack website development and photography, two separate courses obviously
+* complete the roundup article
+
+## Photography
 * How I archive my images and use Lightroom to manage this
   * Make this a screencast on Nicklewis Digital YT channel
-* The footer with my mugshot in it needs to be at the bottom of each page
 * Going back to photography not shared on this site
-* Journalling my experiences with Gridsome and VueJs for building this site
 * This coming weekend I am going to pick somewhere to go for photography
-* write about my plans for a tutorial series on jamstack website development and photography, two separate courses obviously
-* How I am going to revamp the home page for this site to bring new blog content to the fore
-* complete the roundup article
+
+# Notes from ProBlogger
 * castos.com/problogger for podcasting!!
   * podcast motor are partnered with coschedule which is handy
   * mics - audiotecnica USB based - popfilter - boom that attachs to desk 
