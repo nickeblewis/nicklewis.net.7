@@ -102,3 +102,6 @@
 https://moz.com/help/moz-pro/links/opportunities and BuzzSumo
 -[] Join Buzzsumo
 https://moz.com/blog/category/link-building
+
+Ep. 156
+Swipe Files - copywriting
