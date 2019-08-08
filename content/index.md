@@ -8,9 +8,18 @@ This area is going to be broken down into the following sections and the reason 
 * drafts
 * explore
 * ideas
+  * All of my raw ideas are thrown in here where they are gradually refined
+  * Once they mature move them to one of the public sections
+* lab - my experiments
 * learn
+  * The best way of learning is to teach others and you all learn together. So this section will be dedicated to a range of short courses that I am developing over the next year before release. 
+  * Special template for this section to resemble popular online course websites
 * other
 * photography
+  * Though I do have my other site nicklewis.photo, I want to develop some templates to sit within this site
+  * My photography generally stems around the exploration of locations, so this section could be divided up accordingly
+  * However the blog tends to be a better place for these
+  * So maybe this section could be more for the technical notes around photography?
 * (photography-old) -> merge this with the above
 * services
 * solutions
