@@ -23,11 +23,39 @@ Search Engine Optimisation is a little bit of a dark art because Google are very
 
 So then you'd try doing a search for _big band jazz_ which would probably base the search on still quite a broad scope, probably listing world famous artists, perhaps global concert halls and other options. It isn't until you apply something like _Bournemouth big band jazz_ you would start seeing _better_ results but they are only so because of your own thought processes, your own process of elimination, as you drill down to dig deeper into Google's vast knowledge!
 
-So as a website owner you need to apply a little bit of psychology! You need to jump into the brain of your ideal visitor, those people who would most likely love to join you all for a night of Jazz discovery and a social. However what if they weren't actually looking for you but something related and they make that serendiptious discovery? I've experienced this before, I ahve found all kinds of things on Google that appealed to me when I was looking for something else entirely! it is like looking for a tape measure for doing some DIY, discovering your favourite CD from two decades ago.... you end up spendign the afternoon in the company of a long forgotten band and an irate Wife who thought you were measuring up for some new bookshelves!
+So as a website owner you need to apply a little bit of psychology! You need to jump into the brain of your ideal visitor, those people who would most likely love to join you all for a night of Jazz discovery and a social. However what if they weren't actually looking for you but something related and they make that serendiptious discovery? I've experienced this before, I have found all kinds of things on Google that appealed to me when I was looking for something else entirely! it is like looking for a tape measure for doing some DIY, discovering your favourite CD from two decades ago.... you end up spending the afternoon in the company of a long forgotten band and an irate wife who thought you were measuring up for some new bookshelves!
 
-So sometimes people may find out about the club when looking for something similar, as you are more likely to get interest that way, sounds kind of counterintuitive but it is often the case.
+So sometimes people may find out about the club when looking for something similar (or unelated!), as you are more likely to get interest that way, sounds kind of counterintuitive but it is often the case. We all know the internet is a little bit of a rabbit hole like something out of a Lewis Carroll book. 
 
-## External linking
+In terms of content the page structure is important, the path to the content is also key and then the headings and the paragraphs that follow should all cascade down from that initial hook. Let's run through an example:
+
+Our fictional page has a title of "Discover the music of Duke Ellington Big Band, a night of Vinyl" and the link to it could be "/events/discovery/duke-ellington-big-band", both are very descriptive and tie together nicely. They are also rather enticing because if you saw that show up in a list of search results, you would be clicking on that to find out more. People may discover this link in a number of ways, there could be quite a few potential keywords for a piece of content like this and they are words that should be included within the content of the web page itself, as Google will pick them all up and match it all together to form a score for your page or "Google Rank". None of us truly know how it works other than that what I describe here is a good pattern to follow in content design.
+
+Let's consider what those keywords could be:
+
+* Ellington
+* Big Band
+* Jazz
+* Entertainment
+* Club
+* Vinyl
+* Records
+* Listening
+* Discussion
+
+All of the above can be used, scattered throughout the page that we create.
+
+Your opening paragraph really matters on a apge because if there isn't any additional metadata provided, Google will often take that first paragraph as it's summary for each search result that it indexes.
+
+I could probably write books on this topic and people have done, there are dedicated professionals out there who make a living out of SEO.
+
+## Sitemaps
+
+Every site that I host for my customers has a sitemap, a special file that is generated each and every time we push up changes to the server. It helps Google find your content faster and you can train it to index your site more efficiently, helping Google do a better job and thus represent you as best as it can. 
+
+It also helps us with website analytics better, as we can actually see what is being indexed and how pages are performing. I can for example tell whether a site is improving in it's SEO.
+
+## External linking (backlinking)
 
 You can't beat some external links but be as strategic as you can be in electing your "sponsors". So take for example a local interest group such as [The Bournemouth Jazz Club](https://bournemouthjazzclub.org). Notice my cheeky bit of external linking there, any traffic they receive from _this_ site will be logged with tools such as Google Analytics. So they will know some of their traffic is coming from here but who else could they try? let's have a little think...
 
