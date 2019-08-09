@@ -1,3 +1,4 @@
+# Code
 // This is where project configuration and plugin options are located.
 // Learn more: https://gridsome.org/docs/config
 
@@ -33,6 +34,26 @@ module.exports = {
         publicPath: `/cms`,
         htmlTitle: `My CMS`,
         enableIdentityWidget: false
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'blog/**/*.md',
+        typeName: 'Post',
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            route: 'tag/:id',
+            create: true
+          }
+        },
+        remark: {
+          plugins: [
+            ['gridsome-plugin-remark-youtube'],
+            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+          ]
+        }
       }
     },
     {
