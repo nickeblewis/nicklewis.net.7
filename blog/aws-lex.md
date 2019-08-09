@@ -12,6 +12,7 @@ tags:
 ---
 
 This excercise was inspired by https://madewithvuejs.com/aws-lex-web-ui
+Would this be expensive to host?
 
 ## AWS Lex
 
