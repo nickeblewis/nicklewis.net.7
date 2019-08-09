@@ -1,4 +1,3 @@
-# Code
 // This is where project configuration and plugin options are located.
 // Learn more: https://gridsome.org/docs/config
 
