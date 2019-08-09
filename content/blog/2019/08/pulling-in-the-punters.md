@@ -18,9 +18,9 @@ Let's consider some prerequisites...
 
 ## Calls to action (CTA)
 
-A "Call to Action" is an action that you want to encourage your visitors to take, such as signing up for a newsletter, registering for an account, sending you an enquiry and typically you make these _invitations_ obvious, persuasive even!
+A "Call to Action" is an action that you want to encourage your visitors to take, such as signing up for a newsletter, registering for an account, sending you an enquiry and typically you make these _invitations_ obvious, persuasive even! A good place for these would be on the home page and with links in the main menu. That is not to say they can't also exist deeper within the site but so long as they are obvious enough.
 
-## SEO
+## SEO - ways of being seen
 
 Search Engine Optimisation is a little bit of a dark art because Google are very secretive about the algorithms they develop and with very good reason. An algorithm is a process that runs, basically a large software application or suite of processes that trawl through vast arrays of website data. The outcome being the Google Index that forms the heart of all the searches we make. It somehow decides where every page on the web is ranked against certain keywords. So if you searched for broad keywords such as _jazz_ or _football_ what results would you see? It is hard to second guess and a number of factors might apply, your location perhaps would rank local football clubs and jazz bands higher up the list, maybe your recent browsing habits might influence the search results too.
 
@@ -71,6 +71,16 @@ You can't beat some external links but be as strategic as you can be in electing
 * Social Media
 * Local publications
   
+## Internal linking
+
+This site for example uses "tags", you can see them at the top of this page, there you shall see SEO, Google, Content and for each of these keywords is a unique page. If you click on any of those tags, you will be taken to a "landing page" that will list related articles to the topic. These pages are also indexed by Google meaning that if someone is searching for SEO, they may find this landing page.
+
+It is worth explaining what a landing page is and it works in a similar way to your homepage, think of it as another doorway into your domain. It is another way in which people can discover areas of your site and once they are in they will explore what you've got.
+
+So this page already has 5 or 6 ways of being discovered, if it is listed on the homepage, the blog index, the tag indices and therefore multiple internal links to this piece of content. In turn this helps Google in it's referencing processes.
+
+Once you start to encourage links to key pieces of content such as ths article, it's ranking will increase and if done right, the aim will be for a snowball effect to begin, as the rest of your content begins to benefit based on it's _relevance_.
+
 ## Newsletters
 
 Invest in a newsletter system, some can be run for free up to a certain number of subscribers, we like MailerLite here for example and use that for our own purposes. 
