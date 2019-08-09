@@ -1,3 +1,6 @@
+---
+title: Pulling in the punters, a lesson in SEO
+---
 In this post I explore ways of getting your website noticed because it's not easy or at least not like it used to be. The sad truth is just having a website out there, doesn't mean that people will come of their own accord. People need a little bit of a hint, a nudge, which may be based on a number of avenues, such as a keyword based search, responding to an advert or other kind of link that they see. The challenge though is getting that link in front of the right people, your audience, the people you want to speak with and establish long term relationships with. Pull in those punters and keep them entertained!
 
 ## Preparing your site to be discovered
