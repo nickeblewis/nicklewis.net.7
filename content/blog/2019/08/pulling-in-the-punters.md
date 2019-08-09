@@ -15,11 +15,17 @@ Let's consider some prerequisites...
 
 ## Calls to action (CTA)
 
-TODO
+A "Call to Action" is an action that you want to encourage your visitors to take, such as signing up for a newsletter, registering for an account, sending you an enquiry and typically you make these _invitations_ obvious, persuasive even!
 
 ## SEO
 
-TODO
+Search Engine Optimisation is a little bit of a dark art because Google are very secretive about the algorithms they develop and with very good reason. An algorithm is a process that runs, basically a large software application or suite of processes that trawl through vast arrays of website data. The outcome being the Google Index that forms the heart of all the searches we make. It somehow decides where every page on the web is ranked against certain keywords. So if you searched for broad keywords such as _jazz_ or _football_ what results would you see? It is hard to second guess and a number of factors might apply, your location perhaps would rank local football clubs and jazz bands higher up the list, maybe your recent browsing habits might influence the search results too.
+
+So then you'd try doing a search for _big band jazz_ which would probably base the search on still quite a broad scope, probably listing world famous artists, perhaps global concert halls and other options. It isn't until you apply something like _Bournemouth big band jazz_ you would start seeing _better_ results but they are only so because of your own thought processes, your own process of elimination, as you drill down to dig deeper into Google's vast knowledge!
+
+So as a website owner you need to apply a little bit of psychology! You need to jump into the brain of your ideal visitor, those people who would most likely love to join you all for a night of Jazz discovery and a social. However what if they weren't actually looking for you but something related and they make that serendiptious discovery? I've experienced this before, I ahve found all kinds of things on Google that appealed to me when I was looking for something else entirely! it is like looking for a tape measure for doing some DIY, discovering your favourite CD from two decades ago.... you end up spendign the afternoon in the company of a long forgotten band and an irate Wife who thought you were measuring up for some new bookshelves!
+
+So sometimes people may find out about the club when looking for something similar, as you are more likely to get interest that way, sounds kind of counterintuitive but it is often the case.
 
 ## External linking
 
