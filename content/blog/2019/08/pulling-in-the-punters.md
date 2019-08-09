@@ -105,7 +105,5 @@ Tbis is not quite a forum but is the nearest thing for now...
 
 ## Notes and actions to take
 
-- [ ] CoSchedule 
-- [ ] More tasks to be added to this action list
-- [ ] Share this page with Dad this evening, invite him to try out Disqus at the bottom of this page, Vic too
-- [ ] Add Disqus to BBBSC??
+- [ ] CoSchedule and other tools that can help you spread your marketing
+- [ ] Research keyword research tools - watch out for another article on this soon
