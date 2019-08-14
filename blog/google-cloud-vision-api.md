@@ -1,6 +1,6 @@
 ---
 title: Google Cloud - Vision API
-path: blog/2019/08/dialogflow
+path: blog/2019/08/google-vision-api
 date: 2019-08-14T09:26:06.093Z
 tags:
   - tag
