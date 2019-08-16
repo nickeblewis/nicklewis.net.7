@@ -1,8 +1,4 @@
-I am trying something different with the blog,partly because of time comittments and so on, I have decided to write these as monthly journals covering everything from what I am doing professionally as a consultant and contractor to my photography outings, it will be easier that way plus I can make these posts a bit longer :_)
-
-# Health
-
-Been a downer 
+I am trying something different with the blog,partly because of time comittments and so on, I have decided to write these as monthly journals covering everything from what I am doing professionally as a consultant and contractor to my photography outings, it will be easier that way plus I can make these posts a bit longer :-)
 
 # Business updates
 ## Contracting at Clearbox
