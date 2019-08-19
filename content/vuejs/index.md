@@ -10,3 +10,5 @@ https://news.vuejs.org/
 https://github.com/probil/vue-moveable
 
 https://github.com/f/vue-plugin-boilerplate
+
+-[ ] We need some sections on Bootstrap-vue, vuetify etc
