@@ -1,9 +1,18 @@
 I am trying something different with the blog,partly because of time comittments and so on, I have decided to write these as monthly journals covering everything from what I am doing professionally as a consultant and contractor to my photography outings, it will be easier that way plus I can make these posts a bit longer :-)
 
+# Tech
+## Latest .NET stuff
+/content/dotnet/mlnet whatever it is 
+visual studio 2019 for Mac recently installed and shall be writing some notes about this in the future
+VS Code gets better and better, a brilliant environment for developing this website with and other projects I am working on, including Clearbox.
+## Latest Vue stuff
 # Business updates
 ## Contracting at Clearbox
 
 Still going strong, project approaching release and I love Vue JS
+
+## Tina has a new job
+TODO
 
 # This website and new Content
 ## Building content for the JamStack
@@ -32,6 +41,9 @@ some things made with it etc
 ## RHS Wisley
 ![Tina walking towards the entrance at Wisley](./wisley/images/IMG_1215.jpg)
 The first weekend of August, a Sunday morning we arrived early for breakfast and we took a walk around the new entrance hall, food hall, shop, garden centre and of course the gardens themselves. [Read more about Wisley here...](blog/2019/08/wisley)
+
+## Otherwise fairly quiet
+TODO
 
 # Links of the month
 [The Craft Gin Club](https://craftginclub.co.uk)
