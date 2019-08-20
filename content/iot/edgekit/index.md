@@ -1,0 +1,1 @@
+- [ ] Get the edgekit and explore the possibilities, can also be used for the Microhack
