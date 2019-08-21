@@ -31,5 +31,6 @@ https://devblogs.microsoft.com/iotdev/azure-iot-device-workbench-bumped-to-0-2-6
 
 https://github.com/Azure/azure-sphere-samples
 
+https://openhomeautomation.net/arduino-battery
 
 - [ ] Publish this article and share
