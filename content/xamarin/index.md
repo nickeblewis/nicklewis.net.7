@@ -1,2 +1,2 @@
-- [ ] Install Xamarin
+- [*] Install Xamarin
 - [ ] How can you debug with network tab?
