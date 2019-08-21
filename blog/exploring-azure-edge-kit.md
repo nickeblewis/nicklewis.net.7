@@ -17,7 +17,7 @@ https://microsoft.github.io/azure-iot-developer-kit/
 
 - [ ] What to experiment with next? Well the sky is the limit, as doing a search on Google for "azure devkit sample projects" proves, here are some I found that I will dig into and explore.
 
-https://www.hanselman.com/blog/DidILeaveTheGarageDoorOpenANocodeProjectWithAzureIoTCentralAndTheMXChipDevKit.aspx
+[Scott Hanselman's Garage Door](https://www.hanselman.com/blog/DidILeaveTheGarageDoorOpenANocodeProjectWithAzureIoTCentralAndTheMXChipDevKit.aspx)
 
 https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-arduino-iot-devkit-az3166-translator
 
@@ -32,5 +32,7 @@ https://devblogs.microsoft.com/iotdev/azure-iot-device-workbench-bumped-to-0-2-6
 https://github.com/Azure/azure-sphere-samples
 
 https://openhomeautomation.net/arduino-battery
+
+https://www.google.com/search?q=arduino+camera+trap&rlz=1C1GCEV_enGB844GB844&oq=arduino+camera+trap&aqs=chrome..69i57j33.7119j0j8&sourceid=chrome&ie=UTF-8
 
 - [ ] Publish this article and share
