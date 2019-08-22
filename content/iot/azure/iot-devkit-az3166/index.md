@@ -33,6 +33,14 @@ https://jeremylindsayni.wordpress.com/2017/10/16/programming-the-az3166-azure-de
 
 https://github.com/MicrosoftDocs/azure-docs/blob/master/articles/iot-hub/iot-hub-arduino-iot-devkit-az3166-translator.md
 
+http://thinglabs.io/workshop/js/weather/
+
+https://www.udemy.com/course/getting-started-with-azure-iot/
+
+https://create.arduino.cc/projecthub/projects/tags/iot
+
+
+
 ## Questions
 
 - C++ or C#?
