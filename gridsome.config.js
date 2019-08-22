@@ -58,7 +58,7 @@ module.exports = {
     {
       use: '@gridsome/source-filesystem',
       options: {
-        path: 'content/blog/**/*.md',
+        path: 'content/**/*.md',
         typeName: 'Post',
         refs: {
           tags: {
@@ -74,84 +74,7 @@ module.exports = {
           ]
         }
       }
-    },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        path: 'content/photography/**/*.md',
-        typeName: 'Post',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            route: 'tag/:id',
-            create: true
-          }
-        },
-        remark: {
-          plugins: [
-            ['gridsome-plugin-remark-youtube'],
-            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-          ]
-        }
-      }
-    },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        path: 'content/explore/**/*.md',
-        typeName: 'Post',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            route: 'tag/:id',
-            create: true
-          }
-        },
-        remark: {
-          plugins: [
-            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-          ]
-        }
-      }
-    },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        path: 'content/learn/**/*.md',
-        typeName: 'Post',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            route: 'tag/:id',
-            create: true
-          }
-        },
-        remark: {
-          plugins: [
-            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-          ]
-        }
-      }
-    },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        path: 'content/solutions/**/*.md',
-        typeName: 'Post',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            route: 'tag/:id',
-            create: true
-          }
-        },
-        remark: {
-          plugins: [
-            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-          ]
-        }
-      }
-    },
+    },               
     {
       use: 'gridsome-plugin-rss',
       options: {
