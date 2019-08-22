@@ -39,7 +39,7 @@ https://www.udemy.com/course/getting-started-with-azure-iot/
 
 https://create.arduino.cc/projecthub/projects/tags/iot
 
-
+https://blog.bitsrc.io/building-and-scaling-iot-solutions-with-microsoft-azure-a9d999df4b8
 
 ## Questions
 
