@@ -8,4 +8,6 @@ Share some of the videos here
 
 https://blog.jeremylikness.com/blog/2019-04-16_presentation-webassembly-c-sharp-and-blazor-at-codestock-2019/
 
-- [ ] test
+https://csharp.christiannagel.com/2018/07/10/azurestoragestaticwebsite/
+
+- [ ] explore this
