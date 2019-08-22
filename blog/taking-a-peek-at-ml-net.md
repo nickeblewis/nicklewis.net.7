@@ -4,4 +4,4 @@ Machine Learning is a big thing nowadays and I feel that by pigeon holing myself
 
 ML is something that all of the big guns are keen on investing R&D time in, Microsoft are as ever one of those companies. So when they recently launched ML.net, I naturally wanted to take a peek... So here are my notes and experiments based loosely on their official examples.
 
-- [ ] continue this...
+- [ ] explore further
