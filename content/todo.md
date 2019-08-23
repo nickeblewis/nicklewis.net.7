@@ -127,6 +127,7 @@ I am thinking along the lines of something that outputs GraphQL
 # Nicklewis.net
 
 So what we have right now is this lovely website....
+- [ ] Chatbot I started with FB Messenger and Dialogflow -> carry on with it, what other options are there?
 
 ## Screencasts
 

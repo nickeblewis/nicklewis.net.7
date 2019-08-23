@@ -41,6 +41,8 @@ https://create.arduino.cc/projecthub/projects/tags/iot
 
 https://blog.bitsrc.io/building-and-scaling-iot-solutions-with-microsoft-azure-a9d999df4b8
 
+- [ ] What other devices are there to try out? How about Uno etc?
+
 ## Questions
 
 - C++ or C#?
