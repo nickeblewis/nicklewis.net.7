@@ -1,0 +1,1 @@
+- [ ] how about putting this to the audiece to gather ideas
