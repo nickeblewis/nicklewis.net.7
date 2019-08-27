@@ -10,9 +10,11 @@ I have discovered how Markdown in conjunction with the fabulous Visual Studio Co
 
 This document started life as "Todo" though I am now doubting this title, for it is a file where I dump my initial business ideas, thoughts, even tasks and from this I _incubate_ things from the tiny seeds of ideas into fully fledged projects, whether it is code or photography.
 
+# Goals
+- [ ] Develop income streams in addition to contracts
+
 # Tasks
 
-- [ ] Income streams in addition to contracts
 - [ ] what is vue fuse
 - [ ] sign up for netlify analytics
 - [ ] Tidy up this document and make it more useful and even shareable! I could scan through the content folder and map out what needs doing to complete the ideas I have come up with and a better structure for the folders that we can stick with more reliably. permalinks matter for SEO purposes

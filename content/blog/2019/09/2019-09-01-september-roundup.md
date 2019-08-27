@@ -1,14 +1,4 @@
----
-title: August 2019 Roundup
-path: blog/2019/08/august-roundup
-date: 2019-08-27
-summary: Time is tight and I am having to switch to a new format of blog post that I share every month but hopefully this will mean longer articles with a mix of content? Let's see how it rolls!
-published: true
-tags: 
- - Journal
- - August
- - 2019
----
+- [ ] All of the content below is from last month but should help kickstart the september issue
 
 I am trying something different with the blog, partly because of time commitments and so on, I have decided to write these as monthly journals covering everything from what I am doing professionally as a consultant and contractor to my photography outings, it will be easier that way plus I can make these posts a bit longer :-)
 
@@ -22,9 +12,18 @@ I have enabled Netlify's analytics services against this site to see how it work
 
 The official blurb states that Netlify users can add Analytics now with just a few clicks in their dashboard, and even backfill historical data to view trends over time. Most analytics tools rely on third party scripts, which can be obscured by ad blockers, but Netlify Analytics ingests data directly from its edge server nodes. Wow this sounds great, so shall report back on this soon in this blog.
 
+
+## Latest .NET stuff
+
+/content/dotnet/mlnet whatever it is 
+visual studio 2019 for Mac recently installed and shall be writing some notes about this in the future
+VS Code gets better and better, a brilliant environment for developing this website with and other projects I am working on, including Clearbox.
+
 ## What else, hmmm...
 
 Too many to mention, the world of web development is bewildering enough, let alone the other technologies that are really grabbing my interest. I am trying to keep track of what I am learning right now, in the hope I can impart this information onto you, my friendly reader! So for the next installment of this blog, maybe I will be a bit more organised to be able to share this new content with you...
+
+## Latest Vue stuff
 
 # Business updates
 
@@ -44,15 +43,20 @@ Tina is super excited to begin her new role in early September...
 
 ## Closure of our Office
 
-You may be forgiven to think we are in a spot of bother as the other piece of news this month, is that we close our office. What the heck? Is everything alright? 
+You may be forgiven we are in a spot of bother as the other piece of news this month, is that we close our office. What the heck? Is everything alright? Couldn't be better!
 
-Hah, Couldn't be better!
+The Office served it's purpose brilliantly and I'd like to thank Dawn Steele at Ferneberga House and give [Pure Offices](https://www.pureoffices.co.uk/locations/farnborough/) a massive shout-out in the process. You've been utterly fab and let's stay in touch, you never know.
 
-The Office served it's purpose brilliantly and I'd like to thank Dawn Steele at Ferneberga House and give [Pure Offices](https://www.pureoffices.co.uk/locations/farnborough/) a massive shout-out in the process. You've been utterly fab and let's stay in touch, you never know. Never say never, as they say.
-
-The reason: I have hardly set foot in the office for the past 6 months and costs wise, I now want to streamline my business with two big worries on the horizon being IR35 and the dreaded Brexit. I need to increase my margins now, build up a better financial cushion for whatever slaps us in the face these coming months and years. Another reason for preferring to push for an extension at Clearbox this October! Contract hunting is always better at the start of a new year rather than in the latter quarter.
+The reason: I have hardly set foot in the office for the past 6 months and costs wise, I now want to streamline my business with two big worries on the horizon being IR35 and the dreaded Brexit. I need to increase my margins now, build up a better financial cushion for whatever slaps us in the face these coming months and years. Another reason for preferring to push for an extension at Clearbox this October.
 
 So a lot has happened this past month and the brilliant August bank holiday was most welcome, gorgeous weather, kicked back and did nothing. 
+
+# This website and new Content
+
+## Building content for the JamStack
+
+- How I build this site using Visual Studio Code and no CMS tool [I will create a screencast for it](screencasts/how-i-edit-this-site)
+- [This link doesn't exist](/screencasts/newfile)
 
 # Refreshments!
 
@@ -70,10 +74,29 @@ __Manly Spirits__ (Sydney, Australia)
 
 ![Tina walking towards the entrance at Wisley](./wisley/images/IMG_1215.jpg)
 
-The first weekend of August, a Sunday morning we arrived early for breakfast and we took a walk around the new entrance hall, food hall, shop, garden centre and of course the gardens themselves. [Read more about Wisley here in an earlier blog post I wrote...](/blog/2019/08/wisley)
+The first weekend of August, a Sunday morning we arrived early for breakfast and we took a walk around the new entrance hall, food hall, shop, garden centre and of course the gardens themselves. [Read more about Wisley here...](blog/2019/08/wisley)
 
-## Coming up next month
+## Cambridge in September
 
-- A weekend in Cambridge and at long last the chance to indulge in photography again
-- Hopefully a chance to delve into my photo archives and produce some more articles on the places and photos taken
-- I map out the key areas of my research into the latest front-end development trends, technology as a whole and begin to share what I am writing about imminently
+## Forest of Dean & Wye Valley this Autumn
+
+## Heading for South Africa in 2020
+
+
+
+# The Big Content Section
+
+- [ ] On this site
+
+# Coming someday....
+
+
+
+
+# Todo
+- [ ] Fix the share to social media thing, add cover image which is used for the OG wotsit
+- [ ] amazon links
+- [ ] https://github.com/gridsome/gridsome/tree/master/packages/transformer-remark
+  - [ ] https://github.com/remarkjs/remark/blob/master/doc/plugins.md#list-of-plugins
+  - [ ] May need this one remark-relative-links
+  - [ ] Evolving my process as a content creator, writer and dev
