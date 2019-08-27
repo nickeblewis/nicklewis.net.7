@@ -7,7 +7,6 @@ published: true
 tags: 
  - Journal
  - August
- - 2019
 ---
 
 I am trying something different with the blog, partly because of time commitments and so on, I have decided to write these as monthly journals covering everything from what I am doing professionally as a consultant and contractor to my photography outings, it will be easier that way plus I can make these posts a bit longer :-)
@@ -67,8 +66,6 @@ __Manly Spirits__ (Sydney, Australia)
 # Travel and Photography Trips
 
 ## RHS Wisley
-
-![Tina walking towards the entrance at Wisley](./wisley/images/IMG_1215.jpg)
 
 The first weekend of August, a Sunday morning we arrived early for breakfast and we took a walk around the new entrance hall, food hall, shop, garden centre and of course the gardens themselves. [Read more about Wisley here in an earlier blog post I wrote...](/blog/2019/08/wisley)
 
