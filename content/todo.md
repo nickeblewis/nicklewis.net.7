@@ -191,3 +191,4 @@ I want to take away some stuff with me, I know I have until October but there is
 ## Future Implementation
 * [vue-i18n](https://github.com/kazupon/vue-i18n/)
 
+- [ ] All articles must have a front-matter with published set to true before the article becomes available publicy

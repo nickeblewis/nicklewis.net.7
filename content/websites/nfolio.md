@@ -1,0 +1,1 @@
+Write about Nuxt issues with HMR

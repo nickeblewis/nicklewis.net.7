@@ -28,3 +28,7 @@ This area is going to be broken down into the following sections and the reason 
 All of the above sections and their pages are wired up to Disqus, so that we encourage engagement with the readers out there.
 
 There is a possibility that if the content grows in certain areas more than expected, that new websites could be formed.
+
+## 27/08/19 - further sections add to this site
+
+- In addition to blog and content
