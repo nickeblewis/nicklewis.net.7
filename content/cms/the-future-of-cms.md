@@ -1,0 +1,1 @@
+Beyond Wordpress and how static-sites will take hold
