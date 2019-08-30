@@ -2,6 +2,19 @@
 
 Welcome to the first of my so-called **"Quick Starts"**, simple ways of creating things in around 5-10 minutes just to get the gist of whatever it may be works. However you can take as much time as you wish to complete them, especially if there are some prerequisites to run through first, as there are in this tutorial...
 
+In order to start a Sanity Project there are a couple of ways we can get things moving along:
+
+- Create a project from a boilerplate that provides you your CMS system and the website itself. The application being split into both studio and web, kind of two codebases in one. This may get you up and running faster but the learning curve is steeper because you have a lot more to learn about in one go.
+- Create a Sanity project via their CLI tools and focus on getting your data, content and CMS Studio built first and foremost. So this is probably better if you want to get a better understanding of Sanity's capabilities in isolation first. 
+
+So pick your path, which will it be, the Red or Blue pill? :-)
+
+- [Lets build a Sanity CMS on it's own first (recommended)]()
+- [Let's get really techie and build both a CMS and Site together at once (advanced users)]()
+
+So with this in mind, I have split this article into two!
+
+- [ ] Shall split this into a separate article 
 ## Before we begin
 
 Recently I've been asked by people about [Sanity.io](https://sanity.io) and how I use it, which I will be happy to go into but you can get something up and running very very quickly, so long as you have the following things configured already!
@@ -61,3 +74,4 @@ We shall take the default site and make changes to it, so that it resembles a We
 
 Enjoy!
 
+## Articles in the pipeline
