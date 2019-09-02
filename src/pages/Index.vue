@@ -6,7 +6,6 @@
         <div class="text-green-700 leading-tight">Code</div>
         <div class="text-green-700 leading-tight">Content</div>
         <div class="text-green-700 leading-tight">Photography</div>
-        <div class="text-green-700 leading-tight">Video</div>
       </div>
       <div class="mt-8 sm:mt-0">
         <g-image src="../../static/content.svg" alt="hero" class="mx-auto sm:mx-0" />
