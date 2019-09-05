@@ -37,7 +37,7 @@ When using this component, any content added between the opening and closing tag
 ```html
 <user-information>
   <h2>Hi!</h2>
-  <user-name name="Flavio"></user-name>
+  <user-name name="Nick"></user-name>
 </user-information>
 ```
 
@@ -112,7 +112,7 @@ Vue recognizes this use case and provides us a way to do so:
 <template>
   <div>
     <main>
-      <slot v-bind:dogName="dogName"></slot>
+      <slot v-bind:cakeName="cakeName"></slot>
     </main>
   </div>
 </template>
@@ -122,19 +122,19 @@ export default {
   name: 'Page',
   data: function() {
     return {
-      dogName: 'Roger'
+      cakeName: 'Swiss Roll'
     }
   }
 }
 </script>
 ```
 
-In the parent we can access the dog name we passed using:
+In the parent we can access the cake name we passed using:
 
 ```html
 <page>
   <template v-slot="slotProps">
-    {{ slotProps.dogName }}
+    {{ slotProps.cakeName }}
   </template>
 </page>
 ```
@@ -143,8 +143,8 @@ In the parent we can access the dog name we passed using:
 
 ```html
 <page>
-  <template v-slot="{ dogName }">
-    {{ dogName }}
+  <template v-slot="{ cakeName }">
+    {{ cakeName }}
   </template>
 </page>
 ```
