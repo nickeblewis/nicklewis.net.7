@@ -73,8 +73,7 @@ module.exports = {
             ['gridsome-plugin-remark-youtube'],
             ['gridsome-plugin-remark-twitter', {
               hideMedia: false,
-              hideThread: false,
-              theme: dark
+              hideThread: false
             }],
             [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
           ]
