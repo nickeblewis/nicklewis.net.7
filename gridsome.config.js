@@ -40,6 +40,7 @@ module.exports = {
       options: {
         path: 'blog/**/*.md',
         typeName: 'Post',
+        route: '/blog/:year/:month/:slug',
         refs: {
           tags: {
             typeName: 'Tag',
@@ -51,30 +52,6 @@ module.exports = {
           plugins: [
             ['gridsome-plugin-remark-youtube'],
             ['gridsome-plugin-remark-twitter'],
-            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-          ]
-        }
-      }
-    },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        path: 'content/**/*.md',
-        typeName: 'Post',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            route: 'tag/:id',
-            create: true
-          }
-        },
-        remark: {
-          plugins: [
-            ['gridsome-plugin-remark-youtube'],
-            ['gridsome-plugin-remark-twitter', {
-              hideMedia: false,
-              hideThread: false
-            }],
             [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
           ]
         }
