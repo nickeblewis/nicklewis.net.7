@@ -26,8 +26,6 @@ query Post ($path: String!) {
   post: post (path: $path) {
     title
     date (format: "MMMM D, Y")
-    cover
-    gallery
     content
     tags {
       title
