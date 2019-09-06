@@ -1,6 +1,6 @@
 ---
 title: Pulling in the punters, a lesson in SEO
-path: blog/2019/08/pulling-in-the-punters-a-lesson-in-seo
+slug: pulling-in-the-punters-a-lesson-in-seo
 date: 2019-08-09T20:38:01.518Z
 summary: I delve into SEO and share a few of the things I've learn about it over time and how I do my best to boost my traffic
 tags: 
