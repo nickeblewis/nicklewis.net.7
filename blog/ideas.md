@@ -3,7 +3,8 @@
 # Blog
 - [ ] Tailwind
 - [ ] Sanity.io 
-= [ ] Netlify CMS - guide
+- [ ] Netlify CMS - guide
+- [ ] HEadless CMSes Wordpress etc
 
 # Housekeeping
 - [ ] Go through the content folder and purge rubbish keep the good stuff 
