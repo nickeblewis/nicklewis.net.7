@@ -1,0 +1,2 @@
+- [ ] New area of the site
+- [ ] Getting a Pi up and running as a newbie

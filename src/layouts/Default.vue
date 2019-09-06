@@ -115,7 +115,7 @@ export default {
   data() {
     return {
       isOpen: false,
-      theme: '',
+      theme: 'theme-dark',
     }
   },
   methods: {
