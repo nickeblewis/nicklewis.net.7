@@ -1,1 +1,0 @@
-- [ ] Renting an office can become a burden and here is why
