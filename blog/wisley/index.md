@@ -1,6 +1,6 @@
 ---
 title: Wisley
-path: blog/2019/08/wisley
+slug: wisley
 summary: >-
     We have been members of the RHS for a long time and Wisley is a place we go to a dozen times every year because it
     is a brilliant location to get some fresh air and there are always subjects there to photograph.

@@ -1,6 +1,6 @@
 ---
 title: Experimenting with Luminar
-path: blog/2019/07/experimenting-with-luminar
+slug: experimenting-with-luminar
 published: true
 date: 2019-07-18T20:17:54.257Z
 tags:

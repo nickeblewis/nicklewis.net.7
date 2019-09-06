@@ -1,6 +1,6 @@
 ---
 title: Crunch Influencer Programme
-path: blog/2019/07/crunch-influencers
+slug: crunch-influencers
 date: 2019-07-16T22:38:01.518Z
 published: true
 tags:
