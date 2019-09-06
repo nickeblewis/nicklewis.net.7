@@ -55,7 +55,7 @@ module.exports = {
             [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
           ]
         }
-      }
+      } // TODO - Add folder called gallery at some point in time
     },               
     {
       use: 'gridsome-plugin-rss',

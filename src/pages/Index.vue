@@ -27,6 +27,9 @@
       </div>
     </div>
 
+    <!-- TODO - Latest blog aricles -->
+    <!-- TODO - Featured blog aricles -->
+    <!-- TODO - Photo grid -->
     <div class="overflow-x-hidden">
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
         <h2 class="font-bold mb-6" id="services">Here are some of the many services we can offer:</h2>
