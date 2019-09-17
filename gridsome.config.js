@@ -15,7 +15,7 @@ if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
   siteName: 'Nick Lewis',
-  siteDescription: 'Home of digital consultancy',
+  siteDescription: 'Photographer, Coder, Writer',
   siteUrl: 'https://nicklewis.net',
   plugins: [
     {
