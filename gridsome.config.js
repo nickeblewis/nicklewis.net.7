@@ -21,7 +21,7 @@ module.exports = {
     {
       use: 'gridsome-source-sanity',
       options: {
-        projectId: '85cmsqr4',
+        projectId: '6rza5hds',
         dataset: 'production',
         // Token is only required if dataset is private
         // or `overlayDrafts` is set to true
