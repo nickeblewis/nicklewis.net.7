@@ -19,6 +19,18 @@ module.exports = {
   siteUrl: 'https://nicklewis.net',
   plugins: [
     {
+      use: 'gridsome-source-sanity',
+      options: {
+        projectId: '6rza5hds',
+        dataset: 'production',
+        // Token is only required if dataset is private
+        // or `overlayDrafts` is set to true
+        // token: '<tokenWithReadRights>'
+        overlayDrafts: false,
+        watchMode: false
+      }
+    },
+    {
       use: '@gridsome/plugin-google-analytics',
       options: {
         id: 'UA-159000-18'
