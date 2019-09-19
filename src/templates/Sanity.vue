@@ -22,17 +22,49 @@
 </template>
 
 <page-query>
-query Post ($slug: String!) {
-  post: sanityPost (slug: $slug) {
+query Post ($id: ID!) {
+  post: sanityPost (id: $id) {
     title
     publishedAt (format: "MMMM D, Y")
-    content
+    categories {
+      id
+      title
+    }
+    _rawExcerpt
+    _rawBody
+    mainImage {
+      asset {
+        _id
+        url
+      }
+      caption
+      alt
+      hotspot {
+        x
+        y
+        height
+        width
+      }
+      crop {
+        top
+        bottom
+        left
+        right
+      }
+    }
   }
 }
 </page-query>
 
 <script>
+import BlockContent from '~/components/BlockContent'
+import PostMeta from '~/components/PostMeta'
+
 export default {
+  components: {
+    PostMeta,
+    BlockContent
+  }
   metaInfo() {
     return {
       title: this.$page.post.title
