@@ -39,14 +39,13 @@
           <!-- Refer to the nfolio.4 project for guidance.... -->
           <!-- TODO I think the text can be corrected via the UI -->
           <!--<p class="text-gray-700 text-base">{{ post.excerpt }}</p>-->
-          <block-content :blocks="post._rawExcerpt" />
-        </div>
-        <div class="text-lg mb-4">
-          <!-- {{ post.node.summary }} -->
-        </div>
-
-        <div class="mb-8">
-          <g-link :to="post.node.slug.current" class="font-bold uppercase">Read More</g-link>
+          <div class="text-lg mb-4">
+            <!-- {{ post.node.summary }} -->
+            <block-content :blocks="post._rawExcerpt" />
+          </div>
+          <div class="mb-8 justify-center">
+            <g-link :to="post.node.slug.current" class="font-bold uppercase">Read More</g-link>
+          </div>
         </div>
       </div>
       <!-- end post -->
