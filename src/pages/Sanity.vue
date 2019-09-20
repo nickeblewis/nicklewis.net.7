@@ -28,7 +28,7 @@
 
       <pagination-posts
         v-if="$page.posts.pageInfo.totalPages > 1"
-        base="/blog"
+        base="/sanity"
         :totalPages="$page.posts.pageInfo.totalPages"
         :currentPage="$page.posts.pageInfo.currentPage"
       />
@@ -38,14 +38,14 @@
 </template>
 
 <page-query>
-query SanityPosts {
-      metadata {
+query SanityPosts ($page: Int) {
+  metadata {
     sanityOptions {
       projectId
       dataset
     }
   }
-  posts: allSanityPost (sortBy: "publishedAt") {
+  posts: allSanityPost (sortBy: "publishedAt", order: DESC, perPage: 3, page: $page) @paginate {
     totalCount
     pageInfo {
       totalPages

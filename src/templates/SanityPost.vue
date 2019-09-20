@@ -21,7 +21,7 @@
       />
       </div>
       <div class="mb-8">
-        <g-link to="/blog" class="font-bold uppercase">Back to Blog</g-link>
+        <g-link to="/sanity" class="font-bold uppercase">Back to Blog</g-link>
       </div>
       <vue-disqus shortname="nicklewis-net" :identifier="$page.post.title"></vue-disqus>
     </div>
