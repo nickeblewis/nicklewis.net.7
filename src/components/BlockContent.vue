@@ -8,7 +8,7 @@
 </template>
 
 <script>
-import PortableText from 'sanity-blocks-vue-component'
+import PortableText from "sanity-blocks-vue-component";
 
 export default {
   props: {
@@ -24,8 +24,11 @@ export default {
           mainImage: ({ node }) => (
             <figure>
               <img
-                src={this.$urlForImage(node, this.$static.metadata.sanityOptions)
-                  .auto('format')
+                src={this.$urlForImage(
+                  node,
+                  this.$static.metadata.sanityOptions
+                )
+                  .auto("format")
                   .url()}
                 alt={node.alt}
               />
@@ -34,9 +37,9 @@ export default {
           )
         }
       }
-    }
+    };
   }
-}
+};
 </script>
 
 <static-query>

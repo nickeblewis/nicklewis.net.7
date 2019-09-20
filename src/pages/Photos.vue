@@ -1,22 +1,46 @@
 <template>
   <Layout>
-        <div class="flex flex-wrap justify-center sm:w-full md:w-full lg:w-full xl:w-full">
-
-    <!-- <div class="container-inner mx-auto py-16"> -->
-      <div v-for="post in $page.posts.edges" :key="post.id" class="bg-background-tertiary sm:w-full md:w-full lg:w-2/5 xl:w-2/5 m-3 rounded-lg shadow-lg overflow-hidden">
+    <div class="flex flex-wrap justify-center sm:w-full md:w-full lg:w-full xl:w-full">
+      <!-- <div class="container-inner mx-auto py-16"> -->
+      <div
+        v-for="post in $page.posts.edges"
+        :key="post.id"
+        class="bg-background-tertiary sm:w-full md:w-full lg:w-2/5 xl:w-2/5 m-3 rounded-lg shadow-lg overflow-hidden"
+      >
         <!-- <h2 class="text-3xl font-bold"><g-link :to="post.node.slug.current" class="text-copy-primary">{{ post.node.title }}</g-link></h2> -->
         <g-image
-        alt="Cover image"
-        v-if="post.node.mainImage"
-        class="justify-center"
-        :src="$urlForImage(post.node.mainImage, $page.metadata.sanityOptions).height(440).width(800).auto('format').url()"
-      />
+          alt="Cover image"
+          v-if="post.node.mainImage"
+          class="justify-center"
+          :src="$urlForImage(post.node.mainImage, $page.metadata.sanityOptions).height(440).width(800).auto('format').url()"
+        />
         <div class="text-copy-secondary mb-4">
           <span>{{ post.node.publishedAt }}</span>
-          <span> &middot; </span>
+          <span>&middot;</span>
           <!-- <span>{{ post.node.timeToRead }} min read</span> -->
         </div>
+        <div class="px-6 py-4">
+          <span
+            class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+          >#photography</span>
+          <span
+            class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
+          >#travel</span>
+          <span
+            class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700"
+          >#winter</span>
+        </div>
 
+        <div class="px-6 py-4">
+          <div class="font-bold text-xl mb-2">{{ post.node.title }}</div>
+          <!-- TODO don't like the name blurb, so wish to spend time on naming decisions -->
+          <!-- should work like tweets and work like a micro-blog -->
+          <!-- TODO the text also needs conversion from block format -->
+          <!-- Refer to the nfolio.4 project for guidance.... -->
+          <!-- TODO I think the text can be corrected via the UI -->
+          <!--<p class="text-gray-700 text-base">{{ post.excerpt }}</p>-->
+          <block-content :blocks="post._rawExcerpt" />
+        </div>
         <div class="text-lg mb-4">
           <!-- {{ post.node.summary }} -->
         </div>
@@ -24,7 +48,8 @@
         <div class="mb-8">
           <g-link :to="post.node.slug.current" class="font-bold uppercase">Read More</g-link>
         </div>
-      </div> <!-- end post -->
+      </div>
+      <!-- end post -->
 
       <pagination-posts
         v-if="$page.posts.pageInfo.totalPages > 1"
@@ -33,7 +58,7 @@
         :currentPage="$page.posts.pageInfo.currentPage"
       />
     </div>
-        <!-- </div> -->
+    <!-- </div> -->
   </Layout>
 </template>
 
@@ -87,15 +112,15 @@ query SanityPosts ($page: Int) {
 </page-query>
 
 <script>
-import PaginationPosts from '../components/PaginationPosts'
+import PaginationPosts from "../components/PaginationPosts";
 
 export default {
   metaInfo: {
-    title: 'Sanity Blog'
+    title: "Sanity Blog"
   },
   components: {
     PaginationPosts
   }
-}
+};
 </script>
 
