@@ -23,7 +23,12 @@ export default {
         types: {
           mainImage: ({ node }) => (
             <figure>
-              
+              <img
+                src={this.$urlForImage(node, this.$static.metadata.sanityOptions)
+                  .auto('format')
+                  .url()}
+                alt={node.alt}
+              />
               <figcaption>{node.caption}</figcaption>
             </figure>
           )
