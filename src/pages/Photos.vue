@@ -2,13 +2,13 @@
   <Layout>
         <div class="flex flex-wrap justify-center sm:w-full md:w-full lg:w-full xl:w-full">
 
-    <div class="container-inner mx-auto py-16">
+    <!-- <div class="container-inner mx-auto py-16"> -->
       <div v-for="post in $page.posts.edges" :key="post.id" class="bg-background-tertiary sm:w-full md:w-full lg:w-2/5 xl:w-2/5 m-3 rounded-lg shadow-lg overflow-hidden">
-        <h2 class="text-3xl font-bold"><g-link :to="post.node.slug.current" class="text-copy-primary">{{ post.node.title }}</g-link></h2>
+        <!-- <h2 class="text-3xl font-bold"><g-link :to="post.node.slug.current" class="text-copy-primary">{{ post.node.title }}</g-link></h2> -->
         <g-image
         alt="Cover image"
         v-if="post.node.mainImage"
-        class="post-card__image"
+        class="justify-center"
         :src="$urlForImage(post.node.mainImage, $page.metadata.sanityOptions).height(440).width(800).auto('format').url()"
       />
         <div class="text-copy-secondary mb-4">
@@ -33,7 +33,7 @@
         :currentPage="$page.posts.pageInfo.currentPage"
       />
     </div>
-        </div>
+        <!-- </div> -->
   </Layout>
 </template>
 
@@ -45,7 +45,7 @@ query SanityPosts ($page: Int) {
       dataset
     }
   }
-  posts: allSanityPost (sortBy: "publishedAt", order: DESC, perPage: 3, page: $page) @paginate {
+  posts: allSanityPost (sortBy: "publishedAt", order: DESC, perPage: 4, page: $page) @paginate {
     totalCount
     pageInfo {
       totalPages
