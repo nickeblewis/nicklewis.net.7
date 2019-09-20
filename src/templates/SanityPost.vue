@@ -13,6 +13,13 @@
         </g-link> -->
       </div>
       <!-- <div class="markdown-body mb-8" v-html="$page.post.content" /> -->
+      <div class="markdown-body mb-8">
+          <block-content
+        class="post__content"
+        :blocks="$page.post._rawBody"
+        v-if="$page.post._rawBody"
+      />
+      </div>
       <div class="mb-8">
         <g-link to="/blog" class="font-bold uppercase">Back to Blog</g-link>
       </div>
@@ -23,6 +30,12 @@
 
 <page-query>
 query Post ($id: ID!) {
+    metadata {
+    sanityOptions {
+      projectId
+      dataset
+    }
+  }
   post: sanityPost (id: $id) {
     title
     publishedAt (format: "MMMM D, Y")
@@ -58,13 +71,11 @@ query Post ($id: ID!) {
 
 <script>
 import BlockContent from '~/components/BlockContent'
-import PostMeta from '~/components/PostMeta'
 
 export default {
   components: {
-    PostMeta,
     BlockContent
-  }
+  },
   metaInfo() {
     return {
       title: this.$page.post.title

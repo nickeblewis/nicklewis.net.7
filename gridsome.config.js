@@ -17,6 +17,9 @@ module.exports = {
   siteName: 'Nick Lewis',
   siteDescription: 'Photographer, Coder, Writer',
   siteUrl: 'https://nicklewis.net',
+  templates: {
+    SanityPost: '/:slug__current'
+  },
   plugins: [
     {
       use: 'gridsome-source-sanity',

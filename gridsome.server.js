@@ -8,10 +8,12 @@
 const fs = require('fs');
 const path = require('path');
 const pick = require('lodash.pick');
+const clientConfig = require('./client-config')
 
 module.exports = function (api, options) {
   api.loadSource(store => {
     // Use the Data store API here: https://gridsome.org/docs/data-store-api
+    store.addMetadata('sanityOptions', clientConfig.sanity)
   })
 
   api.beforeBuild(({ config, store }) => {
