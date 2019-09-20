@@ -53,7 +53,7 @@
 
       <pagination-posts
         v-if="$page.posts.pageInfo.totalPages > 1"
-        base="/sanity"
+        base="/photos"
         :totalPages="$page.posts.pageInfo.totalPages"
         :currentPage="$page.posts.pageInfo.currentPage"
       />
