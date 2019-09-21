@@ -8,13 +8,14 @@
         class="bg-background-tertiary sm:w-full md:w-full lg:w-2/5 xl:w-2/5 m-3 rounded-lg shadow-lg overflow-hidden"
       >
         <!-- <h2 class="text-3xl font-bold"><g-link :to="post.node.slug.current" class="text-copy-primary">{{ post.node.title }}</g-link></h2> -->
+        <g-link :to="post.node.slug.current">
         <g-image
           alt="Cover image"
           v-if="post.node.mainImage"
           class="justify-center"
           :src="$urlForImage(post.node.mainImage, $page.metadata.sanityOptions).height(440).width(800).auto('format').url()"
         />
-
+        </g-link>
         <!-- <div class="px-6 py-4">
           <span
             class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"

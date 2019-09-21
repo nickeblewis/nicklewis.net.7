@@ -33,8 +33,11 @@
             <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="'#contact'" class="text-copy-primary hover:text-gray-600">Contact</a>
             <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact</g-link>
           </li>
-          <li>
+          <li class="mr-8 mb-6 lg:mb-0">
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
+          </li>
+          <li>
+            <g-link to="/photos" class="text-copy-primary hover:text-gray-600">Photos</g-link>
           </li>
         </ul>
       </nav>
