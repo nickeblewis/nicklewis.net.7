@@ -14,12 +14,8 @@
           class="justify-center"
           :src="$urlForImage(post.node.mainImage, $page.metadata.sanityOptions).height(440).width(800).auto('format').url()"
         />
-        <div class="text-copy-secondary mb-4">
-          <span>{{ post.node.publishedAt }}</span>
-          <span>&middot;</span>
-          <!-- <span>{{ post.node.timeToRead }} min read</span> -->
-        </div>
-        <div class="px-6 py-4">
+
+        <!-- <div class="px-6 py-4">
           <span
             class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2"
           >#photography</span>
@@ -29,7 +25,7 @@
           <span
             class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700"
           >#winter</span>
-        </div>
+        </div>-->
 
         <div class="px-6 py-4">
           <div class="font-bold text-xl mb-2">{{ post.node.title }}</div>
@@ -41,7 +37,11 @@
           <!--<p class="text-gray-700 text-base">{{ post.excerpt }}</p>-->
           <div class="text-lg mb-4">
             <!-- {{ post.node.summary }} -->
-            <block-content :blocks="post._rawExcerpt" />
+            <span>{{post.node.publishedAt}}</span>
+          </div>
+          <div class="text-lg mb-4">
+            <!-- {{ post.node.summary }} -->
+            <block-content :blocks="post.node._rawExcerpt" />
           </div>
           <div class="mb-8 justify-center">
             <g-link :to="post.node.slug.current" class="font-bold uppercase">Read More</g-link>
@@ -49,13 +49,14 @@
         </div>
       </div>
       <!-- end post -->
-
-      <pagination-posts
-        v-if="$page.posts.pageInfo.totalPages > 1"
-        base="/photos"
-        :totalPages="$page.posts.pageInfo.totalPages"
-        :currentPage="$page.posts.pageInfo.currentPage"
-      />
+      <div class="px-6 py-4">
+        <pagination-posts
+          v-if="$page.posts.pageInfo.totalPages > 1"
+          base="/photos"
+          :totalPages="$page.posts.pageInfo.totalPages"
+          :currentPage="$page.posts.pageInfo.currentPage"
+        />
+      </div>
     </div>
     <!-- </div> -->
   </Layout>
