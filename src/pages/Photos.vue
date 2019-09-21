@@ -117,7 +117,7 @@ import PaginationPosts from "../components/PaginationPosts";
 
 export default {
   metaInfo: {
-    title: "Sanity Blog"
+    title: "Nick Lewis Photography & Digital"
   },
   components: {
     PaginationPosts
