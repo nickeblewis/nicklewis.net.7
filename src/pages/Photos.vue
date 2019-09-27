@@ -42,7 +42,7 @@
           </div>
           <div class="text-lg mb-4">
             <!-- {{ post.node.summary }} -->
-            <block-content :blocks="post.node._rawExcerpt" />
+            <!-- <block-content :blocks="post.node._rawExcerpt" /> -->
           </div>
           <div class="mb-8 justify-center">
             <g-link :to="post.node.slug.current" class="font-bold uppercase">Read More</g-link>
@@ -71,7 +71,7 @@ query SanityPosts ($page: Int) {
       dataset
     }
   }
-  posts: allSanityPost (sortBy: "publishedAt", order: DESC, perPage: 4, page: $page) @paginate {
+  posts: allSanityPost (sortBy: "publishedAt", order: DESC, perPage: 6, page: $page) @paginate {
     totalCount
     pageInfo {
       totalPages
@@ -114,15 +114,15 @@ query SanityPosts ($page: Int) {
 
 <script>
 import PaginationPosts from "../components/PaginationPosts";
-import BlockContent from "~/components/BlockContent";
+//import BlockContent from "~/components/BlockContent";
 
 export default {
   metaInfo: {
     title: "Nick Lewis Photography & Digital"
   },
   components: {
-    PaginationPosts,
-    BlockContent
+    PaginationPosts
+  
   }
 };
 </script>
