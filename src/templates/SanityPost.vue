@@ -14,6 +14,18 @@
       </div>
       <!-- <div class="markdown-body mb-8" v-html="$page.post.content" /> -->
       <div class="markdown-body mb-8">
+        <div
+        v-for="image in $page.post.images"
+        :key="image.id"
+        class="m-3 rounded-lg shadow-lg overflow-hidden"
+      >
+<g-image
+          alt="Cover image"
+          
+          class="justify-center"
+          :src="$urlForImage(image, $page.metadata.sanityOptions).width(800).url()"
+        />
+        </div>
         <block-content
           class="post__content"
           :blocks="$page.post._rawBody"
@@ -45,6 +57,26 @@ query Post ($id: ID!) {
     }
     _rawExcerpt
     _rawBody
+    images {
+          asset {
+        _id
+        url
+      }
+      
+    
+      hotspot {
+        x
+        y
+        height
+        width
+      }
+      crop {
+        top
+        bottom
+        left
+        right
+      }
+        }
     mainImage {
       asset {
         _id
