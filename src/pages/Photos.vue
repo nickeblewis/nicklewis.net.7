@@ -114,13 +114,15 @@ query SanityPosts ($page: Int) {
 
 <script>
 import PaginationPosts from "../components/PaginationPosts";
+import BlockContent from "~/components/BlockContent";
 
 export default {
   metaInfo: {
     title: "Nick Lewis Photography & Digital"
   },
   components: {
-    PaginationPosts
+    PaginationPosts,
+    BlockContent
   }
 };
 </script>
