@@ -9,7 +9,7 @@
 
 <script>
 import PortableText from "sanity-blocks-vue-component";
-
+import YouTube from '../components/YouTube'
 export default {
   props: {
     blocks: Array
@@ -21,6 +21,7 @@ export default {
     return {
       serializers: {
         types: {
+          youtube: YouTube,
           mainImage: ({ node }) => (
             <figure>
               <img
