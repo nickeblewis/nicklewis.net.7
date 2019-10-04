@@ -4,8 +4,9 @@
   "scripts": {
     "develop": "gridsome develop",
     "explore": "gridsome explore",
+    "build": "run-p build:**",
     "build:lambda": "netlify-lambda build src/lambda",
-    "build": "gridsome build"
+    "build:app": "gridsome build"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",
