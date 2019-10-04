@@ -2,11 +2,10 @@
   "name": "nicklewis.net",
   "private": true,
   "scripts": {
-    "build": "run-p build:**",
     "develop": "gridsome develop",
     "explore": "gridsome explore",
     "build:lambda": "netlify-lambda build src/lambda",
-    "build:app": "gridsome build"
+    "build": "gridsome build"
   },
   "dependencies": {
     "@fullhuman/postcss-purgecss": "^1.2.0",
