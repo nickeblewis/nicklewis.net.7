@@ -15,11 +15,21 @@ summary: >-
   marketing content to describe it to a broader audience
 ---
 ## Introduction
+
 The old nicklewis.net website was moved to nicklewis.online a little while ago, so that I can retire it to a certain degree and instead develop the site using more modern JavaScript tools.
+
 ## JamStack
+
 ## JavaScript
+
 ## VueJS
+
 ## Gridsome
+
 ## MarkDown
-## CMS
+
+## Netlify CMS
+
+## Sanity.io
+
 ## Developers and people who edit the site
