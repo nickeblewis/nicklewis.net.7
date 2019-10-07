@@ -22,6 +22,15 @@ module.exports = {
   },
   plugins: [
     {
+      use: '@gridsome/vue-remark',
+      options: {
+        typeName: 'Documentation', // Required
+        baseDir: './content/docs', // Where .md files are located
+        pathPrefix: '/docs', // Add route prefix. Optional
+        template: './src/templates/Documentation.vue' // Optional
+      }
+    },
+    {
       use: 'gridsome-source-sanity',
       options: {
         projectId: '85cmsqr4',
