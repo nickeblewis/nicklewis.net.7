@@ -25,20 +25,20 @@ export default function (Vue, { router, head, isClient }) {
   Vue.use(VueDisqus)
   Vue.use(VueYoutube)
 
-  Vue.use(VueFbCustomerChat, {
-    page_id: 182108598496942, //  change 'null' to your Facebook Page ID,
-    theme_color: '#333333', // theme color in HEX
-    location: 'en_US', // default 'en_US'
-  })
+  //Vue.use(VueFbCustomerChat, {
+  //  page_id: 182108598496942, //  change 'null' to your Facebook Page ID,
+  //  theme_color: '#333333', // theme color in HEX
+  //  location: 'en_US', // default 'en_US'
+  //})
 
   head.meta.push({
     name: 'keywords',
-    content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS'
+    content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,walks,photography,nature,travel,video'
   })
 
   head.meta.push({
     name: 'description',
-    content: 'Nick Lewis'
+    content: 'Nick Lewis Photography'
   })
 
   head.meta.push({
