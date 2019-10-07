@@ -27,7 +27,7 @@ module.exports = {
         typeName: 'Documentation', // Required
         baseDir: './content/docs', // Where .md files are located
         pathPrefix: '/docs', // Add route prefix. Optional
-        template: './src/templates/Documentation.vue' // Optional
+        template: './src/templates/Remark.vue' // Optional
       }
     },
     {
