@@ -21,15 +21,15 @@ module.exports = {
     SanityPost: '/:slug__current'
   },
   plugins: [
-    {
-      use: '@gridsome/vue-remark',
-      options: {
-        typeName: 'Documentation', // Required
-        baseDir: './content/docs', // Where .md files are located
-        pathPrefix: '/docs', // Add route prefix. Optional
-        template: './src/templates/Remark.vue' // Optional
-      }
-    },
+    // {
+    //   use: '@gridsome/vue-remark',
+    //   options: {
+    //     typeName: 'Documentation', // Required
+    //     baseDir: './content/docs', // Where .md files are located
+    //     pathPrefix: '/docs', // Add route prefix. Optional
+    //     template: './src/templates/Remark.vue' // Optional
+    //   }
+    // },
     {
       use: 'gridsome-source-sanity',
       options: {
