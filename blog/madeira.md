@@ -1,9 +1,10 @@
 ---
 title: Madeira
-path: blog/2019/08/madeira
+published: true
+slug: madeira
 date: 2019-08-14T09:26:06.093Z
 tags:
-  - tag
+  - Madeira
 summary: t
 ---
 t
