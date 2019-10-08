@@ -18,20 +18,26 @@ summary: >-
 ---
 ## Introduction
 
-The old nicklewis.net website was moved to nicklewis.online a little while ago, so that I can retire it to a certain degree and instead develop the site using more modern JavaScript tools. Earlier this year I started building a new site using VueJS and Gridsome, that at it's core is based heavily on markdown files for it's content. More recently I added Sanity.io to the mix. I now use both Netlify CMS and Sanity.io to manage certain areas of this site because I wanted to experiment with both. However I have hit some problems that I need to resolve, which may lead to me dropping one of the above systems. One key reason being cost, I want to keep the running of this site as cheap as I can. My website has therefore become something of a guinea pig and I hope to learn valuable lessons from this to pass on to you and future clients.
+The old nicklewis.net website was moved to nicklewis.online a little while ago, so that I can retire it to a certain degree and instead develop the site using more modern JavaScript tools. Earlier this year I started building a new site using VueJS and Gridsome, that at it's core is based heavily on markdown files for it's content. 
+
+More recently I added Sanity.io to the mix. I now use both Netlify CMS and Sanity.io to manage certain key areas of this site because I wanted to experiment with both. However I have hit some problems that I need to resolve, which may lead to me dropping one of the above systems. One key reason being cost, I want to keep the running of this site as cheap as I can. My website has therefore become something of a guinea pig and I hope to learn valuable lessons from this to pass on to you and ensure I choose the right tools for future clients.
+
+The Developer and the User
+
+
+
+MarkDown, Visual Studio Code & Netlify CMS
+
+Netlify
 
 JamStack
 
-## JavaScript
+VueJS
 
-## VueJS
+Gridsome
 
-## Gridsome
+Now (at the time of writing) running version 0.7.7 which has introduced some great new features including an equivalent of React/Gatsby's MDX
 
-## MarkDown
+Sanity.io
 
-## Netlify CMS
-
-## Sanity.io
-
-## Developers and people who edit the site
+Developers and people who edit the site
