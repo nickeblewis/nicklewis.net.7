@@ -27,6 +27,17 @@ More recently I added Sanity.io to the mix. I now use both Netlify CMS and Sanit
 This particular website only has one user and developer which is me but let's imagine for a minute there were more people involved? I needed to take this into account because this website also acts as a prototype for future projects where there will be other people involved, who would need to be able to edit, add content, upload media and so on, so forth. So it is for that reason I've developed it as if I were building it for a client. This helps me architect my processes, workflow and get to know my tools inside and out.
 
 ## MarkDown, Visual Studio Code & Netlify CMS
+If you haven't seen markdown before here is a snippet of what a .md file looks like to give you an idea.
+
+```markdown
+---
+title: The article heading
+slug: the-article-heading
+date: 2019-10-08
+---
+The body of the article
+```
+As you can see it is fairly simple to use and pick-up. It is converted to HTML before the site is published to the server from which it is hosted.
 
 ## Github & Netlify
 
