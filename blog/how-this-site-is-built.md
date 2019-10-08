@@ -36,11 +36,11 @@ VueJS
 
 Gridsome
 
-Now (at the time of writing) running version 0.7.7 which has introduced some great new features including an equivalent of React/Gatsby's MDX
+Now (at the time of writing) running version 0.7.7 which has introduced some great new features including an equivalent of React/Gatsby's MDX that I have started to look into and hope to put to use in the near future.
 
 Sanity.io
 
-Developers and people who edit the site
+Currently used for the Photos section
 
 The Costs
 
