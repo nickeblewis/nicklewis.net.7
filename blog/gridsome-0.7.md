@@ -1,11 +1,16 @@
 ---
 title: Gridsome 0.7
-slug: gridsome-0-7
-date: 2019-10-07
 published: true
-summary: Exloring the new features
+slug: gridsome-0-7
+date: 2019-10-07T00:00:00.000Z
 tags:
- - gridsome
+  - gridsome
+summary: >-
+  Not so long ago version 0.7 of Gridsome came out and they are rapidly heading
+  towards v1.0. The new version came with some exciting features, most notable
+  perhaps being the ability to include Vue components within your markdown
+  files. It is a lot like MDX in the React world and offers a massive dollop of
+  powerful code possibilities!
 ---
 
 Exploring some new features and copying a few ideas from the official documentation
@@ -76,5 +81,3 @@ import data from '~/data/youtube.json'
 
 Isn't it great? 🥳
 ```
-
-You can use <page-query> & <style> blocks inside the Markdown files too!
