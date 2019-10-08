@@ -1,6 +1,7 @@
 ---
 title: Building sites for non-technical people
-path: building-sites-for-non-technical-people
+published: true
+slug: Building-sites-for-non-technical-people
 date: 2019-07-21T07:10:17.726Z
 tags:
   - non-technical
