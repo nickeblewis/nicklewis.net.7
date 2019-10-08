@@ -22,25 +22,25 @@ Earlier this year I started building a new site using VueJS and Gridsome, that a
 
 More recently I added Sanity.io to the mix. I now use both Netlify CMS and Sanity.io to manage certain key areas of this site because I wanted to experiment with both. However I have hit some problems that I need to resolve, which may lead to me dropping one of the above systems. One key reason being cost, I want to keep the running of this site as cheap as I can. My website has therefore become something of a guinea pig and I hope to learn valuable lessons from this to pass on to you and ensure I choose the right tools for future clients.
 
-The Developer and the User
+## The Developer and the User
 
-This particular website only has one user and developer which is me but let's imagine for a minute there were more people involved? I needed to take this into account because this website also acts as a prototype for future projects where there will be other people involved, who would need to be able to edit, add content, upload media and so on, so forth. So it is for that reason I've developed it as if I were building it for a client. This helps me architect my processes and workflow.
+This particular website only has one user and developer which is me but let's imagine for a minute there were more people involved? I needed to take this into account because this website also acts as a prototype for future projects where there will be other people involved, who would need to be able to edit, add content, upload media and so on, so forth. So it is for that reason I've developed it as if I were building it for a client. This helps me architect my processes, workflow and get to know my tools inside and out.
 
-MarkDown, Visual Studio Code & Netlify CMS
+## MarkDown, Visual Studio Code & Netlify CMS
 
-Github & Netlify
+## Github & Netlify
 
-JamStack
+## JamStack
 
-VueJS
+## VueJS
 
-Gridsome
+## Gridsome
 
 Now (at the time of writing) running version 0.7.7 which has introduced some great new features including an equivalent of React/Gatsby's MDX that I have started to look into and hope to put to use in the near future.
 
-Sanity.io
+## Sanity.io
 
 Currently used for the Photos section
 
-The Costs
+## The Costs
 
