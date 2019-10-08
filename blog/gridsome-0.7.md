@@ -81,5 +81,3 @@ import data from '~/data/youtube.json'
 
 Isn't it great? 🥳
 ```
-
-You can use <page-query> & <style> blocks inside the Markdown files too!
