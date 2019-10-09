@@ -1,6 +1,6 @@
 ---
 title: iPad Pro and the new iPadOS
-slug: ipad-pro-replaces-macbook
+slug: ipad-pro-ipados
 date: 2019-10-09
 published: true
 summary: Wow this iPad Pro I have just bought is blowing my mind and boosting my productivity. Here is why
