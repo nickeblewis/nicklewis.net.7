@@ -29,6 +29,15 @@ The following could be scheduled to go out once a week or more - or - only pick 
 - #write52 begins here where I write about technology mostly and the first article will be about maintaining a strategic plan for blogging and social media
 - shooting in the dark #write52
 
+# coming up
+- try out the buffer editor for coding via Github on the iPad
+- forget the big scenes, try the little scenes
+  - How I often prefer looking for small simple compositions
+  - selection of images
+  - story behind each
+- Vue Components: Vue tree select
+  - https://vue-treeselect.js.org/
+  
 # Currently in progress
 - madeira
 - shooting-in-the-dark
