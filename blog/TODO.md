@@ -16,3 +16,5 @@
 # Other
 - [ ] CoSchedule and other tools that can help you spread your marketing
 - [ ] Research keyword research tools - watch out for another article on this soon
+
+- #write52 begins here where I write about technology mostly and the first article will be about maintaining a strategic plan for blogging and social media
