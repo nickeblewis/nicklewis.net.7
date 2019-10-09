@@ -17,4 +17,14 @@
 - [ ] CoSchedule and other tools that can help you spread your marketing
 - [ ] Research keyword research tools - watch out for another article on this soon
 
+The following could be scheduled to go out once a week or more - or - only pick out some articles as #write52?
+
 - #write52 begins here where I write about technology mostly and the first article will be about maintaining a strategic plan for blogging and social media
+- shooting in the dark #write52
+
+# Currently in progress
+- madeira
+- shooting-in-the-dark
+
+# In the buffer queue
+- ipad and ipados
