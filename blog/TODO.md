@@ -1,3 +1,10 @@
+---
+title: TODO
+published: false
+slug: todo
+date: 2019-10-09T13:28:32.748Z
+summary: todo
+---
 # Home page
 - [ ] Layout changes review 
 # Blog
@@ -28,3 +35,5 @@ The following could be scheduled to go out once a week or more - or - only pick 
 
 # In the buffer queue
 - ipad and ipados
+
+changed in CMS
