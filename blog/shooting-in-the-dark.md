@@ -1,1 +1,0 @@
-Copy in the text I wrote on Notes earlier today and this is the first in a series of articles about photography techniques with examples
