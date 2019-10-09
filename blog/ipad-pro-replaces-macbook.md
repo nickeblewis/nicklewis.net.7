@@ -1,5 +1,5 @@
 ---
-title: iPad Pro replaces MacBook
+title: iPad Pro and the new iPadOS
 slug: ipad-pro-replaces-macbook
 date: 2019-10-09
 published: true
@@ -14,7 +14,7 @@ tags:
  - development
 ---
 
-Two weeks ago I purchased the new iPad Pro 11 inch which is one of the first to come bundled with the new iPadOS operating system. I am excited to see how this OS evolves, as I suspect it will introduce many more iPad only features in due course whilst maintaining some form of symbiosis with iOS. It may mean that in time the iPad will share many of the same features as MacOS and that is already apparent when I paired the tablet with my existing Magic keyboard. I haven't yet purchased a Smart Keyboard (the official accessory) because my existing keyboard works well enough for now. I love the Apple Pencil that I did buy at the same time along with a SD card reader, so that I can import files from my Osmo Pocket, Mavic Pro and Sony A7R3 to the device. More on that later.
+Two weeks ago I purchased the new iPad Pro 11-inch which is one of the first to come bundled with the new iPadOS operating system. I am excited to see how this OS evolves, as I suspect it will introduce many more iPad only features in due course whilst maintaining some form of symbiosis with iOS. It may mean that in time the iPad will share many of the same features as MacOS and that is already apparent when I paired the tablet with my existing Magic keyboard. I haven't yet purchased a Smart Keyboard (the official accessory) because my existing keyboard works well enough for now. I love the Apple Pencil that I did buy at the same time along with a SD card reader, so that I can import files from my Osmo Pocket, Mavic Pro and Sony A7R3 to the device. More on that later.
 
 ## Magic vs Smart Keyboard
 You can use either and as in my case it's possible to connect an existing bluetooth keyboard to the iPad Pro. However you will need to charge your keyboard separately or replace the batteries if it's an older model (like mine). The Smart keyboard on the other hand can just be hooked up to the iPad and never needs to be charged or have it's batteries replaced plus is more portable. However the feel of the Smart is perhaps not as nice as the magic when it comes to tapping those keys with your fingers! I will purchase a Smart at some point but for the moment, I am happy to make-do with what I have and could pick up a smart keyboard any time later, especially just before we hop on a plane somewhere.
