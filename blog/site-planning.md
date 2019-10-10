@@ -4,13 +4,14 @@ published: true
 slug: site-planning
 date: 2019-10-10T13:04:45.145Z
 tags:
-  - tag
+  - planning
 summary: '-'
 ---
 
-## coSchedule
+This page is going to work differently to the others in that it can and will bubble back to the top from time to time.
 
-## Buffer
+## coSchedule, Buffer or others
+I currently mostly use Buffer for scheduling posts
 
 ## SM Platforms
 - twitter
@@ -78,6 +79,7 @@ summary: '-'
   - workflow, productivity,
   - kidney, transplant diary, health
   - SEO, Google
+  - planning
   - Content
 - dont' want tooooo many tags just generalist ones
 - tags could help define when certain posts get promoted on social??
@@ -87,3 +89,8 @@ summary: '-'
 
 ## different areas on site
 - varied templates
+
+## Non date paths
+- Some posts will not include a date in their path, such as this page ideally
+  - URLs should be permalinks on this site
+  - changing the path or name of a post URL will break Disqus
