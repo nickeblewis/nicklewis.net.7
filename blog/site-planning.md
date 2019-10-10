@@ -100,3 +100,6 @@ Yes this is causing me some trouble and don't need the complexity either, just u
 
 ## tim and I
 draw a circle around tims head in sanity to ensure he isn't chopped in half :-(
+
+## Syntax
+Yarn upgrade interactive
