@@ -1,6 +1,6 @@
 ---
 title: Shooting in the dark
-published: true
+published: false
 slug: shooting-in-the-dark
 date: 2019-10-12T09:44:39.308Z
 summary: todo
