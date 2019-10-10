@@ -1,15 +1,15 @@
 ---
 title: How to plan and buffer
-slug: how-to-plan-and-buffer
-date: 2019-10-09
 published: false
-summary: todo
+slug: how-to-plan-and-buffer
+date: 2019-10-09T00:00:00.000Z
 tags:
- - workflow
- - productivity
- - social
- - content
- - strategies
+  - workflow
+  - productivity
+  - social
+  - content
+  - strategies
+summary: todo...
 ---
 
 ## Platforms
