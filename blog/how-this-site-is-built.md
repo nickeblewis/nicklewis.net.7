@@ -51,7 +51,7 @@ Now (at the time of writing) running version 0.7.7 which has introduced some gre
 
 ## Sanity.io
 
-Currently used for the Photos section
+Currently used for the Photos section and potentially more of the site in the future.
 
 ## The Costs
 
