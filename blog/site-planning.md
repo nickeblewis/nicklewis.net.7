@@ -97,3 +97,6 @@ I currently mostly use Buffer for scheduling posts
 
 ## switch off editorial mode in N CMS
 Yes this is causing me some trouble and don't need the complexity either, just use published flag instead
+
+## tim and I
+draw a circle around tims head in sanity to ensure he isn't chopped in half :-(
