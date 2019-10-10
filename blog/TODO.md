@@ -69,4 +69,4 @@ The following could be scheduled to go out once a week or more - or - only pick 
 # In the buffer queue
 - ipad and ipados
   - which day does this one go out?
-  - Should it be a #write52?
+  - Should it be a #write52? etc
