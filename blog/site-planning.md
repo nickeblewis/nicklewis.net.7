@@ -23,6 +23,13 @@ summary: '-'
 - pinterest
 
 ## Post frequency
+- start with weekly posts that go out on Saturday mornings
+  - posts are re-sent periodically after this
+    - 1 week later
+    - 2 weeks later
+    - 3
+    - 4
+    - added to evergreen
 
 ## Post timing
 
@@ -40,4 +47,11 @@ summary: '-'
 - photos and blog
   - set many to being evergreen
 
-## Review rescheduled items
+## Review requeued items
+
+## Matching photos and blog templates up
+- same grid
+- cover photos to be shown where exist
+- using the new component in markdown feature add 
+  - youtube
+  - photo galleries
