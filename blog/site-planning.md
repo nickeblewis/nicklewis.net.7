@@ -105,3 +105,5 @@ draw a circle around tims head in sanity to ensure he isn't chopped in half :-(
 Yarn upgrade interactive
 
 ## Install netlify CMS on jazz site
+## search.json
+## sitemap generation
