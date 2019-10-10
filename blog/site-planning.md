@@ -1,6 +1,6 @@
 ---
 title: Site Planning
-published: true
+published: false
 slug: site-planning
 date: 2019-10-10T13:04:45.145Z
 tags:
@@ -103,3 +103,5 @@ draw a circle around tims head in sanity to ensure he isn't chopped in half :-(
 
 ## Syntax
 Yarn upgrade interactive
+
+## Install netlify CMS on jazz site
