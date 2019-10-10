@@ -31,8 +31,6 @@ I recall reading Dries Buytaert's (the founder of Drupal) blog about this subjec
 
 ## Buffering
 
-
-
 ## Hashtagging
 
 ## Planning, strategy and frequency
