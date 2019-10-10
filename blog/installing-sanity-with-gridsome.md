@@ -1,13 +1,13 @@
 ---
 title: Installing Sanity.io
-summary: So lets crack on and install Sanity for use with this Gridsome driven website
-slug: installing-sanity
-date: 2019-09-18
 published: false
+slug: installing-sanity
+date: 2019-09-18T00:00:00.000Z
 tags:
- - CMS
- - Sanity
- - Headless
+  - CMS
+  - Sanity
+  - Headless
+summary: So lets crack on and install Sanity for use with this Gridsome driven website
 ---
 
 I have simply followed the getting started guide on sanity.io website creating a new dataset
@@ -30,4 +30,4 @@ The latter command runs on localhost:3333 and a quick authenticate later, you ar
 sanity deploy
 sanity graphql deploy
 ```
-
+draft
