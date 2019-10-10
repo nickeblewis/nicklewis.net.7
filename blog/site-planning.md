@@ -94,3 +94,6 @@ I currently mostly use Buffer for scheduling posts
 - Some posts will not include a date in their path, such as this page ideally
   - URLs should be permalinks on this site
   - changing the path or name of a post URL will break Disqus
+
+## switch off editorial mode in N CMS
+Yes this is causing me some trouble and don't need the complexity either, just use published flag instead
