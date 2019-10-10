@@ -7,6 +7,8 @@ tags:
   - clearbox
 summary: Just notes for clearbox work
 ---
+Hi John I need your help with the following APIs which I hope might already exist or can be created afresh. We are wary of changing existing API at the moment.
+
 The "Form Link Modal" modal needs to do the following things
 
 ## Selecting an existing form
