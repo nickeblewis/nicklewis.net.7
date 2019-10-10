@@ -16,3 +16,7 @@ We live in an age where things move at a higher pace than ever before, the rate 
 If you know of any new fears, feel free to post them in the comments below, will be interesting to learn more about these things.
 
 Talking of learning, how best to stay on top of what you are learning now and what you need to pin down to your list of things to plough through when time permits? What tools should you use to help you and are there any techniques to help you stay on top of what is worth learning now, later or just gradually without burning out doing so.
+
+## Track ideas with Notion
+
+## Visual Studio Code
