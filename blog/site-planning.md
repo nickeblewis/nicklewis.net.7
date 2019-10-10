@@ -48,6 +48,7 @@ summary: '-'
   - set many to being evergreen
 
 ## Review requeued items
+- there are potentially 245 ones that could be made evergreen
 
 ## Matching photos and blog templates up
 - same grid
@@ -55,3 +56,34 @@ summary: '-'
 - using the new component in markdown feature add 
   - youtube
   - photo galleries
+
+## List my tags
+- the tags are used to generate tag pages
+- links to these tag pages should be added to the homepage under little card style divs
+- the tags are as follows
+  - code
+  - photography
+  - hampshire, surrey, england
+  - gardens, plants, flowers, wisley
+  - Journal
+  - August
+  - business
+  - accountancy
+  - interview
+  - luminar, software
+  - AI, web, development
+  - DJI, drones, mavic, aerial
+  - CMS, sanity, headless
+  - ipad,ipados
+  - workflow, productivity,
+  - kidney, transplant diary, health
+  - SEO, Google
+  - Content
+- dont' want tooooo many tags just generalist ones
+- tags could help define when certain posts get promoted on social??
+  - Photography challenges could go out on fridays
+
+## photo sales
+
+## different areas on site
+- varied templates
