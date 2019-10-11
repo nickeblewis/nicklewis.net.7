@@ -84,7 +84,7 @@ module.exports = {
     {
       use: 'gridsome-plugin-rss',
       options: {
-        contentTypeName: 'Post',
+        contentTypeName: 'SanityPost',
         feedOptions: {
           title: 'Nick Lewis Blog',
           feed_url: 'https://nicklewis.net/rss.xml',
