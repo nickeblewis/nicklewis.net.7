@@ -20,7 +20,7 @@ module.exports = {
   templates: {
     SanityPost: [
       { path: '/blog/:year/:month/:slug__current'},
-      { name: 'features', path: '/:slug__current'},
+      { name: 'Features', path: '/:slug__current'},
     ]
   },
   plugins: [
