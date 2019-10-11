@@ -18,7 +18,7 @@ module.exports = {
   siteDescription: 'Photographer, Coder, Writer',
   siteUrl: 'https://nicklewis.net',
   templates: {
-    SanityPost: '/:slug__current'
+    SanityPost: '/:slug__current'    
   },
   plugins: [
     // {
@@ -39,7 +39,14 @@ module.exports = {
         // or `overlayDrafts` is set to true
         // token: '<tokenWithReadRights>'
         overlayDrafts: false,
-        watchMode: false
+        watchMode: false,
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            route: 'tag/:id',
+            create: true
+          }
+        }
       }
     },
     {
@@ -48,39 +55,39 @@ module.exports = {
         id: 'UA-159000-18'
       }
     },
-    {
-      use: `gridsome-plugin-netlify-cms`,
-      options: {
-        modulePath: `src/cms/index.js`,
-        configPath: `src/cms/config.yml`,
-        htmlPath: `src/cms/index.html`,
-        publicPath: `/cms`,
-        htmlTitle: `My CMS`,
-        enableIdentityWidget: false
-      }
-    },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        path: 'blog/**/*.md',
-        typeName: 'Post',
-        route: '/blog/:year/:month/:slug',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            route: 'tag/:id',
-            create: true
-          }
-        },
-        remark: {
-          plugins: [
-            ['gridsome-plugin-remark-youtube'],
-            ['gridsome-plugin-remark-twitter'],
-            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-          ]
-        }
-      } // TODO - Add folder called gallery at some point in time
-    },               
+    // {
+    //   use: `gridsome-plugin-netlify-cms`,
+    //   options: {
+    //     modulePath: `src/cms/index.js`,
+    //     configPath: `src/cms/config.yml`,
+    //     htmlPath: `src/cms/index.html`,
+    //     publicPath: `/cms`,
+    //     htmlTitle: `My CMS`,
+    //     enableIdentityWidget: false
+    //   }
+    // },
+    // {
+    //   use: '@gridsome/source-filesystem',
+    //   options: {
+    //     path: 'blog/**/*.md',
+    //     typeName: 'Post',
+    //     route: '/blog/:year/:month/:slug',
+    //     refs: {
+    //       tags: {
+    //         typeName: 'Tag',
+    //         route: 'tag/:id',
+    //         create: true
+    //       }
+    //     },
+    //     remark: {
+    //       plugins: [
+    //         ['gridsome-plugin-remark-youtube'],
+    //         ['gridsome-plugin-remark-twitter'],
+    //         [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+    //       ]
+    //     }
+    //   } // TODO - Add folder called gallery at some point in time
+    // },               
     {
       use: 'gridsome-plugin-rss',
       options: {
