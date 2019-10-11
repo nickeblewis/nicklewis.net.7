@@ -18,7 +18,10 @@ module.exports = {
   siteDescription: 'Photographer, Coder, Writer',
   siteUrl: 'https://nicklewis.net',
   templates: {
-    SanityPost: '/:slug__current'    
+    SanityPost: [
+      { path: '/blog/:year/:month/:slug__current'},
+      { name: 'features', path: '/:slug__current'},
+    ]
   },
   plugins: [
     // {
