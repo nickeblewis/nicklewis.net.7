@@ -113,6 +113,7 @@ query SanityPosts ($page: Int) {
 </page-query>
 
 <script>
+
 import PaginationPosts from "../components/PaginationPosts";
 import BlockContent from "~/components/BlockContent";
 

@@ -14,6 +14,11 @@
       </div>
       <!-- <div class="markdown-body mb-8" v-html="$page.post.content" /> -->
       <div class="markdown-body mb-8">
+        <div v-masonry="containerId" transition-duration="0.3s" item-selector=".item">
+    <div v-masonry-tile class="item" v-for="(item, index) in blocks">
+       <!-- block item markup -->
+    </div>
+</div>
         <div
         v-for="image in $page.post.images"
         :key="image.id"
@@ -104,7 +109,11 @@ query Post ($id: ID!) {
 </page-query>
 
 <script>
+import Vue from 'vue'
 import BlockContent from "~/components/BlockContent";
+import {VueMasonryPlugin} from 'vue-masonry';
+
+Vue.use(VueMasonryPlugin)
 
 export default {
   components: {
