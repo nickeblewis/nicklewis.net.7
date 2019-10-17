@@ -8,29 +8,27 @@
           :to="tag"
           v-for="tag in $page.post.tags"
           :key="tag.id"
-          class="bg-gray-300 rounded-full px-4 py-2 mr-4 hover:bg-green-300">
-          {{ tag }}
-        </g-link>
+          class="bg-gray-300 rounded-full px-4 py-2 mr-4 hover:bg-green-300"
+        >{{ tag }}</g-link>
       </div>
       <!-- <div class="markdown-body mb-8" v-html="$page.post.content" /> -->
       <div class="markdown-body mb-8">
         <div v-masonry="containerId" transition-duration="0.3s" item-selector=".item">
-    <div v-masonry-tile class="item" v-for="(item, index) in $page.post.images">
-       <!-- block item markup -->
+          <!-- <div v-masonry-tile class="item" v-for="(item, index) in $page.post.images">
+       
        {{ item.id }}
-    </div>
-</div>
+          </div>-->
+        </div>
         <div
-        v-for="image in $page.post.images"
-        :key="image.id"
-        class="m-3 rounded-lg shadow-lg overflow-hidden"
-      >
-<g-image
-          alt="Cover image"
-          
-          class="justify-center"
-          :src="$urlForImage(image, $page.metadata.sanityOptions).width(800).url()"
-        />
+          v-for="image in $page.post.images"
+          :key="image.id"
+          class="m-3 rounded-lg shadow-lg overflow-hidden"
+        >
+          <g-image
+            alt="Cover image"
+            class="justify-center"
+            :src="$urlForImage(image, $page.metadata.sanityOptions).width(800).url()"
+          />
         </div>
         <block-content
           class="post__content"
@@ -110,11 +108,11 @@ query Post ($id: ID!) {
 </page-query>
 
 <script>
-import Vue from 'vue'
+//import Vue from 'vue'
 import BlockContent from "~/components/BlockContent";
-import {VueMasonryPlugin} from 'vue-masonry';
+//import {VueMasonryPlugin} from 'vue-masonry';
 
-Vue.use(VueMasonryPlugin)
+//Vue.use(VueMasonryPlugin)
 
 export default {
   components: {
