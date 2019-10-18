@@ -53,3 +53,11 @@ export default {
   }
 }
 </static-query>
+
+<style scoped>
+figcaption {
+  text-align: center;
+  font-size: 0.7em;
+  font-style: italic;
+}
+</style>
