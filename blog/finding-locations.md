@@ -3,6 +3,7 @@ title: Finding Locations
 slug: drones-finding-locations
 published: true
 date: 2019-07-19T13:22:01.518Z
+section: photography
 tags:
   - aerial
   - photography

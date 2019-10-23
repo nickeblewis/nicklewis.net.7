@@ -74,7 +74,7 @@ module.exports = {
       options: {
         path: 'blog/**/*.md',
         typeName: 'Post',
-        route: '/tech/:year/:month/:slug',
+        route: '/:section/:year/:month/:slug',
         refs: {
           tags: {
             typeName: 'Tag',

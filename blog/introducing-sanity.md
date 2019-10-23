@@ -4,6 +4,7 @@ summary: I have been playing with Sanity which is a headless CMS system for a li
 slug: introducing-sanity
 date: 2019-09-18
 published: true
+section: code
 tags:
  - CMS
  - Sanity

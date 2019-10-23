@@ -7,6 +7,7 @@ summary: >-
 date: 2019-08-03
 cover: _DSC5829.jpg
 published: true
+section: gardens
 gallery: 
  - _DSC5829.jpg
  - _DSC5837.jpg

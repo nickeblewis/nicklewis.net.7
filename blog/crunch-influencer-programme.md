@@ -3,6 +3,7 @@ title: Crunch Influencer Programme
 slug: crunch-influencers
 date: 2019-07-16T22:38:01.518Z
 published: true
+section: updates
 tags:
   - business
   - accountancy

@@ -3,6 +3,7 @@ title: Experimenting with Luminar
 slug: experimenting-with-luminar
 published: true
 date: 2019-07-18T20:17:54.257Z
+section: photography
 tags:
   - photography
   - luminar
