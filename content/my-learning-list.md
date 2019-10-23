@@ -1,8 +1,13 @@
 ---
 title: Learning List
 path: explore/learning-list
+summary: I have been playing with Sanity which is a headless CMS 
 date: 2019-08-07
+tags:
+ - test
+ - apps
 ---
+
 ## Purpose of this page
 
 As a developer who does a lot of contract and freelance work, I spend a lot of my time training myself, not just in learning new skills but improving my actual approach to learning, which led to the conception of this website. The purpose of this particular page is to maintain a set of notes covering the key areas for that ongoing learning process. I hope that you find it useful too or perhaps it will encourage you to do a similar thing - collate your own list, hone your skills on what matters the most.

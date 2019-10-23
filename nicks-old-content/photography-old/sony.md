@@ -1,6 +1,5 @@
 ---
 title: terte656546
-path: photography/sony
 date: 2019-04-03
 summary: Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic rerum earum quos explicabo suscipit maxime iste qui nihil. Reiciendis asperiores minus necessitatibus
 tags: ['frontend', 'coding', 'vue']

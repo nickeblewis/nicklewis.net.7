@@ -1,5 +1,7 @@
 ---
 title: A cool title
+date: 2019-10-23
+path: /docs
 excerpt: Lorem Ipsum is simply dummy text.
 ---
 // Import any Vue Component. Even other .md files!

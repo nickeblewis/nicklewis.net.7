@@ -90,7 +90,49 @@ module.exports = {
           ]
         }
       } // TODO - Add folder called gallery at some point in time
-    },               
+    },     
+    // {
+    //   use: '@gridsome/source-filesystem',
+    //   options: {
+    //     path: 'content/**/*.md',
+    //     typeName: 'Post',
+    //     route: '/:path',
+    //     refs: {
+    //       tags: {
+    //         typeName: 'Tag',
+    //         route: 'tag/:id',
+    //         create: true
+    //       }
+    //     },
+    //     remark: {
+    //       plugins: [
+    //         [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+    //       ]
+    //     }
+    //   }       
+    // },
+    // {
+    //   use: '@gridsome/source-filesystem',
+    //   options: {
+    //     path: 'content/**/*.md',
+    //     typeName: 'Post',
+    //     route: '/:slug',
+    //     refs: {
+    //       tags: {
+    //         typeName: 'Tag',
+    //         route: 'tag/:id',
+    //         create: true
+    //       }
+    //     },
+    //     remark: {
+    //       plugins: [
+    //         ['gridsome-plugin-remark-youtube'],
+    //         ['gridsome-plugin-remark-twitter'],
+    //         [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+    //       ]
+    //     }
+    //   } // TODO - Add folder called gallery at some point in time
+    // },               
     {
       use: 'gridsome-plugin-rss',
       options: {
