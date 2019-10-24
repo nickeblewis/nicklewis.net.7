@@ -1,4 +1,6 @@
 edgar
+- queues
+- 
 mailerlite
 
 exposing content to more people, biggere audience
