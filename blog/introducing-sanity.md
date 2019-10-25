@@ -4,11 +4,12 @@ summary: I have been playing with Sanity which is a headless CMS system for a li
 slug: introducing-sanity
 date: 2019-09-18
 published: true
-section: blog
+section: code
 tags:
  - CMS
  - Sanity
  - Headless
+ - Gridsome
 ---
 
 This is one of those moments I have been looking forward to, Gridsome now supports Sanity.io, fabulous stuff! So let me explain what these things are and why they are exciting plus what it means for this website and my actual business.
