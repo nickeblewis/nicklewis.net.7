@@ -85,7 +85,9 @@ module.exports = {
         remark: {
           plugins: [
             ['gridsome-plugin-remark-youtube'],
-            ['gridsome-plugin-remark-embed'],
+            [ '@noxify/gridsome-plugin-remark-embed', {
+              'enabledProviders' : ['Youtube', 'Twitter', 'Vimeo'],
+          }],
             ['gridsome-plugin-remark-twitter'],
             [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
           ]
