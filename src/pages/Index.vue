@@ -186,7 +186,7 @@
         <div class="w-4/5 mx-auto mb-8">
           <p class="mb-8 text-lg sm:text-xl">Delivered to your inbox each weekend, better than the Sunday Papers!</p>
 
-          <form name="subscribers" action="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <form name="subscribers" action="POST" data-netlify="true" data-netlify-honeypot="bot-field">
             <div hidden aria-hidden="true">
     <label>
       Don’t fill this out if you're human: 
