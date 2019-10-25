@@ -29,4 +29,4 @@ This is my progress so far...
     }
 ```
 
-[ ] - expereiment with these https://gridsome.org/plugins/@noxify/gridsome-plugin-remark-embed
+[ ] - experiment with these https://gridsome.org/plugins/@noxify/gridsome-plugin-remark-embed
