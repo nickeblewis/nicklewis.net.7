@@ -186,7 +186,7 @@
         <div class="w-4/5 mx-auto mb-8">
           <p class="mb-8 text-lg sm:text-xl">Delivered to your inbox each weekend, better than the Sunday Papers!</p>
 
-          <form name="subscribers" action="POST" data-netlify="true" data-netlify-honeypot="bot-field">
+          <form name="subscribers" v-on:submit.prevent="handleSignup" action="POST" data-netlify="true" data-netlify-honeypot="bot-field">
             <div hidden aria-hidden="true">
     <label>
       Don’t fill this out if you're human: 
@@ -194,7 +194,7 @@
     </label>
   </div>
             <div class="flex flex-col sm:flex-row">
-              <input type="email" id="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10" required>
+              <input v-model="formNewsletter.email" type="email" id="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10" required>
               <button data-element="submit" class="flex-2 w-40 uppercase bg-green-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-green-800 focus:bg-green-800 z-10 w-full sm:w-auto mt-4 sm:mt-0" type="submit">
                 <span>Subscribe</span>
               </button>
@@ -216,6 +216,7 @@ export default {
   data() {
     return {
       formData: {},
+      formNewsletter: {},
     }
   },
   methods: {
@@ -223,6 +224,18 @@ export default {
     return Object.keys(data)
       .map(key => encodeURIComponent(key) + '=' + encodeURIComponent(data[key]))
       .join('&')
+  },
+  handleSignup(e) {
+    fetch('/', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      body: this.encode({
+        'form-name': e.target.getAttribute('name'),
+        ...this.formNewsletter,
+      }),
+    })
+    .then(() => this.$router.push('/success'))
+    .catch(error => alert(error))
   },
   handleSubmit(e) {
     fetch('/', {
