@@ -7,9 +7,8 @@ I the previous post (link to it here) I shared a single photo and wrote about th
 This week though I am going to share with you a video....
 
 
-behind the scenes
+## behind the scenes
 
 In true "Blue Planet" style, I have written another article about some of the tools I use for my photography, video work and so on...
 
 Tutorials, workshops
-
