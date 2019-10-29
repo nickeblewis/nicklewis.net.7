@@ -38,8 +38,11 @@ Autumn colours are coming fast, falling off the trees even faster this year. I d
 
 After moving away from Android around 2014 I have been an iPhone owner for quite some time, I got tired of the bloatware on my Samsung phones and since I had owned an iPod from the moment they were launched, I was more than tempted to give the Apple phones a try. So from the iPhone 5 (I think) I entered the iPhone world and with each new device (except the 7 for some reason) being launched I tend to upgrade when my contract is due to upgrade. This weekend however, for the first time ever I paid an extra £400 to upgrade to the Pro Max 9 months early because the camera system is worth having! Now all I have to do is wait patiently for around the next 3 weeks... has it been dispatched yet? Is it nearly here yet? 
 
-- How it will change my photography
+### How will it change my photography?
 
+This remains to be seen of course but having 3 types of focal length, will be very interesting indeed. I hope it will make street photography easier for example, something I enjoy a lot but always feel a big cagey about, for I feel self concious embarking on urban shoots around my own neighbourhood. The reason for this is probably rooted in the fact that you tend not to see someone walkig around with a camera in Farnborough and may be eyed with a modicum of suspicion or perhaps even pity. Why? Farnborough isn't a touristy place at all, it's an awkward sort of town, struggling with it's identity and lacks in cohesion. So why would anyone want to photograph it or it's people? A crafty photographer with an eye for the human condition, documentary, history, cultural and demographic boundaries of course! However with a phone in hand, you'd think that nobody would take the blindest bit of notice. Interesting. Discuss if you will? 
+
+To summarise I would feel more comfortable with capturing reportage of Farnborough using the iPhone rather than my big camera. I could be very candid with it and shoot from the hip, a la Henri Cartier-Bresson! I will challenge myself to doing just that in the months to come.
 
 - Any good for video
 - Travelling light
@@ -59,6 +62,8 @@ After moving away from Android around 2014 I have been an iPhone owner for quite
 - Last week I did promise another story behind the photo, so here is that section and it will appear weekly as part of this new format
   - Funchal
 	- story behind it
+	- gear used
+	- Edited down on an iPad Pro using Lumafusion which was a fabulous experience 
 
 If you missed my previous Write52 blog posts, here they are:
 
@@ -74,4 +79,6 @@ Etc
   - Edgar
   - Substack and Revue - hmmm
 
+## Thinking ahead to 2020
+- Haven't written for a magazine in awhile and feel that I've got some articles eager to go out in a photography mag again (I used to contribute in the past)
 Have a great week, see you next weekend :-)
