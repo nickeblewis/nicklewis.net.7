@@ -51,7 +51,7 @@ After moving away from Android around 2014 I have been an iPhone owner for quite
 
 This remains to be seen of course but having 3 types of focal length, will be very interesting indeed. I hope it will make street photography easier for example, something I enjoy a lot but always feel a big cagey about, for I feel self concious embarking on urban shoots around my own neighbourhood. The reason for this is probably rooted in the fact that you tend not to see someone walkig around with a camera in Farnborough and may be eyed with a modicum of suspicion or perhaps even pity. Why? Farnborough isn't a touristy place at all, it's an awkward sort of town, struggling with it's identity and lacks in cohesion. So why would anyone want to photograph it or it's people? A crafty photographer with an eye for the human condition, documentary, history, cultural and demographic boundaries of course! However with a phone in hand, you'd think that nobody would take the blindest bit of notice. Interesting. Discuss if you will? 
 
-To summarise I would feel more comfortable with capturing reportage of Farnborough using the iPhone rather than my big camera. I could be very candid with it and shoot from the hip, a la Henri Cartier-Bresson! I will challenge myself to doing just that in the months to come.
+To summarise I would feel more comfortable with capturing reportage of Farnborough using the iPhone rather than my big camera. I could be very candid with it and shoot from the hip, a la [](Henri Cartier-Bresson)! I will challenge myself to doing just that in the months to come.
 
 - Any good for video
 
