@@ -108,4 +108,5 @@ Have a great week, see you next weekend :-)
 
 Editors notes
 
-Publish to FB, Insta, LinkedIn and twitter
+- Publish to FB, Insta, LinkedIn and twitter
+- Could move photos to an album entitled write52-5 perhaps? Export them to file system, scale down
