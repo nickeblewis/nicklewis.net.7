@@ -1,3 +1,12 @@
+Extra ideas that could be included in this issue or the next
+
+- Location 52
+- Tech 52
+- Photo 52
+- Walk 52
+- Fact 52
+- Maybe create a template file based on this post to make it easy to flesh out the next issues
+
 # Write52-5 - think of a headline for it
 
 Changing the format of my Write52 posts for a bit, just an experiment to write about a few topics in a newsletter style way, given the fact we quite like our newsletters don’t we? There is that fantastic [award winning pink one](https://write52.com) of course, plus there are many on platforms such as SubStack, Revue etc... more on those hopefully in a later blog post of mine because they are rather compelling though I am still reluctant about them, preferring to take my own approach to this as opposed to signing up to yet another bundle of services and they aren't as clear cut as they might seem.
