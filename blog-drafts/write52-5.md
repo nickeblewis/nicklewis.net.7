@@ -110,3 +110,9 @@ Editors notes
 
 - Publish to FB, Insta, LinkedIn and twitter
 - Could move photos to an album entitled write52-5 perhaps? Export them to file system, scale down
+
+Future content
+
+- https://ia.net/writer/support/general/content-blocks
+
+- My own version of "ia writer vs ulysses" just search google for ideas and build my own vs. article
