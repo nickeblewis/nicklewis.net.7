@@ -1,2 +1,2 @@
 - What kind of page could I create on this topic? How about a full blown guide to the canal and it’s wonders?
-- 
+- break down into sections and publish excerpts in the weekly post but keep overall big article too
