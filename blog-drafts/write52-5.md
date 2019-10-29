@@ -56,9 +56,17 @@ To summarise I would feel more comfortable with capturing reportage of Farnborou
 - Any good for video
 
 Let me show you a few YouTube links here, I was impressed! Filmic Pro etc
+
 - Travelling light
+
+I have often fancied the idea of travelling light but it's hard because I want to take all of this gear, big camera (sometimes two!), lenses, laptop, spare batteries, tripod, Osmo pocket and a drone. It drives my Wife nuts but she claims that she "understands", she probably does but I'm not convinced myself. If I boarded the aircraft with just a carry on case, with some clothes in it too, that would be an out-and-out revelation. Will it ever happen? It maaaaaaaaaaaaay do, hmmmmmmmm!
+
+Well if I can condesnse my camera down into a small form factor, essentialyl the iPhone 11, well, there is a possibility.
+
 - iPhone and ipad partners in crime
 - ICloud and photos sync
+
+I have recently started to pull files into my iPad Pro from iCloud and my Sony A7Riii via a USB-C dongle. So this means I am able to sync it all up across the iPhone and iPad Pro whilst backing up to the cloud at the same time. So if I were to travel lighter, I can definitely now leave the macbook at home. Exciting times lie ahead.
   
 ## Finding new ways of editing on the move
 - Continuing in the vein of iOS and the new iPadOS 
