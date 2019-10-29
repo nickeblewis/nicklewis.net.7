@@ -1,0 +1,2 @@
+- What kind of page could I create on this topic? How about a full blown guide to the canal and it’s wonders?
+- 
