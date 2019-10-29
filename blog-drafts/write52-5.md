@@ -54,6 +54,8 @@ This remains to be seen of course but having 3 types of focal length, will be ve
 To summarise I would feel more comfortable with capturing reportage of Farnborough using the iPhone rather than my big camera. I could be very candid with it and shoot from the hip, a la Henri Cartier-Bresson! I will challenge myself to doing just that in the months to come.
 
 - Any good for video
+
+Let me show you a few YouTube links here, I was impressed! Filmic Pro etc
 - Travelling light
 - iPhone and ipad partners in crime
 - ICloud and photos sync
