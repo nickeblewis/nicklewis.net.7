@@ -91,13 +91,21 @@ Link 1
 3
 Etc
 
-## At work this week
+## At work this week (may roll over)
+
   - freelancing/contracting
-## On the SocMeds
+  
+## On the SocMeds (may roll over)
+
   - hehe socmed, makes me chuckle and I've slowed down on it a bit recently with good reason
   - Edgar
   - Substack and Revue - hmmm
 
-## Thinking ahead to 2020
+## Thinking ahead to 2020 (may roll over)
+
 - Haven't written for a magazine in awhile and feel that I've got some articles eager to go out in a photography mag again (I used to contribute in the past)
 Have a great week, see you next weekend :-)
+
+Editors notes
+
+Publish to FB, Insta, LinkedIn and twitter
