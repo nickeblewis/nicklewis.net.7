@@ -1,10 +1,6 @@
 ---
-title: A cool title
-date: 2019-10-23
-path: /docs/test
-excerpt: Lorem Ipsum is simply dummy text.
-tags:
- - one
+title: A cool title 2
+summary: hey test 2
 ---
 
-test
+test 1234

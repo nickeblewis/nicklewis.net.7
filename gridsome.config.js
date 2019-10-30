@@ -18,9 +18,21 @@ module.exports = {
   siteDescription: 'Photographer, Coder, Writer',
   siteUrl: 'https://nicklewis.net',
   templates: {
-    SanityPost: '/blog/:year/:month/:slug__current'
+    SanityPost: [
+      { path: '/blog/:year/:month/:slug__current'},
+      { name: 'Features', path: '/:slug__current'},
+    ]
   },
   plugins: [
+    // {
+    //   use: '@gridsome/vue-remark',
+    //   options: {
+    //     typeName: 'Documentation', // Required
+    //     baseDir: './content/docs', // Where .md files are located
+    //     pathPrefix: '/docs', // Add route prefix. Optional
+        
+    //   }
+    // },
     {
       use: 'gridsome-source-sanity',
       options: {
