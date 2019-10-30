@@ -2,7 +2,7 @@
 
 Changing the format of my Write52 posts for a bit, just an experiment to write about a few topics in a newsletter style way, given the fact we quite like our newsletters! Mind you there is that fantastic [award winning pink one](https://write52.com) of course, plus there are many on platforms such as SubStack, Revue etc... more on those hopefully in a later blog post of mine because they are rather compelling though I am still reluctant about them, preferring to take my own approach to this as opposed to signing up to yet another bundle of services and they aren't as clear cut as they might seem. I shall leave you on a cliff-hanger with that one.
 
-Never mind that, what is new on this website...
+Never mind that, what's been going on - expect a good blend of photography and tech writing from me in the months to come...
 
 ## Sunday morning walks
 

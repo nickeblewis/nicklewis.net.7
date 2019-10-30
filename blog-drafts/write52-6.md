@@ -10,7 +10,7 @@ Extra ideas that could be included in this issue or the next
 ## Finding new ways of editing on the move
 - Continuing in the vein of iOS and the new iPadOS 
 - JAMStack
-  - working copy
+  - working copy -> could write dedicated article on this process
   - IA writer
   - PUSH to Publish
 - Oh heck this is an article in it’s own 
@@ -30,3 +30,15 @@ Extra ideas that could be included in this issue or the next
 
 - Haven't written for a magazine in awhile and feel that I've got some articles eager to go out in a photography mag again (I used to contribute in the past)
 Have a great week, see you next weekend :-)
+
+## Spotify playlist write52
+- embed spotify panels into my posts
+
+## What is wrong with Wordpress?
+- Nothing
+- Why I prefer working with the Jamstack and what is it? Should you care?
+
+## Did the iPhone 11 turn up?
+Yes/No
+
+## Wales
