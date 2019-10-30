@@ -14,7 +14,7 @@
     "@gridsome/plugin-sitemap": "^0.2.1",
     "@gridsome/source-filesystem": "^0.5.0",
     "@gridsome/transformer-remark": "^0.3.2",
-    "@gridsome/vue-remark": "^0.1.5",
+    "@gridsome/vue-remark": "^0.1.8",
     "@noxify/gridsome-plugin-remark-embed": "^1.1.5",
     "@sanity/image-url": "^0.140.15",
     "axios": "^0.19.0",

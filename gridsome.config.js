@@ -18,10 +18,7 @@ module.exports = {
   siteDescription: 'Photographer, Coder, Writer',
   siteUrl: 'https://nicklewis.net',
   templates: {
-    SanityPost: [
-      { path: '/blog/:year/:month/:slug__current'},
-      { name: 'Features', path: '/:slug__current'},
-    ]
+    SanityPost: '/blog/:year/:month/:slug__current'
   },
   plugins: [
     // {
@@ -29,8 +26,6 @@ module.exports = {
     //   options: {
     //     typeName: 'Documentation', // Required
     //     baseDir: './content/docs', // Where .md files are located
-    //     pathPrefix: '/docs', // Add route prefix. Optional
-        
     //   }
     // },
     {
