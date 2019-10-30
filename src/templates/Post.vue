@@ -14,7 +14,7 @@
       </div>
       <div class="markdown-body mb-8" v-html="$page.post.content" />
       <div class="mb-8">
-        <g-link to="/blog" class="font-bold uppercase">Back to Blog</g-link>
+        <g-link to="/articles" class="font-bold uppercase">Back to articles</g-link>
       </div>
       <vue-disqus shortname="nicklewis-net" :identifier="$page.post.title"></vue-disqus>
     </div>
