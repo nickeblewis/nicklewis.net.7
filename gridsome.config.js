@@ -18,21 +18,9 @@ module.exports = {
   siteDescription: 'Photographer, Coder, Writer',
   siteUrl: 'https://nicklewis.net',
   templates: {
-    SanityPost: [
-      { path: '/blog/:year/:month/:slug__current'},
-      { name: 'Features', path: '/:slug__current'},
-    ]
+    SanityPost: '/blog/:year/:month/:slug__current'
   },
   plugins: [
-    // {
-    //   use: '@gridsome/vue-remark',
-    //   options: {
-    //     typeName: 'Documentation', // Required
-    //     baseDir: './content/docs', // Where .md files are located
-    //     pathPrefix: '/docs', // Add route prefix. Optional
-    //     template: './src/templates/Remark.vue' // Optional
-    //   }
-    // },
     {
       use: 'gridsome-source-sanity',
       options: {
@@ -68,7 +56,7 @@ module.exports = {
         htmlTitle: `My CMS`,
         enableIdentityWidget: false
       }
-    },
+    },   
     {
       use: '@gridsome/source-filesystem',
       options: {
@@ -94,48 +82,6 @@ module.exports = {
         }
       } // TODO - Add folder called gallery at some point in time
     },     
-    // {
-    //   use: '@gridsome/source-filesystem',
-    //   options: {
-    //     path: 'content/**/*.md',
-    //     typeName: 'Post',
-    //     route: '/:path',
-    //     refs: {
-    //       tags: {
-    //         typeName: 'Tag',
-    //         route: 'tag/:id',
-    //         create: true
-    //       }
-    //     },
-    //     remark: {
-    //       plugins: [
-    //         [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-    //       ]
-    //     }
-    //   }       
-    // },
-    // {
-    //   use: '@gridsome/source-filesystem',
-    //   options: {
-    //     path: 'content/**/*.md',
-    //     typeName: 'Post',
-    //     route: '/:slug',
-    //     refs: {
-    //       tags: {
-    //         typeName: 'Tag',
-    //         route: 'tag/:id',
-    //         create: true
-    //       }
-    //     },
-    //     remark: {
-    //       plugins: [
-    //         ['gridsome-plugin-remark-youtube'],
-    //         ['gridsome-plugin-remark-twitter'],
-    //         [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-    //       ]
-    //     }
-    //   } // TODO - Add folder called gallery at some point in time
-    // },               
     {
       use: 'gridsome-plugin-rss',
       options: {
