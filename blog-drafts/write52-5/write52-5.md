@@ -49,7 +49,11 @@ To summarise I would feel more comfortable with capturing reportage of Farnborou
 
 ### Any good for video?
 
-- Let me show you a few YouTube links here, I was impressed! Filmic Pro etc
+Film maker Rian Johnson took his iPhone for a tour of Paris and shot this very impressive film
+
+https://vimeo.com/361345913
+
+Can I create anything as good as this? It blew my socks off and I’ve no idea where they landed...
 
 ### Travelling light
 
