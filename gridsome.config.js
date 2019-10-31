@@ -69,7 +69,7 @@ module.exports = {
       options: {
         path: 'blog/**/*.md',
         typeName: 'Post',
-        route: '/:section/:year/:month/:slug',
+        route: '/:section/:slug',
         refs: {
           tags: {
             typeName: 'Tag',
