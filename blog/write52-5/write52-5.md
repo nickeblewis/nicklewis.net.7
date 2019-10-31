@@ -1,3 +1,16 @@
+---
+title: Write52 Issue 5
+summary: Issue 5 of 52 is here and this week I write about a few topics all in one post because there is a lot going on around here
+slug: issue5
+date: 2019-10-31
+published: true
+section: write52
+tags:
+ - CMS
+ - Sanity
+ - Headless
+ - Gridsome
+---
 # Write52-5 - fun and games
 
 Changing the format of my Write52 posts for a bit, just an experiment to write about a few topics in a newsletter style way, given the fact we quite like our newsletters! Mind you there is that fantastic [award winning pink one](https://write52.com) of course, plus there are many on platforms such as SubStack, Revue etc... more on those hopefully in a later blog post of mine because they are rather compelling though I am still reluctant about them, preferring to take my own approach to this as opposed to signing up to yet another bundle of services and they aren't as clear cut as they might seem. I shall leave you on a cliff-hanger with that one.
