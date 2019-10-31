@@ -21,8 +21,8 @@ The clocks had gone back so it was a good morning to get out early as the sun ro
 
 ### Basingstoke Canal
 
-- Add my narrow boat video clip to Vimeo and link in here?
-  
+https://vimeo.com/370200551
+
 Around our neck of the woods, literally, there are some great woodland walks! So I headed for Wellesley Woods that straddles part of the Basingstoke Canal between Farnborough and Aldershot in Hampshire. The woods are well mapped out with new clearly marked out pathways and I believe there are maps that you can download via QR codes on the information panels in the car parks. In any case I know it well enough to find my way around and I followed one particular circuit with my camera at the ready.
 
 ![reflections in the basingstoke canal](./reflections-in-the-canal.jpeg)
