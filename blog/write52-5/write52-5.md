@@ -25,22 +25,22 @@ The clocks had gone back so it was a good morning to get out early as the sun ro
 
 Around our neck of the woods, literally, there are some great woodland walks! So I headed for Wellesley Woods that straddles part of the Basingstoke Canal between Farnborough and Aldershot in Hampshire. The woods are well mapped out with new clearly marked out pathways and I believe there are maps that you can download via QR codes on the information panels in the car parks. In any case I know it well enough to find my way around and I followed one particular circuit with my camera at the ready.
 
-![pick reflection image](reflections-in-the-canal.jpeg)
+![pick reflection image](./reflections-in-the-canal.jpeg)
 
 Reflections on the water at this time of the year are often the best and the reason for this is the angle of the light, as you know when you are out driving the sun gets in your eyes more, well it helps produce better light for photography at least! Calm frosty mornings also help accentuate the effect because that stillness makes a huge difference, especially when it comes to incorporating water in your photography.
 
-![pick mist image](/Mist-above-the-water.jpeg)
+![pick mist image](./Mist-above-the-water.jpeg)
 
 Mist above the water is always a treat, especially where the light catches it and creates a backlit effect. You can never predict where mist will occur exactly and I often (should write an article on this as a subject of it's own) find that just planning on going somewhere, following a route on foot with some vantage points in mind is the best way to plan photography outings, the rest is just down to good old serendipity. Just take your chances, those magic moments are always a delight and stir your soul.
 
-![pick autumn colours image](/autumn-leaves.jpeg)
+![pick autumn colours image](./autumn-leaves.jpeg)
 
 Autumn colours are coming fast, falling off the trees even faster this year. I doubt you'll see that many decent autumn images out of me this time round. I think the heavy rain and winds we've had these past couple of weeks will have contributed to this, however there are pockets of vibrant colour here and there, just not all that easy to find. I could do with visiting an aboretum.
 
-![pick details image maybe berries](/berries.jpeg)
+![pick details image maybe berries](./berries.jpeg)
 - Picking out the smaller details
 
-![pick black and white trees image](/black-and-white-trees.jpeg)
+![pick black and white trees image](./black-and-white-trees.jpeg)
 - Nature in black and white
 
 - A good early morning walk, frosty air
