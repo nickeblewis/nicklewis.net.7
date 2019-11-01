@@ -6,7 +6,8 @@ Extra ideas that could be included in this issue or the next
 - Walk 52
 - Fact 52
 - Maybe create a template file based on this post to make it easy to flesh out the next issues
-
+## iPhone 11 Wow
+- photo of the week
 ## Finding new ways of editing on the move
 - Continuing in the vein of iOS and the new iPadOS 
 - JAMStack
