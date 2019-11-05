@@ -1,7 +1,9 @@
-## iPhone 11 Wow
+## iPhone 11 
 - photo of the week
+- Last week i mentioned that I had ordered my new iPhone Pro Max and after a few hiccups with the order I received my device in the post quicker than expected. 
 
 ## night mode
+- the following images demonstrate night photography shot around Farnborough
 
 ## ultra-wide angle
 
