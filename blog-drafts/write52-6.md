@@ -1,13 +1,14 @@
-Extra ideas that could be included in this issue or the next
-
-- Location 52
-- Tech 52
-- Photo 52
-- Walk 52
-- Fact 52
-- Maybe create a template file based on this post to make it easy to flesh out the next issues
 ## iPhone 11 Wow
 - photo of the week
+
+## night mode
+
+## ultra-wide angle
+
+## video
+
+## pixelmator photo
+
 ## Finding new ways of editing on the move
 - Continuing in the vein of iOS and the new iPadOS 
 - JAMStack
@@ -16,6 +17,17 @@ Extra ideas that could be included in this issue or the next
   - PUSH to Publish
 - Oh heck this is an article in it’s own 
   - NEW PAGE
+
+
+
+Extra ideas that could be included in this issue or the next
+
+- Location 52
+- Tech 52
+- Photo 52
+- Walk 52
+- Fact 52
+- Maybe create a template file based on this post to make it easy to flesh out the next issues
 
 ## At work this week (may roll over)
 
