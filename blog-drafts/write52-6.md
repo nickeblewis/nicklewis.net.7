@@ -130,7 +130,8 @@ Do you have any faves?
 - if you want to improve your photography skills, team up with someone who has a wealth of experience, like err, me!
 
 ## photography planning
-- what my plans are for December
+- what my plans are for December and beyond
+- alamy/stockimo
 
 ## Mayflower project
 
@@ -141,3 +142,24 @@ Do you have any faves?
 ## Great walks
 
 ## Writing projects for the year ahead
+
+## winter drone flight plan
+
+## National Trust christmas
+
+## Farmers markets 
+
+## prints for sale
+
+## My own image library 'nfolio'
+- fulfilling the needs of writers and content producers like you
+
+## Pond 5
+- cant login. so try later from home
+
+## alamy
+- share my link to my portfolio
+
+## Vue tuts
+
+## gridsome tuts
