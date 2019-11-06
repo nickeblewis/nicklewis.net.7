@@ -131,3 +131,13 @@ Do you have any faves?
 
 ## photography planning
 - what my plans are for December
+
+## Mayflower project
+
+- 400th
+
+## Hampshire book
+
+## Great walks
+
+## Writing projects for the year ahead
