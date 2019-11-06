@@ -179,6 +179,7 @@ Do you have any faves?
 
 ## meon trail
 ## basingstoke canal
+## solent way
 ## other old railway lines
 - connect up with Andrew Perrin
 
@@ -197,3 +198,6 @@ Do you have any faves?
 # introduce the above idea into Write52 quite early on
 - buy the self published book in the future
 - subscribe to it via patreon?
+
+## other ideas
+- sell it to a magazine as an ongoing series
