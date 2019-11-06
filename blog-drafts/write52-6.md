@@ -119,6 +119,8 @@ Do you have any faves?
 
 - Started using again, lets see how it goes
 - Alamy
+- chuffed with the 3/4 score for my bellmouth spillway!
+- send them more like that
 
 ## Future gadgets
 
@@ -174,3 +176,23 @@ Do you have any faves?
 ## surrey hills
 
 ## cranleigh
+
+## meon trail
+
+## other old railway lines
+
+## part and parcel of this project
+- supply to alamy, stockimo etc
+- write52
+- raising awareness for kidney disease
+- learn to identify it all, nature, trees etc
+
+# purpose
+- get fitter, be content and to write about whats great about the british isles
+- writing a real time book about walking and exploring what is not a flight away
+- use the car less
+- jouranlise it all using just mostly an iphone
+
+# introduce the above idea into Write52 quite early on
+- buy the self published book in the future
+- subscribe to it via patreon
