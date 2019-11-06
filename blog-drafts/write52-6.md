@@ -180,6 +180,7 @@ Do you have any faves?
 ## meon trail
 
 ## other old railway lines
+- connect up with Andrew Perrin
 
 ## part and parcel of this project
 - supply to alamy, stockimo etc
