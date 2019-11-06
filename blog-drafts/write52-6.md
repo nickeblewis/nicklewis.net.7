@@ -163,3 +163,14 @@ Do you have any faves?
 ## Vue tuts
 
 ## gridsome tuts
+
+## state of nfolio project
+
+## seek inspiration from people like...
+- fotolibra
+- nick jenkins
+- and more
+
+## surrey hills
+
+## cranleigh
