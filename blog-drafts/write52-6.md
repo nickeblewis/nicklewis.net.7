@@ -43,6 +43,14 @@ Extra ideas that could be included in this issue or the next
 - Fact 52
 - Maybe create a template file based on this post to make it easy to flesh out the next issues
 
+## Speedy digital workflow
+
+- edit video on your device
+- upload to Vimeo
+- grab the link and drop into your article
+- publish
+- boom!
+  
 ## At work this week (may roll over)
 
   - freelancing/contracting
@@ -98,7 +106,10 @@ Future content
 
 ## Inspiring Street photographers
 
+
 ## Photography apps
+
+Do you have any faves?
 
 ## I want to take a road trip
 
@@ -107,3 +118,16 @@ Future content
 ## Stockimo
 
 - Started using again, lets see how it goes
+- Alamy
+
+## Future gadgets
+
+- osmo mobile
+- microphones
+
+## workshops and photowalks
+
+- if you want to improve your photography skills, team up with someone who has a wealth of experience, like err, me!
+
+## photography planning
+- what my plans are for December
