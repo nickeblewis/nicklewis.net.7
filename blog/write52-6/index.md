@@ -58,7 +58,13 @@ I love the ultra-wide angle lens that comes as one of the trio of lenses with th
   
 ## The mighty Brecon Beacons
 
-- More photos from the Brecon's
+![](./bellmouthspillway.jpeg)
+
+![](./tracks.jpeg)
+
+![](./train.jpeg)
+
+![](./steps.jpeg)
 
 Apologies for this article being a bit short this week, to be frank it's incredible I've been able to push out an article at all, such a frantic week!
 
