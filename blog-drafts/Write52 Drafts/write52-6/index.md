@@ -1,6 +1,19 @@
+---
+title: Write52 Issue 5
+summary: Issue 5 of 52 is here and this week I write about a few topics all in one post because there is a lot going on around here
+slug: issue6
+date: 2019-11-06
+published: false
+section: write52
+tags:
+ - CMS
+ - Sanity
+ - Headless
+ - Gridsome
+---
 ## iPhone 11 
 
-- photo of the week
+![The Hangar](./balloonhangar.jpeg)
 
 You may recall in my last post I mentioned that I'd ordered my new iPhone 11 Pro Max from Vodafone as an upgrade. I had a few problems with the order and Vodafone let me down a bit initially but after I made a complaint about their disjointed service, I didn't need to wait for 3 weeks for delivery, it came through in four days!
 
