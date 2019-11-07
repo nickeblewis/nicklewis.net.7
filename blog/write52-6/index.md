@@ -1,8 +1,8 @@
 ---
-title: Write52 Issue 5
-summary: Issue 5 of 52 is here and this week I write about a few topics all in one post because there is a lot going on around here
+title: iPhone Photography
+summary: Issue 6 of 52 - the new iPhone 11 is a serious camera and I’ve been taking it for a whirl
 slug: issue6
-date: 2019-11-06
+date: 2019-11-09
 published: true
 section: write52
 tags:
@@ -10,6 +10,10 @@ tags:
  - Sanity
  - Headless
  - Gridsome
+ - iPhone
+ - Photography 
+ - Farnborough 
+ - Wales
 ---
 ## iPhone 11 
 
@@ -23,6 +27,16 @@ So far I've tested it in two very different scenarios: Night time around Farnbor
 
 ## Farnborough Business Park - night mode
 - the following images demonstrate night photography shot around Farnborough
+
+![Samuel F Cody statue at night](./cody.jpeg)
+
+![The original terminal building](./terminal.jpeg)
+
+![number 2](./number2.jpeg)
+
+![The hub](./Hub1.jpeg)
+
+![The hub 2](./Hub2.jpeg)
 
 The Business Park next to Farnborough's Airport was borne out of what used to be the old RAE site and is now a spectacular mix of modern offices, a hotel and lovingly restored heritage buildings. One of these structures is the Balloon Hangar that was fairly recently reinstated by a group of people who discovered it's parts stowed away in a building on the old site. They decided to resconstruct it and it has formed a fantastic centre piece for the business park. The former terminal building complete with it's control tower has been repurposed as smart modern offices. The old wind tunnels are well maintained and at certain times of the year you can take tours inside them, something I've not yet done and have been itching to do for years.
 
