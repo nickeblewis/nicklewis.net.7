@@ -21,8 +21,6 @@ It's not far from where we live and we often walk over that way of an evening, p
 
 ## pixelmator photo
   
-## Did the iPhone 11 turn up?
-Yes/No
+## The mighty Brecon Beacons
 
-## Wales and the iPhone 11 oh yeah baby
 
