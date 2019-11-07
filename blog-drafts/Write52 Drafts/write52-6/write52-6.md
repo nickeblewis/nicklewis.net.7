@@ -19,11 +19,20 @@ It's not far from where we live and we often walk over that way of an evening, p
 
 I love the ultra-wide angle lens that comes as one of the trio of lenses with the Max Pro, as it opens up a whole hose of new opportunities and by jove it is very wide indeed. I like using it for perspectives where you wouldn't instantly reach for a 14mm focal length under normal circumstances like these shots here.
 
+- decide on images to paste in here
 
 ## video
 
+- collate a video with a bit of music, push up to Vimeo and link in here
+
 ## pixelmator photo
+
+- quick mention of this app £4.99
   
 ## The mighty Brecon Beacons
+
+- More photos from the Brecon's
+
+Apologies for this article being a bit short this week, to be frank it's incredible I've been able to push out an article at all, such a frantic week!
 
 
