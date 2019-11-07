@@ -3,7 +3,7 @@ title: Write52 Issue 5
 summary: Issue 5 of 52 is here and this week I write about a few topics all in one post because there is a lot going on around here
 slug: issue6
 date: 2019-11-06
-published: false
+published: true
 section: write52
 tags:
  - CMS
