@@ -17,6 +17,9 @@ It's not far from where we live and we often walk over that way of an evening, p
 
 ## ultra-wide angle
 
+I love the ultra-wide angle lens that comes as one of the trio of lenses with the Max Pro, as it opens up a whole hose of new opportunities and by jove it is very wide indeed. I like using it for perspectives where you wouldn't instantly reach for a 14mm focal length under normal circumstances like these shots here.
+
+
 ## video
 
 ## pixelmator photo
