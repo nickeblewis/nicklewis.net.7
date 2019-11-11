@@ -12,6 +12,8 @@ tags:
  - Solent Way
  - Fareham
  - Walks
+ - Hill Head
+ - Titchfield
 ---
 This week I move on to writing about some of the walks I enjoy around my home county of Hampshire. One day I would love to write a book about walks across the county, it’s people and the history that shaped it. Writing a book or two will be a long term project and will take quite some time, however in the meantime through the medium of blogging, I can publish some material to get going. So come and join me on a walk along part of the Solent way.
 
