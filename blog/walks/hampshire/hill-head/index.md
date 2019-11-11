@@ -9,7 +9,7 @@ tags:
  - iPhone
  - Photography 
  - Hampshire
- - Solent
+ - Solent Way
  - Fareham
  - Walks
 ---
