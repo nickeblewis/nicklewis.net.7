@@ -39,3 +39,9 @@ This week I move on to writing about some of the walks I enjoy around my home co
 - Instagram and stories should follow my walks
 - See link in bio/profile to latest blog post
 - Pinned tweet
+
+## follow ons
+- lunchtime walks (basingstoke)
+
+## your walks
+- tell us about yours
