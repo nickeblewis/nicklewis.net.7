@@ -22,9 +22,10 @@ As a developer who does a lot of contract and freelance work, I spend a lot of m
 - [ ] Headless CMSes, how they can be used with this site and my customers
 - ReactJs
 - JS/ES6/ES7 ongoing learning and refinement
-- [ ] Tailwind
+- [ ] [Tailwind](./tailwind)
 - [ ] Inertiajs
 - [ ] Laravel
+- [ ] Snipcart
 
 That is a bit of a short list for the moment, there are other ideas I'll chuck in here soon!
 
@@ -52,3 +53,6 @@ Ways to get better at the following
 ## Footnote
 
 This page will be updated __frequently__. Why not create a list like this and put it on your site, it will help not only you focus your experimentation time better but may also inspire others to do the same, please share your lists via the comments below, I am eager to know what other people are learning. Need not be code, it could be a foreign language, sport or other skill.
+
+## other
+- [ ] substack for headforcode? build a thousand users

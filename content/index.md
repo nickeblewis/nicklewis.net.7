@@ -11,27 +11,33 @@ tags:
 [Services](./services)
 
 
-# Javascript development in VueJS
-
+## VueJS
 What is coming up in VueJS, version 3 is not far off now and what will the impact of this be?
 
-# Gridsome
+### Mastering UI in VueJS
 
+### Gridsome
 Getting more out of Gridsome
 
-# Business
+## Business
+### Contracting
+- [ ] What does IR35 mean for me? 
+### Integrations
 
-# Walks
+## Walks
 
-# Write52
+## Writing
+### Write52
 
-# Photography
+## Photography
 
-# Social Media
+## Social Media
+### Newsletters
 
-# Plans
+
+
+## Website Plans
 
 - [ ] Potential to break sections of this site into new sites, I am wondering how best to do this?
+- [ ] Revise style of this site, headings are too big etc, maybe find another dev/photographer's site and use it as a guide?
 
-# Contracting
-- [ ] What does IR35 mean for me? 
