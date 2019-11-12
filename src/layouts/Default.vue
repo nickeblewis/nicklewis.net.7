@@ -3,6 +3,7 @@
     <header class="border-t-14 border-green-700">
       <nav class="container mx-auto flex flex-wrap justify-between items-center py-8">
         <div>
+          <!-- TODO - Get rid of nick lewis digital consultancy, sounds too pompous -->
           <g-link v-if="theme === 'theme-light'" to="/"><g-image src="../../static/logo.png" class="w-40" alt="logo" /></g-link>
           <g-link v-else to="/"><g-image src="../../static/logo.png" class="w-40" alt="logo" /></g-link>
         </div>
@@ -33,9 +34,11 @@
             <a v-if="$route.path === '/'" href="/#contact" v-scroll-to="'#contact'" class="text-copy-primary hover:text-gray-600">Contact</a>
             <g-link v-else to="/#contact" class="text-copy-primary hover:text-gray-600">Contact</g-link>
           </li>
+          <!-- TODO - Considering pulling content off Sanity due to costs and moving into the markdown content -->
           <li class="mr-8 mb-6 lg:mb-0">
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
           </li>
+          <!-- TODO - If I do the above, then this section will not be needed and I can merge it into one -->
           <li>
             <g-link to="/articles" class="text-copy-primary hover:text-gray-600">Articles</g-link>
           </li>
@@ -49,6 +52,7 @@
     <footer class="bg-green-700 text-white">
       <div class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8">
         <div class="mb-8 lg:mb-0">
+          <!-- TODO - 2019 should update dynamically -->
           <div>Copyright 2019. All rights reserved.</div>
           <div>
             <a href="rss.xml" class="text-white hover:text-gray-400 font-normal">RSS Feed</a> |

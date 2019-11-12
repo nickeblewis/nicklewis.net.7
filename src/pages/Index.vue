@@ -12,6 +12,7 @@
       </div>
     </div> <!-- end hero -->
 
+    <!-- TODO - Will revise this as my content has gone in a different direction! -->
     <div class="container-inner mx-auto">
       <p class="text-lg sm:text-xl">The web is a large and bewildering place, our business can help you get your ideas off the ground. We are here to help steer your ideas and deliver them online.</p>
      

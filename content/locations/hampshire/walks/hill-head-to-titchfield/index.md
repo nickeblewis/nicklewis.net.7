@@ -42,9 +42,13 @@ This walk starts from The Osborne View pub, always a great place to start, end o
 - Instagram and stories should follow my walks
 - See link in bio/profile to latest blog post
 - Pinned tweet
+- show a link to this on my home page
 
 ## follow ons
 - lunchtime walks (basingstoke)
 
 ## your walks
 - tell us about yours
+
+## Coming next
+- maybe not next week but soon more of these articles!
