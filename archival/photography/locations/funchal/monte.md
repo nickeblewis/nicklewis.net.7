@@ -1,1 +1,2 @@
-- [ ] Backlog of iamges that need to be on this site 
+- [ ] Backlog of images that need to be on this site especially the botanical gardens
+  - [ ] Export from LR
