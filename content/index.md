@@ -42,3 +42,4 @@ Getting more out of Gridsome
 - [ ] Revise style of this site, headings are too big etc, maybe find another dev/photographer's site and use it as a guide?
 
 https://css-tricks.com/two-value-display-syntax-and-sometimes-three/
+https://flaviocopes.com/
