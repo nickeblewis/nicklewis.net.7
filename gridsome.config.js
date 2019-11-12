@@ -90,8 +90,32 @@ module.exports = {
             [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
           ]
         }
-      } // TODO - Add folder called gallery at some point in time
+      } 
     },     
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'content/**/*.md',
+        typeName: 'Doc',
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            route: 'tag/:id',
+            create: true
+          }
+        },
+        remark: {
+          plugins: [
+            ['gridsome-plugin-remark-youtube'],
+            [ '@noxify/gridsome-plugin-remark-embed', {
+              'enabledProviders' : ['Youtube', 'Twitter', 'Vimeo'],
+          }],
+            ['gridsome-plugin-remark-twitter'],
+            [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+          ]
+        }
+      } 
+    }, 
     {
       use: 'gridsome-plugin-rss',
       options: {

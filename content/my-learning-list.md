@@ -1,6 +1,5 @@
 ---
 title: Learning List
-path: explore/learning-list
 summary: I have been playing with Sanity which is a headless CMS 
 date: 2019-08-07
 tags:
