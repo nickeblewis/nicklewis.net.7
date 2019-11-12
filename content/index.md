@@ -6,7 +6,7 @@ tags:
  - content 
 ---
 
-[Farnborough](./farnborough/heart-of-farnborough)
+[Farnborough](./locations/farnborough)
 [Locations](./locations)
 [Services](./services)
 
