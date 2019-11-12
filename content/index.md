@@ -6,7 +6,9 @@ tags:
  - content 
 ---
 
-[Farnborough](./content/farnborough/heart-of-farnborough)
+[Farnborough](./farnborough/heart-of-farnborough)
+
+[Services](./services)
 
 
 # Javascript development in VueJS
