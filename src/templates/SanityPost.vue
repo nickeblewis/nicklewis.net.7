@@ -115,13 +115,15 @@ query Post ($id: ID!) {
 <script>
 //import Vue from 'vue'
 import BlockContent from "~/components/BlockContent";
+import Bio from '../components/Bio'
 //import {VueMasonryPlugin} from 'vue-masonry';
 
 //Vue.use(VueMasonryPlugin)
 
 export default {
   components: {
-    BlockContent
+    BlockContent,
+    Bio
   },
   metaInfo() {
     return {

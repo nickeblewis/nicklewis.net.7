@@ -16,11 +16,7 @@
       <div class="mb-8">
         <g-link to="/articles" class="font-bold uppercase">Back to articles</g-link>
       </div>
-      <!-- TODO - make this a component!!!! -->
-      <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
-          <div><g-image src="../../static/profile.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
-          <div class="flex-1 text-lg sm:text-xl ml-6">I am a freelance web developer, content creator and photographer, who is on a mission to help businesses and individuals build solutions for their online world.</div>
-        </div>
+      <bio />
       <vue-disqus shortname="nicklewis-net" :identifier="$page.post.title"></vue-disqus>
     </div>
   </Layout>
@@ -41,7 +37,11 @@ query Post ($path: String!) {
 </page-query>
 
 <script>
+import Bio from '../components/Bio'
 export default {
+  components: {
+    Bio
+  },
   metaInfo() {
     return {
       title: this.$page.post.title
