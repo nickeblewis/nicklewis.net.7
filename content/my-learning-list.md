@@ -9,7 +9,7 @@ tags:
 
 ## Purpose of this page
 
-As a developer who does a lot of contract and freelance work, I spend a lot of my time training myself, not just in learning new skills but improving my actual approach to learning, which led to the conception of this website. The purpose of this particular page is to maintain a set of notes covering the key areas for that ongoing learning process. I hope that you find it useful too or perhaps it will encourage you to do a similar thing - collate your own list, hone your skills on what matters the most.
+As a developer who does a lot of contract and freelance work, I spend a lot of my time training myself, not just in learning new skills but improving my actual approach to learning, which led to the conception of this website. The purpose of this particular page is to maintain a set of notes covering the key areas for that ongoing learning process. I hope that you find it useful too or perhaps it will encourage you to do a similar thing - collate your own list, hone your skills on what matters the most. It covers a broad set of skills from code, to marketing and from learning more about video production as much as improving already decent skills like photography.
 
 ## Code
 
@@ -18,11 +18,13 @@ As a developer who does a lot of contract and freelance work, I spend a lot of m
 - Electron 
 - Sanity.io
 - Refine my VueJS skills further by writing about the framework and developing my own set of courses for other people to learn from
-- Gridsome and the plugins available
-- Headless CMSes, how they can be used with this site and my customers
+- [ ] Gridsome and the plugins available
+- [ ] Headless CMSes, how they can be used with this site and my customers
 - ReactJs
 - JS/ES6/ES7 ongoing learning and refinement
-- Tailwind
+- [ ] Tailwind
+- [ ] Inertiajs
+- [ ] Laravel
 
 That is a bit of a short list for the moment, there are other ideas I'll chuck in here soon!
 
@@ -30,10 +32,10 @@ That is a bit of a short list for the moment, there are other ideas I'll chuck i
 
 Ways to get better at the following
 
-- Newsletters
+- [ ] Newsletters
 - Analytics
 - SEO
-- Affiliates to monetise 
+- [ ] Affiliates to monetise 
 
 ## Photography
 
@@ -45,6 +47,7 @@ Ways to get better at the following
 - Automated drone flight
 - More video
 - Lightroom alternatives
+- [ ] iPhone
 
 ## Footnote
 
