@@ -7,7 +7,7 @@ tags:
 ---
 
 [Farnborough](./content/farnborough/heart-of-farnborough)
-[Services](./content/../services)
+
 
 # Javascript development in VueJS
 
