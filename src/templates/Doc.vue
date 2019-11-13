@@ -95,7 +95,7 @@ export default {
     -webkit-text-size-adjust: 100%;
     color: #24292e;
     line-height: 1.5;
-    font-size: 16px;
+    font-size: 18px;
     line-height: 1.5;
     word-wrap: break-word;
   }
