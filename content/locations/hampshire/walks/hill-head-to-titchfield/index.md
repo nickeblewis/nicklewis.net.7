@@ -3,7 +3,7 @@ title: Hill Head and Titchfield
 summary: This week moving on a bit from talking iPhones and photography we move on to writing about walks
 slug: hill-head
 date: 2019-11-16
-published: false
+published: true
 section: walks
 tags:
  - iPhone
