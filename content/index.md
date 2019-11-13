@@ -43,3 +43,7 @@ Getting more out of Gridsome
 
 https://css-tricks.com/two-value-display-syntax-and-sometimes-three/
 https://flaviocopes.com/
+
+## Steal ideas!
+
+- [ ] Wes and Scott talk about their website designs.... study these ;-)
