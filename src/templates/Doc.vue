@@ -3,15 +3,6 @@
     <div class="container-inner mx-auto my-16">
       <h1 class="text-4xl font-bold leading-tight">{{ $page.doc.title }}</h1>
       <div class="text-xl text-gray-600 mb-4">{{ $page.doc.date }}</div>
-      <div class="flex mb-8 text-sm">
-        <g-link
-          :to="tag.path"
-          v-for="tag in $page.doc.tags"
-          :key="tag.id"
-          class="bg-gray-300 rounded-full px-4 py-2 mr-4 hover:bg-green-300">
-          {{ tag.title }}
-        </g-link>
-      </div>
       <div class="markdown-body mb-8" v-html="$page.doc.content" />
       <div class="mb-8">
         <g-link to="/content" class="font-bold uppercase">Back to Blog</g-link>
@@ -104,7 +95,7 @@ export default {
     -webkit-text-size-adjust: 100%;
     color: #24292e;
     line-height: 1.5;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 1.5;
     word-wrap: break-word;
   }
