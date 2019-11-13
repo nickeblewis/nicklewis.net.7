@@ -15,7 +15,7 @@ tags:
  - Hill Head
  - Titchfield
 ---
-This week I move on to writing about some of the walks I enjoy around my home county of Hampshire. You know what I would love to do? One day I would love to write a book about walks across the county, it’s people and the history that shaped it. Writing a book or two will be a long term project and will take quite some time, however in the meantime through the medium of the web, I can publish some material to get going. So come and join me on a walk along part of the Solent way.
+https://goo.gl/maps/7S3B8mEPi75z2Ef77
 
 ## Hill Head to Warsash
 This walk starts from [The Osborne View pub](https://www.osborneviewhillhead.co.uk/ "The Osborne View, Hill Head"), always a great place to start, end or both!
@@ -52,15 +52,23 @@ It’s here where I shall pick up the path again in the future and follow it fur
 - Ringed Plover
 - Avocet
 - Marsh Harrier
+- Brent Geese (over-wintering)
 - Plus many others it’s a great place for overwintering species and summer migrants alike
 
 ## Places to eat
-- The Osborne View
-- Titchfield Haven Cafe (is that it’s name?)
+- [The Osborne View](https://www.osborneviewhillhead.co.uk/ "The Osborne View, Hill Head")
+- Titchfield Haven Cafe
+- Breezes Cafe
 
 ## Places to park
-- The Pub car park is for patrons only 
+- The Pub car park is for patrons only but if you eat there they  will give you an exit code to raise the barrier
 - Other parking options further along the road at the Titchfield Haven end
 
-## your walks
-- tell us about yours, feel free to Tweet me or post a comment below in the Disqus section
+## Your walks
+- tell us about your favourites, feel free to Tweet me or post a comment below in the Disqus section. You never know I may go and check them out
+
+## Another day, another time
+- Titchfield Canal
+- [Chilling Coastal Area](https://www.hants.gov.uk/thingstodo/countryside/finder/chilling)
+- Titchfield Haven (Spring 2020)
+- More sections of the Solent Way to cover
