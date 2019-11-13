@@ -61,8 +61,8 @@ module.exports = {
     },
     fontFamily: {
       sans: [
-        'Montserrat',
         'Helvetica',
+        'Montserrat',
         'Nunito Sans',
         'Roboto',
         '-apple-system',
