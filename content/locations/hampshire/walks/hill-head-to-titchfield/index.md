@@ -15,6 +15,8 @@ tags:
  - Hill Head
  - Titchfield
 ---
+Hill Head is a village just South of Stubbington and Fareham located on the Solent coastline. An ideal place to pick up the coastal Solent Way path that spans 60 miles of the Hampshire coastline between Milford-on-Sea and Emsworth, via Lymington, Southampton and Portsmouth.
+
 https://goo.gl/maps/7S3B8mEPi75z2Ef77
 
 ## Hill Head to Warsash
