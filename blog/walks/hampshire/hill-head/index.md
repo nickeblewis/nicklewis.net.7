@@ -1,6 +1,6 @@
 ---
 title: Hill Head and Titchfield
-summary: This week moving on a bit from talking iPhones and photography we move on to writing about walks
+summary: Discover the shoreline of Hill Head and Titchfield, beach huts and migratory birds as we take a walk along the Solent Way
 slug: hill-head-to-titchfield
 date: 2019-11-16
 published: true
