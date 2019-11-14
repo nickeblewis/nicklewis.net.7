@@ -55,8 +55,8 @@
           <!-- TODO - 2019 should update dynamically -->
           <div>Copyright 2019. All rights reserved.</div>
           <div>
-            <a href="rss.xml" class="text-white hover:text-gray-400 font-normal">RSS Feed</a> |
-            <a href="sitemap.xml" class="text-white hover:text-gray-400 font-normal">Sitemap</a>
+            <a href="/rss.xml" class="text-white hover:text-gray-400 font-normal">RSS Feed</a> |
+            <a href="/sitemap.xml" class="text-white hover:text-gray-400 font-normal">Sitemap</a>
           </div>
         </div>
         <ul class="flex items-center">
