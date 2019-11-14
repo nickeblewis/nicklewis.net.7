@@ -4,6 +4,7 @@ slug: apple-court-garden
 published: true
 date: 2019-07-17T13:22:01.518Z
 section: gardens
+county: hampshire
 tags:
   - gardens
   - photography
