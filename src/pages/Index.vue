@@ -58,7 +58,26 @@
           </li>
 
         </ul>
+        <div v-for="post in $page.posts.edges" :key="post.id" class="post border-gray-400 border-b mb-12">
+        <h2 class="text-2xl font-bold"><g-link :to="post.node.path" class="text-copy-primary">{{ post.node.title }}</g-link></h2>
+        <div class="text-copy-secondary mb-4">
+          <span>{{ post.node.section }}</span>
+          <span> &middot; </span>
+          <span>{{ post.node.date }}</span>
+          <span> &middot; </span>
+          <span>{{ post.node.timeToRead }} min read</span>
+        </div>
+
+        <div class="text-base mb-4">
+          {{ post.node.summary }}
+        </div>
+
+        <div class="mb-8">
+          <g-link :to="post.node.path" class="font-bold uppercase">Read More</g-link>
+        </div>
+      </div> <!-- end post -->
       </div> <!-- end projects -->
+      
       <div class="projects container-inner mx-auto text-xl border-t border-gray-500 border-b py-16 mb-16 relative">
         <h2 class="font-bold mb-6" id="projects">Projects:</h2>
 
@@ -211,6 +230,25 @@
 
   </Layout>
 </template>
+
+<page-query>
+query Posts {
+  posts: allPost (limit: 4, sortBy: "date", order: DESC, filter: { published: { eq: true }}) {
+    edges {
+      node {
+        id
+        title
+        published
+        section
+        date (format: "MMMM D, Y")
+        summary
+        timeToRead
+        path
+      }
+    }
+  }
+}
+</page-query>
 
 <script>
 export default {
