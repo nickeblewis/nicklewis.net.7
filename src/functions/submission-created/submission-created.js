@@ -2,7 +2,7 @@ const dotenv = require('dotenv')
 const fetch = require('node-fetch')
 const { EMAIL_TOKEN } = process.env
 exports.handler = async function(event, context) { 
-  
+  const email = JSON.parse(event.body).payload.data.email
   
   return fetch('https://api.buttondown.email/v1/subscribers', {
     method: 'POST',
@@ -10,7 +10,7 @@ exports.handler = async function(event, context) {
       Authorization: `Token ${EMAIL_TOKEN}`,
       'Content-Type': 'application/json',
     },
-    body: "nickl@gmail.com"
+    body: email,
   })
     .then(response => response.json())
     .then(data => {
