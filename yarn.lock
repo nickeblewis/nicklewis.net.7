@@ -829,7 +829,7 @@
   version "0.2.4"
   resolved "https://registry.yarnpkg.com/@emotion/weak-memoize/-/weak-memoize-0.2.4.tgz#622a72bebd1e3f48d921563b4b60a762295a81fc"
 
-"@fullhuman/postcss-purgecss@^1.2.0":
+"@fullhuman/postcss-purgecss@^1.3.0":
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/@fullhuman/postcss-purgecss/-/postcss-purgecss-1.3.0.tgz#d632900d818f4fcf4678e7326923fb838c3e03a7"
   dependencies:
@@ -853,29 +853,13 @@
     sort-package-json "^1.15.0"
     update-notifier "^3.0.1"
 
-"@gridsome/plugin-google-analytics@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@gridsome/plugin-google-analytics/-/plugin-google-analytics-0.1.0.tgz#f2fdffdb05dd2928ca85c4a0d64c7e497a36ee49"
-  dependencies:
-    vue-analytics "^5.16.1"
-
-"@gridsome/plugin-sitemap@^0.2.1":
+"@gridsome/plugin-sitemap@^0.2.2":
   version "0.2.3"
   resolved "https://registry.yarnpkg.com/@gridsome/plugin-sitemap/-/plugin-sitemap-0.2.3.tgz#44c2655d97349f8a02a76a38452313442b6cdab5"
   dependencies:
     fs-extra "^7.0.0"
     micromatch "^3.1.10"
     sitemap "^2.1.0"
-
-"@gridsome/source-filesystem@^0.5.0":
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/@gridsome/source-filesystem/-/source-filesystem-0.5.0.tgz#7b88f5dcdde1014c6c7da5c5bcbca0e284101992"
-  dependencies:
-    chokidar "^2.0.4"
-    fs-extra "^7.0.0"
-    globby "^8.0.1"
-    lodash "^4.17.10"
-    slash "^2.0.0"
 
 "@gridsome/source-filesystem@^0.6.2":
   version "0.6.2"
@@ -888,7 +872,7 @@
     mime-types "^2.1.21"
     slash "^2.0.0"
 
-"@gridsome/transformer-remark@^0.3.2":
+"@gridsome/transformer-remark@^0.3.4":
   version "0.3.4"
   resolved "https://registry.yarnpkg.com/@gridsome/transformer-remark/-/transformer-remark-0.3.4.tgz#7ecf37565ffb95001ed2cf7562ff1c42ac67ecbb"
   dependencies:
@@ -5424,7 +5408,7 @@ gridsome-plugin-remark-youtube@^1.0.1:
   dependencies:
     unist-util-visit "^1.4.0"
 
-gridsome-plugin-rss@^1.1.0:
+gridsome-plugin-rss@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/gridsome-plugin-rss/-/gridsome-plugin-rss-1.2.0.tgz#9614f16bf77b97b8e6471428c8487195cf7f9168"
   dependencies:
@@ -5444,7 +5428,7 @@ gridsome-source-sanity@^1.0.2:
     split2 "^3.1.1"
     through2 "^3.0.1"
 
-gridsome@^0.7.0:
+gridsome@^0.7.9:
   version "0.7.10"
   resolved "https://registry.yarnpkg.com/gridsome/-/gridsome-0.7.10.tgz#80536582232d1e6efc3ac61e6e838aede23a91aa"
   dependencies:
@@ -11479,7 +11463,7 @@ sync-rpc@^1.3.4:
   dependencies:
     get-port "^3.1.0"
 
-tailwindcss@^1.0.4:
+tailwindcss@^1.1.3:
   version "1.1.3"
   resolved "https://registry.yarnpkg.com/tailwindcss/-/tailwindcss-1.1.3.tgz#ad154f78e1e44060e32e3ed44b27287c2be126a6"
   dependencies:
@@ -12352,18 +12336,9 @@ vm-browserify@^1.0.1:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
 
-"vscode-textmate@git+https://github.com/octref/vscode-textmate.git":
-  version "4.0.1"
-  resolved "git+https://github.com/octref/vscode-textmate.git#e65aabe2227febda7beaad31dd0fca1228c5ddf3"
-
 "vscode-textmate@https://github.com/octref/vscode-textmate":
   version "4.0.1"
-  uid e65aabe2227febda7beaad31dd0fca1228c5ddf3
   resolved "https://github.com/octref/vscode-textmate#e65aabe2227febda7beaad31dd0fca1228c5ddf3"
-
-vue-analytics@^5.16.1:
-  version "5.18.0"
-  resolved "https://registry.yarnpkg.com/vue-analytics/-/vue-analytics-5.18.0.tgz#15a4aee44700d6ba3ee0b0dbd98b58154c78c53d"
 
 vue-disqus@^3.0.5:
   version "3.0.5"
@@ -12373,7 +12348,7 @@ vue-fb-customer-chat@^0.1.4:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/vue-fb-customer-chat/-/vue-fb-customer-chat-0.1.5.tgz#1f4b7c6a6c7d2e2844db968521678a5037605dac"
 
-vue-fuse@^2.1.0:
+vue-fuse@^2.1.2:
   version "2.1.2"
   resolved "https://registry.yarnpkg.com/vue-fuse/-/vue-fuse-2.1.2.tgz#9c369b9349f72adbd2aab2c36e3ee4dc55af522f"
   dependencies:
@@ -12411,7 +12386,7 @@ vue-router@^3.1.3:
   version "3.1.3"
   resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.1.3.tgz#e6b14fabc0c0ee9fda0e2cbbda74b350e28e412b"
 
-vue-scrollto@^2.15.0:
+vue-scrollto@^2.17.1:
   version "2.17.1"
   resolved "https://registry.yarnpkg.com/vue-scrollto/-/vue-scrollto-2.17.1.tgz#cd62ee0b98cf7e2ba9fd94f029addcd093978a48"
   dependencies:

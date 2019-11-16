@@ -55,12 +55,6 @@ module.exports = {
       }
     },
     {
-      use: '@gridsome/plugin-google-analytics',
-      options: {
-        id: 'UA-159000-18'
-      }
-    }, 
-    {
       use: '@gridsome/source-filesystem',
       options: {
         path: 'blog/**/*.md',
