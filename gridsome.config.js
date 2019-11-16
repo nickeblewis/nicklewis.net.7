@@ -17,35 +17,12 @@ module.exports = {
   siteUrl: "https://nicklewis.net",
   templates: {
     Tag: "/tag/:id",
-    SanityPost: [
-      { path: "/blog/:year/:month/:slug__current" },
-      { name: "Features", path: "/:slug__current" }
-    ],
     Post: [
       { path: "/:section/:sub/:slug" },
       { name: "SubSection", path: "/:section/:slug" }
     ]
   },
   plugins: [
-    
-    {
-      use: "gridsome-source-sanity",
-      options: {
-        projectId: "85cmsqr4",
-        dataset: "production",
-        // Token is only required if dataset is private
-        // or `overlayDrafts` is set to true
-        // token: '<tokenWithReadRights>'
-        overlayDrafts: false,
-        watchMode: false,
-        refs: {
-          tags: {
-            typeName: "Tag",            
-            create: true
-          }
-        }
-      }
-    },
     {
       use: "@gridsome/source-filesystem",
       options: {
