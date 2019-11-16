@@ -74,44 +74,85 @@
           <h2 class="font-bold mb-6" id="contact">Contact me:</h2>
 
           <div class="absolute right-0 top-0" style="transform: translate(100%) rotate(180deg)">
-            <svg width="170px" height="170px"><use xlink:href="#dots-triangle" /></svg>
+            <svg width="170px" height="170px">
+              <use xlink:href="#dots-triangle" />
+            </svg>
           </div>
 
+          <!--<p class="mb-12">Static sites cannot submit forms on their own. However, services like <a href="https://www.netlify.com/docs/form-handling">Netlify Forms</a> or <a href="https://formspree.io">FormSpree</a> can help you do this without a backend.</p>-->
+
           <div class="text-lg sm:text-lg mb-16">
-            <form action="#" class="mb-12">
+            <form
+              name="contact"
+              class="mb-12"
+              method="post"
+              v-on:submit.prevent="handleSubmit"
+              data-netlify="true"
+              data-netlify-honeypot="bot-field"
+            >
+              <input type="hidden" name="form-name" value="contact" />
+              <p hidden>
+                <label>
+                  Don’t fill this out:
+                  <input name="bot-field" />
+                </label>
+              </p>
               <div class="flex flex-wrap mb-6 -mx-4">
-                  <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
-                      <label class="block mb-2 text-copy-primary" for="name">
-                          Name
-                      </label>
+                <div class="w-full md:w-1/2 mb-6 md:mb-0 px-4">
+                  <label class="block mb-2 text-copy-primary" for="name">Name</label>
 
-                      <input type="text" name="name" id="name" placeholder="Jon Snow" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
-                  </div>
+                  <input
+                    type="text"
+                    name="name"
+                    id="name"
+                    placeholder="Joe Bloggs"
+                    class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4"
+                    v-model="formData.name"
+                    required
+                  />
+                </div>
 
-                  <div class="w-full px-4 md:w-1/2">
-                      <label class="block text-copy-primary mb-2" for="email">
-                          Email Address
-                      </label>
+                <div class="w-full px-4 md:w-1/2">
+                  <label class="block text-copy-primary mb-2" for="email">Email Address</label>
 
-                      <input type="email" name="email" id="email" placeholder="email@example.com"  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4" required>
-                  </div>
+                  <input
+                    type="email"
+                    name="email"
+                    id="email"
+                    placeholder="email@example.com"
+                    class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none focus:border-green-700 mb-2 p-4"
+                    v-model="formData.email"
+                    required
+                  />
+                </div>
               </div>
 
               <div class="w-full mb-12">
-                  <label class="block text-copy-primary mb-2" for="message">
-                      Message
-                  </label>
+                <label class="block text-copy-primary mb-2" for="message">Message</label>
 
-                  <textarea id="message" rows="5" name="message" class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4" placeholder="Enter your message here." required></textarea>
+                <textarea
+                  id="message"
+                  rows="5"
+                  name="message"
+                  class="block w-full bg-background-form border border-border-color-primary shadow rounded outline-none appearance-none focus:border-green-700 mb-2 px-4 py-4"
+                  placeholder="Enter your message here."
+                  v-model="formData.message"
+                  required
+                ></textarea>
               </div>
 
               <div class="flex justify-end w-full">
-                  <input type="submit" value="Submit" class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3">
+                <button
+                  type="submit"
+                  value="submit"
+                  class="block bg-green-700 hover:bg-green-800 text-white text-sm font-semibold tracking-wide uppercase shadow rounded cursor-pointer px-6 py-3"
+                >Submit</button>
               </div>
-          </form>
+            </form>
           </div>
         </div>
-      </div> <!-- end contact-me -->
+      </div>
+      <!-- end contact-me -->
     </div>
   </Layout>
 </template>
@@ -137,9 +178,36 @@ query HomePosts {
 
 <script>
 export default {
+  data() {
+    return {
+      formData: {}
+    };
+  },
+  methods: {
+    encode(data) {
+      return Object.keys(data)
+        .map(
+          key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key])
+        )
+        .join("&");
+    },
+    handleSubmit(e) {
+      fetch("/", {
+        method: "POST",
+        headers: { "Content-Type": "application/x-www-form-urlencoded" },
+        body: this.encode({
+          "form-name": e.target.getAttribute("name"),
+          ...this.formData
+        })
+      })
+        .then(() => this.$router.push("/success"))
+        .catch(error => alert(error));
+    }
+  },
+
   metaInfo: {
-    title: 'Home'
+    title: "Home"
   }
-}
+};
 </script>
 

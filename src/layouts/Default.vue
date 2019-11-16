@@ -52,14 +52,38 @@
         <div class="w-4/5 mx-auto mb-8">
           <p class="mb-8 text-lg sm:text-xl">My newsletter is full of tech, photography and great places to visit in your spare time. Get it every weekend!</p>
 
-          <form action="#">
-            <div class="flex flex-col sm:flex-row">
-              <input type="email" name="email" placeholder="Your email address" class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10" required>
-              <button data-element="submit" class="flex-2 w-40 uppercase bg-green-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-green-800 focus:bg-green-800 z-10 w-full sm:w-auto mt-4 sm:mt-0">
-                <span>Subscribe</span>
-              </button>
-            </div>
-          </form>
+          <form
+              name="subscribers"
+              v-on:submit.prevent="handleSignup"
+              action="POST"
+              data-netlify="true"
+              data-netlify-honeypot="bot-field"
+            >
+            <div hidden aria-hidden="true">
+                <label>
+                  Don’t fill this out if you're human:
+                  <input name="bot-field" />
+                </label>
+              </div>
+              <div class="flex flex-col sm:flex-row">
+                <input
+                  v-model="formNewsletter.email"
+                  type="email"
+                  id="email"
+                  name="email"
+                  placeholder="Your email address"
+                  class="flex-1 bg-background-form rounded sm:rounded-r-none px-4 py-4 leading-normal border border-border-color-primary sm:border-r-0 shadow outline-none focus:border-green-700 z-10"
+                  required
+                />
+                <button
+                  data-element="submit"
+                  class="flex-2 w-40 uppercase bg-green-700 text-white rounded sm:rounded-l-none text-lg py-3 px-8 tracking-wide shadow focus:outline-none hover:bg-green-800 focus:bg-green-800 z-10 w-full sm:w-auto mt-4 sm:mt-0"
+                  type="submit"
+                >
+                  <span>Subscribe</span>
+                </button>
+              </div>
+            </form>
         </div>
       </div>
 
