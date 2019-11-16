@@ -4,11 +4,12 @@
 import DefaultLayout from '~/layouts/Default.vue'
 import VueScrollTo from 'vue-scrollto'
 import VueFuse from 'vue-fuse'
-import VueDisqus from 'vue-disqus'
-import VueFbCustomerChat from 'vue-fb-customer-chat'
+//import VueDisqus from 'vue-disqus'
+//import VueFbCustomerChat from 'vue-fb-customer-chat'
 // Import image url builder
 import urlForImage from './utils/urlForImage'
 import VueYoutube from 'vue-youtube'
+
 export default function (Vue, { router, head, isClient }) {
   // Set default layout as a global component
   Vue.component('Layout', DefaultLayout)
@@ -22,7 +23,7 @@ export default function (Vue, { router, head, isClient }) {
 
   Vue.use(VueFuse)
 
-  Vue.use(VueDisqus)
+  //Vue.use(VueDisqus)
   Vue.use(VueYoutube)
 
   //Vue.use(VueFbCustomerChat, {
@@ -33,7 +34,7 @@ export default function (Vue, { router, head, isClient }) {
 
   head.meta.push({
     name: 'keywords',
-    content: 'Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,walks,photography,nature,travel,video'
+    content: 'Developer,Photography,Gridsome,Vue,Tailwind,Tailwind CSS,JavaScript,HTML,CSS,Vue.js,VueJS,walks,photography,nature,travel,video'
   })
 
   head.meta.push({
