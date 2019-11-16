@@ -16,6 +16,7 @@ module.exports = {
   siteDescription: "Photographer, Coder, Writer",
   siteUrl: "https://nicklewis.net",
   templates: {
+    Tag: "/tag/:id",
     SanityPost: [
       { path: "/blog/:year/:month/:slug__current" },
       { name: "Features", path: "/:slug__current" }
@@ -39,8 +40,7 @@ module.exports = {
         watchMode: false,
         refs: {
           tags: {
-            typeName: "Tag",
-            route: "tag/:id",
+            typeName: "Tag",            
             create: true
           }
         }

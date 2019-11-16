@@ -64,10 +64,8 @@ query Post ($id: ID!) {
       id
       title
     }
-    tags
     _rawExcerpt
     _rawBody
-    md
     images {
           asset {
         _id
