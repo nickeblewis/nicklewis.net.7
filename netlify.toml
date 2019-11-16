@@ -1,11 +1,11 @@
 [build]
-  command = "npm run build"
+  command = "yarn build"
   publish = "dist"
   functions = "src/functions"
   NODE_ENV = "12.10.0"
 
 [dev]
-  command = "npm run start"
+  command = "yarn develop"
 
 
 [[redirects]]
