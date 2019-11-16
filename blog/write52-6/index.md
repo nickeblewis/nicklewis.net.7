@@ -1,19 +1,16 @@
 ---
-title: iPhone Photography - the game is on
+title: iPhone Photography
 summary: Issue 6 of 52 - the new iPhone 11 is a serious camera and I’ve been taking it for a whirl
 slug: issue6
 date: 2019-11-09
 published: true
 section: write52
+sub: 6
 tags:
  - CMS
  - Sanity
  - Headless
  - Gridsome
- - iPhone
- - Photography 
- - Farnborough 
- - Wales
 ---
 ## iPhone 11 
 
@@ -58,27 +55,18 @@ I haven’t yet had the chance to talk about it’s video capabilities but they 
 
 Last Saturday and Sunday we drove up to Wales from our Hampshire base and spent the night there before travelling back the following day. We were doing a recce for a bigger trip that takes place next year, looking for locations. THe weather on the way up was horrendous and it didn’t improve much on the Saturday. However some dry spells ensued and Sunday morning was quite glorious and the temperatures climbed back up.
 
-![](./bellmouthspillway.jpeg)
+![Bellmouth Spillway](./bellmouthspillway.jpeg)
 
 You could tell that Wales, much like most of the UK has seen a lot of rain in recent weeks and the West coast took a serious pelting this weekend. Talking to local people, they all had experienced being cut off at times with power cuts at times.
 
 The Pentwyn Reservoir was rather high indeed and we were all fascinated by the **Bellmouth Spillway** seen here in the photo above, it was roaring like a giant monster sucking the water out! It was quite a frightening looking thing and reminded me of the scary moments faced by residents of the town of Whaley bridge in Derbyshire earlier this year. 
 
-![](./tracks.jpeg)
+![Train Tracks](./tracks.jpeg)
 
 We came across the Brecon Mountain Railway in a few different spots during our recce. Looks like a lot of fun, added to the list for a warmer time of year as a potential trip to take.
 
-![](./train.jpeg)
+![Train](./train.jpeg)
 
-![](./steps.jpeg)
+![Steps](./steps.jpeg)
 
 The final photo here was taken along what I think was the Four Falls trail and near a waterfall that I did capture images of but none of which I was happy with. Just goes to show how some subjects can be difficult to photograph. I will be revisiting so will go equipped with the big camera, tripod, filters and also the drone for some epic footage. All of which is on the cards for 2020. Yes, that is looming ever closer.
-
-## To wrap up for the week
-
-I love Write52 and this challenge to write a post every week and this one has been a bit of a tough one in terms of finding the time. Some weeks at this time of year become hard to stay on top of as deadlines are silly. It is almost as if the end of the year is the end of days! I always love the time between Christmas Eve and the New Year because I down tools and we just have a nice chill time.
-
-In terms of some topics I want to write about going forward:
-
-- Walks around some favourite and interesting parts of the UK. I have always wanted to write a book of some kind on this area.
-- Tracing some interesting people in my family tree which I have been starting to do, however a slower process in terms of writing.

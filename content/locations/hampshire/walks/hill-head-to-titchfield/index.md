@@ -1,7 +1,7 @@
 ---
 title: Hill Head and Titchfield
 summary: This week moving on a bit from talking iPhones and photography we move on to writing about walks
-slug: hill-head
+slug: hampshire/hill-head
 date: 2019-11-16
 published: true
 section: walks

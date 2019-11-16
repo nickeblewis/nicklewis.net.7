@@ -5,6 +5,7 @@ date: 2019-09-17
 summary: Talk about my kidney transplant and what it means to be a transplant patient
 published: true
 section: health
+sub: renal
 tags: 
  - Journal
  - Kidney

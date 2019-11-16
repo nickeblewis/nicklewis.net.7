@@ -5,7 +5,7 @@ slug: hill-head-to-titchfield
 date: 2019-11-16
 published: true
 section: walks
-county: hampshire
+sub: hampshire
 tags:
  - Solent Way
  - Fareham

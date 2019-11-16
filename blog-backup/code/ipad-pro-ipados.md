@@ -5,6 +5,7 @@ date: 2019-10-09
 published: true
 summary: Wow this iPad Pro I have just bought is blowing my mind and boosting my productivity. Here is why
 section: tech
+sub: ios
 tags:
  - iPad
  - iPadOS
