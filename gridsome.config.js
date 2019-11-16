@@ -4,85 +4,96 @@
 // Changes here require a server restart.
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
-const tailwind = require("tailwindcss");
-const purgecss = require("@fullhuman/postcss-purgecss");
+const tailwind = require('tailwindcss')
+const purgecss = require('@fullhuman/postcss-purgecss')
 
-const postcssPlugins = [tailwind()];
+const postcssPlugins = [
+  tailwind(),
+]
 
-if (process.env.NODE_ENV === "production") postcssPlugins.push(purgecss());
+if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: "Nick Lewis",
-  siteDescription: "Photographer, Coder, Writer",
-  siteUrl: "https://nicklewis.net",
-  templates: {
-    Tag: "/tag/:id",
-    Post: [
-      { path: "/:section/:sub/:slug" },
-      { name: "SubSection", path: "/:section/:slug" }
-    ]
-  },
+  siteName: 'Nick Lewis',
+  siteDescription: 'Photographer, Coder and Content Creator',
+  siteUrl: 'https://nicklewis.net',
   plugins: [
     {
-      use: "@gridsome/source-filesystem",
+      use: '@gridsome/vue-remark',
       options: {
-        path: "blog/**/*.md",
-        typeName: "Post",
+        typeName: 'Documentation', // Required
+        baseDir: './docs', // Where .md files are located
+        pathPrefix: '/docs', // Add route prefix. Optional
+        template: './src/templates/Documentation.vue', // Optional
+        plugins: [
+          [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+      ],
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'blog/**/*.md',
+        typeName: 'Post',
         refs: {
           tags: {
-            typeName: "Tag",
+            typeName: 'Tag',
             create: true
           }
         }
       }
     },
     {
-      use: "gridsome-plugin-rss",
+      use: 'gridsome-plugin-rss',
       options: {
-        contentTypeName: "Post",
+        contentTypeName: 'Post',
         feedOptions: {
-          title: "Nick Lewis Blog",
-          feed_url: "https://nicklewis.net/rss.xml",
-          site_url: "https://nicklewis.net/"
+          title: 'Gridsome Portfolio Starter Blog',
+          feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
+          site_url: 'https://gridsome-portfolio-starter.netlify.com/'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: "https://nicklewis.net" + node.path,
-          author: "Nick Lewis",
+          url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
+          author: 'Andre Madarang',
           date: node.date
         }),
         output: {
-          dir: "./static",
-          name: "rss.xml"
+          dir: './static',
+          name: 'rss.xml'
         }
       }
     },
     {
-      use: "@gridsome/plugin-sitemap",
+      use: '@gridsome/plugin-sitemap',
       options: {
-        cacheTime: 600000 // default
+        cacheTime: 600000, // default
       }
-    }
+    },
   ],
+  templates: {
+    Post: [
+      { path: "/:section/:sub/:slug" },
+      { name: "SubSection", path: "/:section/:slug" }
+    ],
+    Tag: '/tag/:id'
+  },
   transformers: {
     remark: {
       plugins: [
-        [
-          "gridsome-plugin-remark-shiki",
-          { theme: "Material-Theme-Palenight", skipInline: true }
-        ]
+        [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
       ],
-      externalLinksTarget: "_blank",
-      externalLinksRel: ["nofollow", "noopener", "noreferrer"],
-      anchorClassName: "icon icon-link"
+      externalLinksTarget: '_blank',
+      externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
+      anchorClassName: 'icon icon-link',
     }
   },
   css: {
     loaderOptions: {
       postcss: {
-        plugins: postcssPlugins
-      }
-    }
-  }
-};
+        plugins: postcssPlugins,
+      },
+    },
+  },
+}

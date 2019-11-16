@@ -5,5 +5,3 @@ create a file named `WordPressPost.vue` in this folder.
 Learn more: https://gridsome.org/docs/templates
 
 You can delete this file.
-
-[ ] - More templates will be created for different kinds of content

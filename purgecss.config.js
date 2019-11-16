@@ -12,6 +12,8 @@ module.exports = {
     './src/**/*.html',
     './src/**/*.pug',
     './src/**/*.md',
+    './docs/**/*.md',
+    './blog/**/*.md',
   ],
   whitelist: [
     'body',
@@ -21,6 +23,7 @@ module.exports = {
     'g-image',
     'g-image--lazy',
     'g-image--loaded',
+    'active',
   ],
   extractors: [
     {

@@ -1,14 +1,3 @@
 [build]
-  command = "yarn build"
   publish = "dist"
-  functions = "src/functions"
-  NODE_ENV = "12.10.0"
-
-[dev]
-  command = "yarn develop"
-
-
-[[redirects]]
-  from = "/api/*"
-  to = "/.netlify/functions/:splat"
-  status = 200
+  command = "gridsome build"
