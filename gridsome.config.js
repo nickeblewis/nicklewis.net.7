@@ -28,13 +28,19 @@ module.exports = {
     ]
   },
   plugins: [
-    // {
-    //   use: '@gridsome/vue-remark',
-    //   options: {
-    //     typeName: 'Documentation', // Required
-    //     baseDir: './content/docs', // Where .md files are located
-    //   }
-    // },
+    {
+       use: '@gridsome/vue-remark',
+      options: {
+         typeName: 'Documentation', // Required
+         baseDir: './content/docs', // Where .md files are located
+         pathPrefix: '/docs', // Add route prefix. Optional
+        template: './src/templates/Documentation.vue', // Optional
+        plugins: [
+          [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+      ],
+
+       }
+     },
     {
       use: 'gridsome-source-sanity',
       options: {
@@ -109,6 +115,9 @@ module.exports = {
   ],
   transformers: {
     remark: {
+      plugins: [
+        [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+      ],
       externalLinksTarget: '_blank',
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
       anchorClassName: 'icon icon-link',
