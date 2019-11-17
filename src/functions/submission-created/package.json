@@ -2,7 +2,7 @@
   "name": "node-fetch",
   "version": "1.0.0",
   "description": "netlify functions:create - default template for node fetch function",
-  "main": "submission.js",
+  "main": "submission-created.js",
   "keywords": [
     "netlify",
     "serverless",
@@ -11,7 +11,6 @@
   "author": "Netlify",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.3.0",
-    "dotenv": "latest"
+    "node-fetch": "^2.3.0"
   }
 }
