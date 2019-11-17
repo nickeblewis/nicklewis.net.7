@@ -28,7 +28,7 @@
 
           <div class="text-lg sm:text-lg mb-16">
             <form
-              name="contact"
+              name="subscribers"
               class="mb-12"
               method="post"
               action="/success/"
