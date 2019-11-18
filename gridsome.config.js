@@ -18,19 +18,55 @@ module.exports = {
   siteDescription: 'Photographer, Coder and Content Creator',
   siteUrl: 'https://nicklewis.net',
   plugins: [ 
+    // {
+    //   use: '@gridsome/source-filesystem',
+    //   options: {
+    //     path: 'blog/**/*.md',
+    //     typeName: 'Post',
+    //     refs: {
+    //       tags: {
+    //         typeName: 'Tag',
+    //         create: true
+    //       }
+    //     }
+    //   }
+    // },
     {
-      use: '@gridsome/source-filesystem',
+      use: "@gridsome/vue-remark",
       options: {
-        path: 'blog/**/*.md',
-        typeName: 'Post',
-        refs: {
-          tags: {
-            typeName: 'Tag',
-            create: true
-          }
-        }
+        typeName: "Post",
+        baseDir: "./markdown/projects",
+        template: "./src/templates/Post.vue",
+        pathPrefix: "/projects",
+        route: "/projects/:slug",
+        plugins: [
+          [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+        ]
       }
     },
+    // {
+    //   use: "@gridsome/vue-remark",
+    //   options: {
+    //     typeName: "Tag",
+    //     baseDir: "./markdown/tags",
+    //     template: "./src/templates/Tag.vue",
+    //     pathPrefix: "/blog/tags"
+    //   },
+    // },  
+    // {
+    //   use: "@gridsome/vue-remark",
+    //   options: {
+    //     typeName: "Post",
+    //     baseDir: "./markdown/posts",
+    //     template: "./src/templates/Post.vue",
+    //     pathPrefix: "/posts",
+    //     route: "/blog/:slug",
+    //     refs: {
+    //       tags: "Tag"
+    //     },
+    //     plugins: ["@gridsome/remark-prismjs"]
+    //   }
+    // },
     {
       use: 'gridsome-plugin-rss',
       options: {
@@ -60,24 +96,24 @@ module.exports = {
       }
     },
   ],
-  templates: {
-    Post: [
-      { path: "/:section/:sub/:slug" },
-      { name: "SubSection", path: "/:section/:slug" },
-      { name: "Sanity", path: "/blog/:year/:month/:slug" }
-    ],
-    Tag: '/tag/:id'
-  },
-  transformers: {
-    remark: {
-      plugins: [
-        [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-      ],
-      externalLinksTarget: '_blank',
-      externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
-      anchorClassName: 'icon icon-link',
-    }
-  },
+  // templates: {
+  //   Post: [
+  //     { path: "/:section/:sub/:slug" },
+  //     { name: "SubSection", path: "/:section/:slug" },
+  //     { name: "Sanity", path: "/blog/:year/:month/:slug" }
+  //   ],
+  //   Tag: '/tag/:id'
+  // },
+  // transformers: {
+  //   remark: {
+  //     plugins: [
+  //       [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
+  //     ],
+  //     externalLinksTarget: '_blank',
+  //     externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
+  //     anchorClassName: 'icon icon-link',
+  //   }
+  // },
   css: {
     loaderOptions: {
       postcss: {

@@ -164,7 +164,7 @@ query HomePosts {
         section
         date (format: "MMMM D, Y")
         summary
-        timeToRead
+        
         path
       }
     }

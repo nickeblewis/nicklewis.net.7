@@ -84,10 +84,6 @@ query Post ($path: String!) {
     title
     date (format: "MMMM D, Y")
     content
-    tags {
-      title
-      path
-    }
   }
 }
 </page-query>

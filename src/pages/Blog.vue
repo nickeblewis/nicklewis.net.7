@@ -6,7 +6,7 @@
         <div class="text-copy-secondary mb-4">
           <span>{{ post.node.date }}</span>
           <span> &middot; </span>
-          <span>{{ post.node.timeToRead }} min read</span>
+          <!-- <span>{{ post.node.timeToRead }} min read</span> -->
         </div>
 
         <div class="text-lg mb-4">
@@ -30,7 +30,7 @@
 
 <page-query>
 query Posts ($page: Int) {
-  posts: allPost (sortBy: "date", order: DESC, perPage: 3, page: $page) @paginate {
+  posts: allPost (sortBy: "date", order: DESC, perPage: 6, page: $page) @paginate {
     totalCount
     pageInfo {
       totalPages
@@ -42,7 +42,7 @@ query Posts ($page: Int) {
         title
         date (format: "MMMM D, Y")
         summary
-        timeToRead
+        
         path
       }
     }

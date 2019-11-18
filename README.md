@@ -42,3 +42,10 @@ A simple portfolio starter theme for Gridsome
     - [Gridsome Starter Blog](https://github.com/gridsome/gridsome-starter-blog)
     - [Gridsome Starter Bleda](https://github.com/cossssmin/gridsome-starter-bleda)
     - [Jigsaw Starter Blog](https://jigsaw.tighten.co/docs/starter-templates/) - I got a lot of design inspiration from this starter theme.
+
+## vue-remark instead of filesystem
+https://github.com/gridsome/gridsome/issues/707
+
+## This looks superb
+
+https://github.com/danrocha/tfa-gridsome/
