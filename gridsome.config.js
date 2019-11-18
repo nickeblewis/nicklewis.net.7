@@ -63,7 +63,8 @@ module.exports = {
   templates: {
     Post: [
       { path: "/:section/:sub/:slug" },
-      { name: "SubSection", path: "/:section/:slug" }
+      { name: "SubSection", path: "/:section/:slug" },
+      { name: "Sanity", path: "/blog/:year/:month/:slug" }
     ],
     Tag: '/tag/:id'
   },
