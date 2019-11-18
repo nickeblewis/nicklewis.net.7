@@ -17,17 +17,23 @@ module.exports = {
   siteName: 'Nick Lewis',
   siteDescription: 'Photographer, Coder and Content Creator',
   siteUrl: 'https://nicklewis.net',
-  plugins: [
+  plugins: [    
     {
-      use: '@gridsome/vue-remark',
+      use: 'gridsome-source-sanity',
       options: {
-        typeName: 'Documentation', // Required
-        baseDir: './docs', // Where .md files are located
-        pathPrefix: '/docs', // Add route prefix. Optional
-        template: './src/templates/Documentation.vue', // Optional
-        plugins: [
-          [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
-      ],
+        projectId: '85cmsqr4',
+        dataset: 'production',
+        // Token is only required if dataset is private
+        // or `overlayDrafts` is set to true
+        // token: '<tokenWithReadRights>'
+        overlayDrafts: false,
+        watchMode: false,
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            create: true
+          }
+        }
       }
     },
     {
@@ -48,15 +54,15 @@ module.exports = {
       options: {
         contentTypeName: 'Post',
         feedOptions: {
-          title: 'Gridsome Portfolio Starter Blog',
-          feed_url: 'https://gridsome-portfolio-starter.netlify.com/rss.xml',
-          site_url: 'https://gridsome-portfolio-starter.netlify.com/'
+          title: 'Nick Lewis',
+          feed_url: 'https://nicklewis.net/rss.xml',
+          site_url: 'https://nicklewis.net/'
         },
         feedItemOptions: node => ({
           title: node.title,
           description: node.summary,
-          url: 'https://gridsome-portfolio-starter.netlify.com' + node.path,
-          author: 'Andre Madarang',
+          url: 'https://nicklewis.net' + node.path,
+          author: 'Nick Lewis',
           date: node.date
         }),
         output: {
