@@ -5,6 +5,7 @@ date: 2019-07-16T22:38:01.518Z
 published: true
 section: updates
 sub: publicity
+coverImage: ../_imgs/site-life-update.png
 tags:
   - business
   - accountancy

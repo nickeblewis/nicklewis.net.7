@@ -5,6 +5,7 @@ published: true
 date: 2019-07-19T13:22:01.518Z
 section: photography
 sub: locations
+coverImage: /images/uploads/dji_0002-2.jpeg
 tags:
   - aerial
   - photography

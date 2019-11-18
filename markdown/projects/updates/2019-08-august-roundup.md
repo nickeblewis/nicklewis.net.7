@@ -6,6 +6,7 @@ section: updates
 sub: august
 summary: Time is tight and I am having to switch to a new format of blog post that I share every month but hopefully this will mean longer articles with a mix of content? Let's see how it rolls!
 published: true
+coverImage: ../_imgs/site-life-update.png
 tags: 
  - Journal
  - August

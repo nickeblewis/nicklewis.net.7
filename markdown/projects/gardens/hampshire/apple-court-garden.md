@@ -5,6 +5,7 @@ published: true
 date: 2019-07-17T13:22:01.518Z
 section: gardens
 sub: hampshire
+coverImage: /images/uploads/_DSC4937.jpg
 tags:
   - gardens
   - photography

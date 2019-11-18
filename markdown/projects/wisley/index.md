@@ -9,6 +9,7 @@ cover: _DSC5829.jpg
 published: true
 section: gardens
 sub: surrey
+coverImage: ./images/_DSC5829.jpg
 gallery: 
  - _DSC5829.jpg
  - _DSC5837.jpg

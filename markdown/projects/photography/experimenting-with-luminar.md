@@ -5,6 +5,7 @@ published: true
 date: 2019-07-18T20:17:54.257Z
 section: photography
 sub: apps
+coverImage: /images/uploads/screenshot-2019-07-17-at-21.22.34.png
 tags:
   - photography
   - luminar

@@ -6,6 +6,7 @@ date: 2019-10-31
 published: true
 section: write52
 sub: 5
+coverImage: ./Mist-above-the-water.jpeg
 tags:
  - CMS
  - Sanity

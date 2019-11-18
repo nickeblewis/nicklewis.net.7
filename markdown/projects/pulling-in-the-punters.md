@@ -5,6 +5,7 @@ date: 2019-08-09T20:38:01.518Z
 summary: I delve into SEO and share a few of the things I've learn about it over time and how I do my best to boost my traffic
 section: seo
 sub: google
+coverImage: ./_imgs/site-life-update.png
 tags: 
  - SEO
  - Google

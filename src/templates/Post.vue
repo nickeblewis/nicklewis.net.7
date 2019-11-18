@@ -1,18 +1,20 @@
 <template>
   <Layout>
-    <div class="container-inner mx-auto my-16">
-      <h1 class="text-4xl font-bold leading-tight">{{ $page.post.title }}</h1>
-      <div class="text-xl text-gray-600 mb-4">{{ $page.post.date }}</div>
-      <div class="flex mb-8 text-sm">
-        <g-link
-          :to="tag.path"
-          v-for="tag in $page.post.tags"
-          :key="tag.id"
-          class="bg-gray-300 rounded-full px-4 py-2 mr-4 hover:bg-green-300">
-          {{ tag.title }}
-        </g-link>
-      </div>
-      <div class="markdown-body mb-8" v-html="$page.post.content" />
+    <article>
+    <div class="px-4 max-w-xl mx-auto">
+      <section class=" stripe-shadow-black mb-12">
+        <g-image :src="$page.post.coverImage" class="border-2 border-black"/>
+        <h1 class=" uppercase tracking-wide leading-tight px-4 pt-4 mb-2
+              font-bold text-white bg-black w-full text-2xl border-black
+              ">{{ $page.post.title }}</h1>
+        <p class="text-xl px-4 mb-4">{{ $page.post.summary }}</p>
+      </section>
+      <section  id="content" class="content px-4 max-w-xl mx-auto">
+      <VueRemarkContent class="flow"/>
+      </section>
+    </div>
+
+      <div class="container-inner mx-auto my-16">
       <div class="mb-8">
         <g-link to="/blog" class="font-bold uppercase">Back to Blog</g-link>
       </div>
@@ -75,15 +77,19 @@
         </div>
       </div> <!-- end contact-me -->
     </div>
+    </article>
+    
   </Layout>
 </template>
 
 <page-query>
 query Post ($path: String!) {
   post: post (path: $path) {
+    coverImage (width: 1920, height: 800, quality: 90)
     title
     date (format: "MMMM D, Y")
     content
+    summary
   }
 }
 </page-query>
@@ -125,4 +131,65 @@ export default {
 </script>
 
 <style src="../css/github-markdown.css" />
+
+<style>
+/* .grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 1rem;
+}
+#image {
+  grid-area: image;
+}
+#header {
+  grid-area: header;
+}
+#content {
+  grid-area: content;
+}
+#navigation-top {
+  grid-area: navigation-top;
+}
+#navigation-bottom {
+  grid-area: navigation-bottom;
+}
+@screen lg {
+  .grid {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas:
+      "image image header header"
+      "image image content content"
+      " . navigation-top content content"
+  }
+} */
+
+
+
+.content h2, h3 {
+  @apply font-bold;
+}
+.content h2 {
+  @apply text-2xl leading-none p-2 inline-block;
+}
+.content h3 {
+  @apply text-lg;
+}
+.content  ul {
+  list-style-type: square;
+}
+/* .content  ul > li {
+  @apply mb-2;
+} */
+.guide-cover {
+  height: 320px;
+}
+
+.content #buildings + ul, .content nav > ul {
+  @apply list-none;
+}
+/* .content #buildings + ul > li, .content nav > p, .content nav > ul > li {
+  @apply mb-1;
+} */
+</style>
+
 

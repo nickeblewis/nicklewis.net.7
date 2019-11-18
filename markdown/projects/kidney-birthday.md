@@ -6,6 +6,7 @@ summary: Talk about my kidney transplant and what it means to be a transplant pa
 published: true
 section: health
 sub: renal
+coverImage: ./_imgs/site-life-update.png
 tags: 
  - Journal
  - Kidney

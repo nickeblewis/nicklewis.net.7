@@ -6,6 +6,7 @@ date: 2019-11-09
 published: true
 section: write52
 sub: 6
+coverImage: ./number2.jpeg
 tags:
  - CMS
  - Sanity

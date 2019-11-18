@@ -6,12 +6,16 @@ date: 2019-11-16
 published: true
 section: walks
 sub: hampshire
+coverImage: ./titchfieldhaven.jpeg
 tags:
  - Solent Way
  - Fareham
  - Hill Head
  - Titchfield
 ---
+import CaptionedImage from '~/components/CaptionedImage.vue'
+import Divider from '~/components/Divider.vue'
+
 Hill Head is a village just South of Stubbington and Fareham located on the Solent coastline. An ideal place to pick up the coastal Solent Way path that spans 60 miles of the Hampshire coastline between Milford-on-Sea and Emsworth, via Lymington, Southampton and Portsmouth.
 
 https://goo.gl/maps/7S3B8mEPi75z2Ef77
@@ -21,9 +25,14 @@ This walk starts from [The Osborne View pub](https://www.osborneviewhillhead.co.
 
 We took a stroll down the hill to the coastal path (part of the Solent Way) that runs behind the Pub garden. You can either walk along the upper concrete path or if the tide is out and you have some wellies, take a paddle along the foreshore!
 
+<Divider />
+
 The views from this beach across the Solent to The Isle of Wight on a lovely clear day are fantastic. In fact The Osborne View is so called because directly opposite on the Wight coast is the former residence of Queen Victoria, Osborne House.
 
 ![Green beach hut and punchy blue autumn sky](./hut.jpeg)
+
+<captioned-image alt="Green Hut" caption="Green Hut" imgFile="uploads/hut.jpeg" :blog="true"/>
+
 
 Soon you will reach some colourful Beach Huts and here there are some more steps that lead down on to the beach. The tide does go out fairly far at this point and keep your eyes peeled for some fabulous Oyster shells. It is no surprise this little corner of the shore is popular with wading birds such as Oystercatcher and on the day we took this walk a small flock of Ringed Plover.
 
