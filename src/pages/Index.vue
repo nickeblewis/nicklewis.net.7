@@ -1,5 +1,19 @@
 <template>
   <Layout>
+
+    <!-- <section class="px-4 mb-12 text-lg
+      sm:w-3/4 sm:text-xl
+      md:text-2xl md:py-12 md:flex md:w-full md:p-0
+      lg:text-3xl
+      xl:text-4xl xl:py-16">
+      <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
+      <div class="md:w-2/3 xl:w-full md:px-4">
+        <p class="font-sans font-bold">Nick Lewis</p>
+        <p class="xl:w-3/4">Coder, Photographer &amp; Tutor</p>
+        <p class="xl:w-3/4">I have worked for many years in the web and photography industries and have combined the two disciplines throughout my career. I am a highly experienced front-end web developer who specialises in VueJS at the current point in time. I am setting out to write about my experience through this website and hope that my blog posts and documentation can help you in some way, whether you are trying to get your head around the latest tech or just want to learn the basics.</p>
+      </div>
+    </section> -->
+    
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
         <div class="leading-tight">Nick Lewis</div>
@@ -50,7 +64,19 @@
         </ul>
       </div> <!-- end projects -->
     </div>
-
+    
+    <!-- BLOG -->
+    <home-section>
+      <template #title>
+        Blog
+      </template>
+      <template #description>
+        Rambles about photography and code
+      </template>
+      <template #content>
+        <blog-grid :posts="$page.posts.edges" :show-excerpt="true"/>
+      </template>
+    </home-section>
     <div class="overflow-x-hidden border-gray-200 border-b">
       <div class="get-to-know-me container-inner mx-auto text-xl pb-16 relative">
         <h2 class="font-bold mb-6" id="about">Get to know me:</h2>
@@ -173,7 +199,13 @@ query HomePosts {
 </page-query>
 
 <script>
+import HomeSection from '~/components/HomeSection'
+import BlogGrid from '~/components/BlogGrid'
 export default {
+  components: {
+    HomeSection,
+    BlogGrid
+  },
   data() {
     return {
       formData: {}

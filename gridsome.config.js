@@ -35,10 +35,10 @@ module.exports = {
       use: "@gridsome/vue-remark",
       options: {
         typeName: "Post",
-        baseDir: "./markdown/projects",
+        baseDir: "./markdown/blog",
         template: "./src/templates/Post.vue",
-        pathPrefix: "/projects",
-        route: "/projects/:slug",
+        pathPrefix: "/blog",
+        route: "/:section/:sub/:slug",
         plugins: [
           [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
         ]

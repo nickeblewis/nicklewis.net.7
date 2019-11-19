@@ -7,20 +7,36 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "@fortawesome/free-solid-svg-icons": "^5.11.2",
     "@gridsome/plugin-sitemap": "^0.2.2",
-    "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.3.4",
     "@gridsome/vue-remark": "^0.1.7",    
+    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "@gridsome/source-filesystem": "^0.6.2",
     "axios": "^0.19.0",
+    "date-fns": "^2.7.0",
     "gridsome": "^0.7.9",
+    "gridsome-plugin-gtm": "^0.1.1",
+    "remark-toc": "^6.0.0",
     "gridsome-plugin-remark-shiki": "^0.3.0",
     "gridsome-plugin-rss": "^1.2.0",
     "lodash.pick": "^4.4.0",
     "vue-fuse": "^2.1.2",
-    "vue-scrollto": "^2.17.1"
+    "vue-scrollto": "^2.17.1",
+    "typeface-merriweather": "0.0.72",
+    "typeface-poppins": "0.0.72",
+    "typeface-source-sans-pro": "0.0.75",
+    "vue-carousel": "^0.18.0",
+    "vue-disqus": "^3.0.5",
+    "vue-gallery": "^2.0.1",
+    "vue-social-sharing": "^2.4.6"
   },
   "devDependencies": {
-    "tailwindcss": "^1.1.3"
+    "@fortawesome/fontawesome-svg-core": "^1.2.25",
+    "@fortawesome/free-brands-svg-icons": "^5.11.2",
+    "@fortawesome/vue-fontawesome": "^0.1.8",
+    "@fullhuman/postcss-purgecss": "^1.3.0",
+    "tailwindcss": "^1.1.3",
+    "vue-masonry-css": "^1.0.3"
   }
 }

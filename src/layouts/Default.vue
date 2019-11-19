@@ -1,10 +1,41 @@
 <template>
-  <div class="content-wrapper bg-background-primary font-sans text-copy-primary leading-normal flex flex-col min-h-screen" :class="theme">
-    <header class="border-t-14 border-green-700">
-      <nav class="container mx-auto flex flex-wrap justify-between items-center py-8">
+  <div>
+    <a id="top"/>
+    <header class="p-4 mb-4 sm:flex sm:justify-between sm:items-center">
+      <div class="flex justify-between items-center mb-4 sm:m-0">
+        <p class="font-bold uppercase tracking-wide text-xl">
+          <g-link to="/" class="no-decoration">{{ $static.metadata.siteName }}</g-link>
+        </p>
+        <div class="sm:hidden">
+          <button @click="showMenu = !showMenu">X</button>
+        </div>
+      </div>
+      <nav :class="showMenu ? 'block': 'hidden'" class="sm:block">
+        <ul class="font-semibold text-sm uppercase sm:flex">
+          <!-- <li class="mr-8 mb-6 lg:mb-0">
+            <search-input />
+          </li> -->
+          <li class="mr-2">
+            <g-link to="/code">Code</g-link>
+          </li>
+          <li class="mr-2">
+            <g-link to="/guides">Walks</g-link>
+          </li>
+          <li class="mr-2">
+            <g-link to="/blog/">Blog</g-link>
+          </li>
+          <li class="mr-2">
+            <g-link to="/about/">About</g-link>
+          </li>
+          <li>
+            <g-link to="/newsletter/">Newsletter</g-link>
+          </li>
+        </ul>
+      </nav>
+      <!-- <nav class="container mx-auto flex flex-wrap justify-between items-center py-8">
         <div>
           <g-link v-if="theme === 'theme-light'" to="/"><div class="text-copy-primary">Nick Lewis</div></g-link>
-          <g-link v-else to="/"><g-image src="../../static/logo_dark_mode.svg" class="w-40" alt="logo" /></g-link>
+          <g-link v-else to="/"><div class="text-copy-primary">Nick Lewis</div></g-link>
         </div>
         <div class="block lg:hidden">
           <button @click="toggle" class="flex items-center px-3 py-2 border rounded border-gray-500 hover:text-gray-600 hover:border-gray-600">
@@ -37,13 +68,13 @@
             <g-link to="/blog" class="text-copy-primary hover:text-gray-600">Blog</g-link>
           </li>
         </ul>
-      </nav>
-    </header>
+      </nav> -->
+    </header> 
 
-    <div class="flex-grow">
+    <main>
       <slot/>
       
-    </div>
+    </main>
     <footer class="bg-green-700 text-white">
       <div class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8">
         <div class="mb-8 lg:mb-0">
@@ -158,7 +189,8 @@ export default {
   data() {
     return {
       isOpen: false,
-      theme: ''
+      theme: '',
+      showMenu: false
     }
   },
   methods: {
@@ -172,4 +204,5 @@ export default {
 }
 </script>
 
-<style src="../css/main.css" />
+<style>
+</style>
