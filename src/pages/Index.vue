@@ -1,18 +1,17 @@
 <template>
   <Layout>
 
-    <!-- <section class="px-4 mb-12 text-lg
+    <section class="px-4 mb-12 text-lg
       sm:w-3/4 sm:text-xl
       md:text-2xl md:py-12 md:flex md:w-full md:p-0
       lg:text-3xl
       xl:text-4xl xl:py-16">
       <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
       <div class="md:w-2/3 xl:w-full md:px-4">
-        <p class="font-sans font-bold">Nick Lewis</p>
-        <p class="xl:w-3/4">Coder, Photographer &amp; Tutor</p>
-        <p class="xl:w-3/4">I have worked for many years in the web and photography industries and have combined the two disciplines throughout my career. I am a highly experienced front-end web developer who specialises in VueJS at the current point in time. I am setting out to write about my experience through this website and hope that my blog posts and documentation can help you in some way, whether you are trying to get your head around the latest tech or just want to learn the basics.</p>
+        <p class="font-sans font-bold">Coder, Photographer &amp; Tutor</p>
+        <p class="xl:w-3/4">Articles about life, nature, photography and front-end code, all in one place. Yes sounds eclectic and it is.</p>
       </div>
-    </section> -->
+    </section> 
     
     <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
       <div class="text-4xl font-bold w-full sm:w-3/5 text-center sm:text-left">
