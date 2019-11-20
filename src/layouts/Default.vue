@@ -19,7 +19,7 @@
             <g-link to="/code">Code</g-link>
           </li>
           <li class="mr-2">
-            <g-link to="/guides">Walks</g-link>
+            <g-link to="/guides">Guides</g-link>
           </li>
           <li class="mr-2">
             <g-link to="/blog/">Blog</g-link>
@@ -75,10 +75,9 @@
       <slot/>
       
     </main>
-    <footer class="bg-green-700 text-white">
+    <!-- <footer class="bg-green-700 text-white">
       <div class="container mx-auto flex flex-col lg:flex-row items-center justify-between py-8">
         <div class="mb-8 lg:mb-0">
-          <!-- TODO - 2019 should update dynamically -->
           <div>Copyright 2019. All rights reserved.</div>
           <div>
             <a href="/rss.xml" class="text-white hover:text-gray-400 font-normal">RSS Feed</a> |
@@ -96,7 +95,6 @@
               </svg>
             </a>
           </li>
-
           <li class="mr-8">
             <a
               href="https://youtube.com/nicklewis"
@@ -158,11 +156,30 @@
           </li>
         </ul>
       </div>
+    </footer> -->
+    <footer class="bg-black px-4 py-6 text-white text-center">
+      <ul class="font-semibold text-sm uppercase flex justify-center mb-4">
+          <li class="mr-2">
+            <a href="#top" class="white-link">&uarr; Top</a>
+          </li>
+          <li class="mr-2">
+            <g-link to="/guides/" class="white-link">Guides</g-link>
+          </li>
+          <li class="mr-2">
+            <g-link to="/blog/" class="white-link">Blog</g-link>
+          </li>
+          <li class="mr-2">
+            <g-link to="/about/" class="white-link">About</g-link>
+          </li>
+          <li>
+            <g-link to="/newsletter/" class="white-link">Newsletter</g-link>
+          </li>
+        </ul>
+        <p class="text-xs">© 2019, Nick Lewis<br>Made with &hearts; and <a href="https://gridsome.org/" class="white-link">Gridsome</a>.</p>
     </footer>
-
-    <div style="display:none">
+    <!-- <div style="display:none">
       <svg id="dots-triangle" width="170" height="170" xmlns="http://www.w3.org/2000/svg"><path d="M168.152 170a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm-18.478-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0 18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm-18.478 0a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.479a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm-18.479 0a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0 18.479a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0 18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-55.435a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zM94.24 133.043a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0 18.479a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0 18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-55.435a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm-18.478 36.956a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0 18.479a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0 18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-55.435a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm-18.478 55.434a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0 18.479a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0 18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-55.435a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.479a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm-18.479 73.913a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0 18.479a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0 18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-55.435a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.479a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm-18.478 92.391a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0 18.479a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0 18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-55.435a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.479a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zM1.848 133.044a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.695zm0 18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0 18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-55.435a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.479a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.695 1.848 1.848 0 0 1 0 3.695zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696zm0-18.478a1.848 1.848 0 1 1 0-3.696 1.848 1.848 0 0 1 0 3.696z" fill="#2C8056" fill-rule="evenodd" opacity=".503"/></svg>
-    </div>
+    </div> -->
   </div>
 </template>
 
@@ -175,32 +192,32 @@ query {
 </static-query>
 
 <script>
-import SearchInput from '../components/SearchInput'
-import ThemeSwitcher from '../components/ThemeSwitcher'
+//import SearchInput from '../components/SearchInput'
+//import ThemeSwitcher from '../components/ThemeSwitcher'
 
 export default {
-  components: {
-    SearchInput,
-    ThemeSwitcher
-  },
-  mounted() {
-    this.theme = localStorage.getItem('theme') || 'theme-light'
-  },
+  // components: {
+  //   SearchInput,
+  //   ThemeSwitcher
+  // },
+  // mounted() {
+  //   this.theme = localStorage.getItem('theme') || 'theme-light'
+  // },
   data() {
     return {
-      isOpen: false,
-      theme: '',
+      //isOpen: false,
+      //theme: '',
       showMenu: false
     }
-  },
-  methods: {
-    toggle() {
-      this.isOpen = !this.isOpen
-    },
-    updateTheme(theme) {
-      this.theme = theme
-    },
   }
+  // methods: {
+  //   toggle() {
+  //     this.isOpen = !this.isOpen
+  //   },
+  //   updateTheme(theme) {
+  //     this.theme = theme
+  //   },
+  // }
 }
 </script>
 

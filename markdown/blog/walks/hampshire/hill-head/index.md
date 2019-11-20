@@ -15,8 +15,11 @@ tags:
 ---
 import CaptionedImage from '~/components/CaptionedImage.vue'
 import Divider from '~/components/Divider.vue'
+import ImageGallery from '~/components/ImageGallery.vue'
 
 Hill Head is a village just South of Stubbington and Fareham located on the Solent coastline. An ideal place to pick up the coastal Solent Way path that spans 60 miles of the Hampshire coastline between Milford-on-Sea and Emsworth, via Lymington, Southampton and Portsmouth.
+
+<image-gallery folder="/images/uploads/" prefix="lewis" :num-imgs="19"/>
 
 https://goo.gl/maps/7S3B8mEPi75z2Ef77
 
