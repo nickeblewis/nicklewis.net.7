@@ -7,8 +7,8 @@
       xl:text-4xl xl:py-16">
       <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
       <div class="md:w-2/3 xl:w-full md:px-4">
-        <p class="font-sans font-bold">Coder, Photographer &amp; Tutor</p>
-        <p class="xl:w-3/4">Articles about life, nature, photography and front-end code, all in one place. Yes sounds eclectic and it is.</p>
+        <p class="font-sans font-bold">Content creator</p>
+        <p class="xl:w-3/4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti quam aliquid nemo ipsa placeat, fugit fuga iste. Exercitationem magnam veniam reprehenderit asperiores sint! Voluptate corporis magni libero! At, ducimus ex!</p>
       </div>
     </section>  
     <!-- <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
@@ -60,12 +60,88 @@
         Blog
       </template>
       <template #description>
-        Rambles about photography and code
+        A personal journal about the world in which we inhabit, through words and images
       </template>
       <template #content>
         <blog-grid :posts="$page.posts.edges" :show-excerpt="true"/>
       </template>
     </home-section>
+    <!-- ABOUT -->
+    <section class="bg-black text-white py-12 flex flex-col items-center justify-center">
+      <h2 class="mb-8 stripe-shadow-white uppercase tracking-wide py-1 font-bold px-4 bg-white text-black inline-block  lg:text-lg">What's this?</h2>
+
+      <div class="px-4 mb-4 sm:mb-12 sm:max-w-2xl sm:mx-auto sm:flex sm:items-start md:p-0">
+        <g-image
+          src="../assets/profile.jpg"
+          alt="Nick Lewis in the studio"
+          class="border-2 border-white w-32 mx-auto mb-4 flex-none h-auto sm:m-0 "/>
+        <div class="mb-8 sm:px-4">
+            <p
+              class="mb-4"
+            >Hi! My name is Nick and I am a photographer. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae vero blanditiis inventore tenetur sapiente esse ullam? Commodi sint atque qui, consequatur facilis quidem quia eius harum fugit impedit deleniti adipisci!</p>
+
+            <p
+              class="mb-4"
+            >This site is my contribution to my fellow photography fans: a collection of guides, maps, and insights about the subject of photography spanning various subjects.</p>
+            <p class="mb-4">
+              Start by checking out the
+              <a href="#guides" class="white-link">guides</a> above and the latest posts on the blog. You can also learn more about me
+              <a
+                href="/about" class="white-link"
+              >here.</a>
+            </p>
+            <p class="mb-8">
+              Make sure you
+              <a href="/newsletter" class="white-link">sign up</a>
+              to receive the latest updates.
+            </p>
+
+
+        </div>
+      </div>
+          <div class="flex justify-center text-white">
+              <a
+                href="https://twitter.com/nicklewis"
+                class="mr-4 shadow-none hover:shadow-none hover:text-grey-dark"
+                target="_blank"
+                alt="@nicklewis on Twitter"
+                aria-label="Open my profile on Twitter"
+                rel="noopener"
+              >
+                <font-awesome :icon="['fab', 'twitter']" size="2x" class="text-white"/>
+              </a>
+              <a
+                href="https://www.linkedin.com/in/nicklewis/"
+                class="mr-4 shadow-none hover:shadow-none hover:text-grey-dark"
+                target="_blank"
+                alt="Nick Lewis on LinkedIn"
+                aria-label="Open my profile on Linkedin"
+                rel="noopener"
+              >
+                <font-awesome :icon="['fab', 'linkedin']" size="2x" class="text-white"/>
+              </a>
+              <!-- <a
+                href="https://www.pinterest.de/theforeignarchitect/pins/"
+                class="mr-4 shadow-none hover:shadow-none hover:text-grey-dark"
+                alt="@theForeignArchitect on Pinterest"
+                target="_blank"
+                aria-label="Open my profile on Pinterest"
+                rel="noopener"
+              >
+                <font-awesome :icon="['fab', 'pinterest']" size="2x" class="text-white"/>
+              </a> -->
+              <a
+                href="https://www.instagram.com/nicklewisphotography/"
+                class="mr-4 shadow-none hover:shadow-none hover:text-grey-dark"
+                target="_blank"
+                alt="@nicklewisphotography on Instagram"
+                aria-label="Open my profile on Instagram"
+                rel="noopener"
+              >
+                <font-awesome :icon="['fab', 'instagram']" size="2x" class="text-white"/>
+              </a>
+          </div>
+    </section>
     <!-- <div class="overflow-x-hidden border-gray-200 border-b">
       <div class="get-to-know-me container-inner mx-auto text-xl pb-16 relative">
         <h2 class="font-bold mb-6" id="about">Get to know me:</h2>
@@ -166,6 +242,7 @@ query HomePosts {
         section
         date (format: "MMMM D, Y")
         summary
+        coverImage (width: 300, height: 200, quality: 90)
         path
       }
     }

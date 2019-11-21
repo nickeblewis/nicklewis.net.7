@@ -15,18 +15,18 @@
           <!-- <li class="mr-8 mb-6 lg:mb-0">
             <search-input />
           </li> -->
-          <li class="mr-2">
+          <!-- <li class="mr-2">
             <g-link to="/code">Code</g-link>
-          </li>
-          <li class="mr-2">
+          </li> -->
+          <!-- <li class="mr-2">
             <g-link to="/guides">Guides</g-link>
-          </li>
+          </li> -->
           <li class="mr-2">
             <g-link to="/blog/">Blog</g-link>
           </li>
-          <li class="mr-2">
+          <!-- <li class="mr-2">
             <g-link to="/about/">About</g-link>
-          </li>
+          </li> -->
           <li>
             <g-link to="/newsletter/">Newsletter</g-link>
           </li>
@@ -157,20 +157,23 @@
         </ul>
       </div>
     </footer> -->
-    <footer class="bg-black px-4 py-6 text-white text-center">
+    <footer class="bg-green-700 px-4 py-6 text-white text-center">
       <ul class="font-semibold text-sm uppercase flex justify-center mb-4">
           <li class="mr-2">
             <a href="#top" class="white-link">&uarr; Top</a>
           </li>
-          <li class="mr-2">
+          <!-- <li class="mr-2">
             <g-link to="/guides/" class="white-link">Guides</g-link>
+          </li> -->
+          <li class="mr-2">
+            <g-link to="/" class="white-link">Home</g-link>
           </li>
           <li class="mr-2">
             <g-link to="/blog/" class="white-link">Blog</g-link>
           </li>
-          <li class="mr-2">
+          <!-- <li class="mr-2">
             <g-link to="/about/" class="white-link">About</g-link>
-          </li>
+          </li> -->
           <li>
             <g-link to="/newsletter/" class="white-link">Newsletter</g-link>
           </li>

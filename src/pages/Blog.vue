@@ -10,7 +10,7 @@
               Blog
           </h2>
           <p>
-            Rambles about photography and code
+            A personal journal about the world in which we inhabit, through words and images
           </p>
         </div>
           <div class="w-full md:w-2/3 xl:w-full">
@@ -34,7 +34,7 @@
         <div class="mb-8">
           <g-link :to="post.node.path" class="font-bold uppercase">Read More</g-link>
         </div>
-      </div> 
+      </div> -->
 
       <pagination-posts
         v-if="$page.posts.pageInfo.totalPages > 1"
@@ -42,13 +42,18 @@
         :totalPages="$page.posts.pageInfo.totalPages"
         :currentPage="$page.posts.pageInfo.currentPage"
       />
-    </div> -->
+   <!-- </div> -->
   </Layout>
 </template>
 
 <page-query>
-  query {
-    posts: allPost (limit:20){
+  query Posts ($page: Int) {
+    posts: allPost (sortBy: "date", order: DESC, perPage: 20, page: $page) @paginate {
+      totalCount
+    pageInfo {
+      totalPages
+      currentPage
+    }
       edges {
         node {
           id

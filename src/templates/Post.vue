@@ -14,7 +14,7 @@
     </section>
       </div>
 
-      <div class="container-inner mx-auto my-16">
+      <!-- <div class="container-inner mx-auto my-16">
         <div class="mb-8">
           <g-link to="/blog" class="font-bold uppercase">Back to Blog</g-link>
         </div>
@@ -71,7 +71,7 @@
               </form>
             </div>
           </div>
-        </div> <!-- end contact-me -->
+        </div>-->
       </div>
     </article>
     

@@ -4,7 +4,7 @@
       <div class="mb-4 sm:w-3/4 md:w-1/3 xl:max-w-sm">
         <h2
           class="uppercase tracking-wide px-4 py-1 mb-4
-          font-bold text-white bg-black inline-block
+          font-bold text-white bg-green-700 inline-block
           lg:text-lg">
             <slot name="title"/>
         </h2>

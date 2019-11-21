@@ -17,19 +17,19 @@ a {
   transition: box-shadow 0.2s ease-in-out;
 }
 
-/* a:hover {
+a:hover {
   box-shadow: inset 0 -0.1em 0 var(--link-underline-color);
-} */
+}
 
 a.no-decoration, a.no-decoration:hover {
   box-shadow: none;
   transition:none;
 }
 
-/* a.white-link, a.white-link:hover {
+a.white-link, a.white-link:hover {
   @apply text-white;
   --link-underline-color: #4A5568;
-} */
+}
 
 .stripe-shadow-black, .content h2 {
   @apply border-2 relative border-white text-white bg-black;

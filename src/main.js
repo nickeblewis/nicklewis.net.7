@@ -60,7 +60,11 @@ export default function (Vue, { router, head, isClient }) {
   Vue.component('font-awesome', FontAwesomeIcon);
 
   Vue.component('Layout', DefaultLayout)
-
+  Vue.filter('formatDate', function(value, dateFormat = 'dd.MMM.yy') {
+    if (value) {
+      return format(new Date(String(value)), dateFormat, { enUS });
+    }
+  });
   Vue.use(VueScrollTo, {
     duration: 500,
     easing: "ease",

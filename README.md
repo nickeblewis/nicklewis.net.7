@@ -50,3 +50,6 @@ https://github.com/gridsome/gridsome/issues/707
 
 https://github.com/danrocha/tfa-gridsome/
 
+## next steps
+
+- [ ] 

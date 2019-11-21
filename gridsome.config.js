@@ -14,8 +14,8 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
 module.exports = {
-  siteName: 'Nick Lewis',
-  siteDescription: 'Photographer, Coder and Content Creator',
+  siteName: 'The Rambling Photographer',
+  siteDescription: 'Discover great walks and interesting things about your area through photography and the art of just seeing',
   siteUrl: 'https://nicklewis.net',
   plugins: [ 
     // {
@@ -43,6 +43,24 @@ module.exports = {
           [ 'gridsome-plugin-remark-shiki', { theme: 'Material-Theme-Palenight', skipInline: true } ]
         ]
       }
+    },
+    {
+      use: '@gridsome/vue-remark',
+      options: {
+        typeName: 'SinglePage', // Required
+        baseDir: './markdown/pages', // Where .md files are located
+        pathPrefix: '/', // Add route prefix. Optional
+        template: './src/templates/SinglePage.vue'
+        // plugins: [
+        //   [
+        //     'remark-toc',
+        //     {
+        //       heading: 'Buildings',
+        //       maxDepth: 2,
+        //     },
+        //   ],
+        // ],
+      },
     },
     // {
     //   use: "@gridsome/vue-remark",
