@@ -52,4 +52,12 @@ https://github.com/danrocha/tfa-gridsome/
 
 ## next steps
 
-- [ ] 
+- [ ] add a guides section
+- [ ] maintain nicklewis.net as the older format
+- [ ] maintain TRP (the rambling photographer) as a new spin-off
+- [ ] Add mailchimp of my own
+- [ ] Implement the galleries in posts
+- [ ] Add Alice and Matt to nicklewis.net
+  - [ ] plus other galleries like that one
+- [ ] map domain to TRP
+  - [ ] set up social media for it 
