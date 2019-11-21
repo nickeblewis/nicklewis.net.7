@@ -3,7 +3,7 @@
     <div v-for="{node} in posts" :key="node.id"
       class="border-2 border-grey flex"
     >
-      <g-image :src="node.coverImage" class="w-48 min-height object-cover object-center  lg:w-32 xl:w-48"/>
+      <g-image :src="node.coverImage" class="w-24 min-height object-cover object-center  lg:w-32 xl:w-48"/>
       <div class="p-4 sm:pr-6">
         <p class="text-xs uppercase">{{node.date | formatDate("dd.MMM")}}</p>
         <h3 class="font-bold leading-tight"><g-link :to="node.path">{{node.title}}</g-link></h3>
