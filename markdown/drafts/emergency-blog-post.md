@@ -1,4 +1,17 @@
-Normally I write about photography and the places that inspire me but this week has been a bit disjointed, so instead I am writing about being a freelancer and how at times you need to cope with weeks where not much happens or you are up-to-date waiting on other people to get their act together! It is odd because I've not had a week like this in a long time, you'd thought I'd be happy but the truth is I am not, for the simple reason I prefer to work with purpose. So this post is all about my contract job and contracting in general for those who may be interested. How do you deal with those peaks and troughs, which can be applied to any form of job really, whether you are a writer, photographer, web developer or whatever you may do.
+This week I am going to "take stock" of where this website is going and to talk about why I am going to rebrand it. In fact you'll notice that it has changed. It has a new title and some new layouts, all of which will be expanded upon in the weeks to come. I have been torn for some time over having a website named after myself rather than the topic it represents, come to think of it, over the years this site has gone through so many changes, it's direction never really settling on one thing. So I decided that has to change, because I want to make a success out of the work that I do.
 
-I have contracted since 2002 and at times have also freelanced. One of the key skills I have had to pretty much conjure up has been the art of managing my time, how to cope when you are flat out is one thing but what do you do when there is nothing, your clients have gone quiet on you or in the case of contracts sometimes you have quiet weeks - does it mean your work is done? Is it time to worry? Should you be circulating your CV? What can you do or what should you be doing?
+So I am going to break the site up into two, keeping nicklewis.net as it was and creating a new site, with new domain called "The Rambling Photographer" which will help me maintain my focus for the rest of Write52 and beyond. So the links I share soon will be on the new domain most of the time...
 
+The new site will focus on providing it's audience with town, city, village and rural guides complete with photos, maps and wot-not. I am also going to host photowalks and workshops etc...
+
+Anyway, there is that going on.
+
+It's interesting how when you start on a journey, you may not necessarily know the end goal or which direction to take and I hope the next few paragraphs of my rambling (see what I did there!) may help other people in some way, that tricky task of knowing your destiny as a content creator.
+
+In terms of blogging, some of the best examples I've seen online have been those that stick to their guns and I shall throw in a few examples below of bloggers who have inspired me. Apologies if none are Write52 contributors.
+
+The Lost Byway
+Baldhiker
+= [ ] Find a few more to add in here
+
+This realisation led me to seriously doubt myself and any work that I had written in the past, that I knew I had to take a whole new approach. Write52 came along at the right time, as I am really pleased with the response to my most recent articles. So I want to build on it massively.
