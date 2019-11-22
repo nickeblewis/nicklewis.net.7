@@ -3,8 +3,8 @@ title: Changes - new name, new horizons
 slug: changes
 date: 2019-11-22
 summary: The site becomes The Rambling Photographer, as I buckle up my laces and concentrate on writing about exploring places and telling the story of those journeys.
-section: seo
-sub: google
+section: updates
+sub: website
 coverImage: ./_imgs/trees-at-wisley.jpeg
 tags: 
  - SEO
