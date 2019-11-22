@@ -90,7 +90,11 @@
         <div class="mb-8 sm:px-4">
             <p
               class="mb-4"
-            >Nick is a photographer based in Hampshire and runs a web development business, which is super handy as he has created the Rambling Photographer in response to authoring better, more frequntly updated walking guides and to blend in a good dose of photography tips along the way, helping you find and see things in a refreshing way.</p>
+            >Nick is a photographer based in Hampshire and runs a web development business, which is super handy as he has created the Rambling Photographer in response to authoring better, more frequntly updated walking guides and to blend in a good dose of photography tips along the way, helping you find and see things in a refreshing way. </p>
+
+            <p
+              class="mb-4"
+            >The Rambling Photography is designed to be easy to access from your smartphone, so that you can take these guides with you on your travels.</p>
 
             <p
               class="mb-4"
