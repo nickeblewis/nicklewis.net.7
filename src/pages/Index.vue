@@ -7,7 +7,7 @@
       xl:text-4xl xl:py-16">
       <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
       <div class="md:w-2/3 xl:w-full md:px-4">
-        <p class="font-sans font-bold">Grab the camera, we are going for a stroll!</p>
+        <p class="font-sans font-bold">Grab the camera, let's go for a stroll!</p>
         <p class="xl:w-3/4">Photography is a story-telling tool and we have all seen the world through others' photos. My aim is to help you find some fascinating new places, things, history and ideas through my own gradual discoveries. Welcome to the Rambling Photographer...</p>
       </div>
     </section>  
@@ -67,7 +67,7 @@
       </template>
     </home-section>
      <!-- CITY GUIDES -->
-    <home-section>
+    <!-- <home-section>
       <template #title>
         Walking Guides
       </template>
@@ -77,10 +77,10 @@
       <template #content>
         <guide-grid :guides="$page.guides.edges" />
       </template>
-    </home-section>
+    </home-section> -->
     <!-- ABOUT -->
     <section class="bg-black text-white py-12 flex flex-col items-center justify-center">
-      <h2 class="mb-8 stripe-shadow-white uppercase tracking-wide py-1 font-bold px-4 bg-white text-black inline-block  lg:text-lg">What's this?</h2>
+      <h2 class="mb-8 stripe-shadow-white uppercase tracking-wide py-1 font-bold px-4 bg-white text-black inline-block  lg:text-lg">About the Author</h2>
 
       <div class="px-4 mb-4 sm:mb-12 sm:max-w-2xl sm:mx-auto sm:flex sm:items-start md:p-0">
         <g-image
@@ -273,10 +273,12 @@ query {
 <script>
 import HomeSection from '~/components/HomeSection'
 import BlogGrid from '~/components/BlogGrid'
+import GuideGrid from '~/components/GuideGrid'
 export default {
   components: {
     HomeSection,
-    BlogGrid
+    BlogGrid,
+    GuideGrid
   },
   data() {
     return {

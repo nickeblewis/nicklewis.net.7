@@ -1,3 +1,21 @@
+---
+title: Changes
+slug: changes
+date: 2019-11-22
+summary: Some changes coming to this site as I rebrand it!
+section: seo
+sub: google
+coverImage: ./_imgs/site-life-update.png
+tags: 
+ - SEO
+ - Google
+ - Content
+published: true
+---
+
+- [ ] Revise some of the fields above and simplify
+- [ ] Swicth of auto publish so that I can preview new pages and articles first (Netluify)
+- [ ] swap above cover image for something else
 ## Finding your direction
 This week I am going to "take stock" of where this website is going and to talk about why I am going to rebrand it. In fact you'll notice that it has changed. It has a new title and some new layouts, all of which will be expanded upon in the weeks to come. I have been torn for some time over having a website named after myself rather than the topic it represents, come to think of it, over the years this site has gone through so many changes, it's direction never really settling on one thing. So I decided that had to change, since I want to make a success out of the work that I do.
 
@@ -28,3 +46,7 @@ There are many options nowadays for monetising online content
 
 - paid newsletters
 - etc
+
+## New image galleries
+
+- [ ] Add one of those image gallery controls and add a mixture of images to it
