@@ -14,4 +14,4 @@ The Lost Byway
 Baldhiker
 = [ ] Find a few more to add in here
 
-This realisation led me to seriously doubt myself and any work that I had written in the past, that I knew I had to take a whole new approach. Write52 came along at the right time, as I am really pleased with the response to my most recent articles. So I want to build on it massively.
+This realisation led me to seriously doubt myself and any work that I had written in the past, that I knew I had to take a whole new approach. Write52 came along at the right time, and since getting involved I am really pleased with the response to my most recent articles. A few months ago I registered the domain theramblingphotographer.com and a few days ago I remembered I had created it! It dawned on me that is a great name and fits the subject matter. I love walking, exploring, finding fascinating places and people, all of which leads to the photographs I take. I have always wanted to write a new kind of walking book or series of them, so why not start out with a blog, then some more in-depth guides that I could charge for. I will ultimately look into self-publishing.
