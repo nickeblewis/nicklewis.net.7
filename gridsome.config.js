@@ -32,6 +32,34 @@ module.exports = {
     //   }
     // },
     {
+      use: '@gridsome/vue-remark',
+      options: {
+        typeName: 'Guide', // Required
+        baseDir: './markdown/guides', // Where .md files are located
+        pathPrefix: '/guides', // Add route prefix. Optional
+        template: './src/templates/Guide.vue',
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            create: true,
+          },
+          series: {
+            typeName: 'Series',
+            create: true,
+          },
+        },
+        plugins: [
+          [
+            'remark-toc',
+            {
+              heading: 'Buildings',
+              maxDepth: 2,
+            },
+          ],
+        ],
+      },
+    },
+    {
       use: "@gridsome/vue-remark",
       options: {
         typeName: "Post",

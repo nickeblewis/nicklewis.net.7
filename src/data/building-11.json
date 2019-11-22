@@ -1,0 +1,47 @@
+{
+  "id": 11,
+  "name": "Vasco da Gama Tower",
+  "website": "",
+  "year": 1998,
+  "address": "",
+  "gfa": "",
+  "gmapsEmbed": "!1m18!1m12!1m3!1d1555.2752774526023!2d-9.09270957182952!3d38.77401135523942!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x57a4360707cf1cdb!2sTorre+Vasco+da+Gama!5e0!3m2!1sen!2sus!4v1491378816601",
+  "gmapsLink": "https://goo.gl/maps/simU6t9kdFQ2",
+  "height": "145",
+  "lat": null,
+  "lng": null,
+  "typology": "Observation tower and restaurant",
+  "architectBuildings": {
+    "totalCount": 2,
+    "nodes": [
+      { "architect": { "id": 16, "name": "Leonor Janeiro", "website": null } },
+      { "architect": { "id": 17, "name": "Nicholas Jacobs", "website": null } }
+    ]
+  },
+  "city": {
+    "country": { "id": 4, "iso": "PT", "name": "Portugal" },
+    "id": 4,
+    "name": "Lisbon"
+  },
+  "links": {
+    "totalCount": 2,
+    "nodes": [
+      {
+        "id": 26,
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Vasco_da_Gama_Tower",
+        "source": {
+          "id": 5,
+          "name": "Wikipedia",
+          "website": "https://wikipedia.com"
+        }
+      },
+      {
+        "id": 27,
+        "title": "A View On Cities",
+        "url": "http://www.aviewoncities.com/lisbon/torrevascodagama.htm",
+        "source": null
+      }
+    ]
+  }
+}

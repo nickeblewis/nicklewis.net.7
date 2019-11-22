@@ -66,6 +66,18 @@
         <blog-grid :posts="$page.posts.edges" :show-excerpt="true"/>
       </template>
     </home-section>
+     <!-- CITY GUIDES -->
+    <home-section>
+      <template #title>
+        Walking Guides
+      </template>
+      <template #description>
+        Curated walking guides with a dash of photography tips for good flavour
+      </template>
+      <template #content>
+        <guide-grid :guides="$page.guides.edges" />
+      </template>
+    </home-section>
     <!-- ABOUT -->
     <section class="bg-black text-white py-12 flex flex-col items-center justify-center">
       <h2 class="mb-8 stripe-shadow-white uppercase tracking-wide py-1 font-bold px-4 bg-white text-black inline-block  lg:text-lg">What's this?</h2>
@@ -232,17 +244,25 @@
 </template>
 
 <page-query>
-query HomePosts {
-  posts: allPost (limit: 4, sortBy: "date", order: DESC, filter: { published: { eq: true }}) {
+query {
+  guides: allGuide (filter: {chapter: {eq: 0}}, sortBy: "city" ){
+    edges {
+      node {
+        id
+        city
+        coverImage (width: 500, height: 500, quality: 90)
+        path
+      }
+    }
+  }
+  posts: allPost (limit:4){
     edges {
       node {
         id
         title
-        published
-        section
-        date (format: "MMMM D, Y")
         summary
         coverImage (width: 300, height: 200, quality: 90)
+        date
         path
       }
     }
