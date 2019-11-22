@@ -10,7 +10,7 @@
               Blog
           </h2>
           <p>
-            A personal journal about the world in which we inhabit, through words and images
+            Grab the camera and take a stroll! Posts are (mostly) weekly...
           </p>
         </div>
           <div class="w-full md:w-2/3 xl:w-full">
