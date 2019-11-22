@@ -8,7 +8,7 @@
       <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
       <div class="md:w-2/3 xl:w-full md:px-4">
         <p class="font-sans font-bold">Grab the camera, let's go for a stroll!</p>
-        <p class="xl:w-3/4">Photography is a story-telling tool and we have all seen the world through others' photos. My aim is to help you find some fascinating new places, things, history and ideas through my own gradual discoveries. Welcome to the Rambling Photographer...</p>
+        <p class="xl:w-3/4">Photography is a story-telling tool and we have all seen the world through others' photos. My aim is to help you find some fascinating new places, history and more through my own gradual discoveries. Welcome to the Rambling Photographer...</p>
       </div>
     </section>  
     <!-- <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
@@ -90,22 +90,19 @@
         <div class="mb-8 sm:px-4">
             <p
               class="mb-4"
-            >Nick is a photographer based in Hampshire and runs a web development business, which is super handy as he has created the Rambling Photographer in response to authoring better, more frequntly updated walking guides and to blend in a good dose of photography tips along the way, helping you find and see things in a refreshing way. </p>
+            >Nick is a photographer based in Hampshire and runs a web development business, which is super handy as he has created the Rambling Photographer in response to authoring better, more frequently updated walking guides and to blend in a good dose of photography tips along the way, helping you find and see things in a refreshing way. </p>
 
             <p
               class="mb-4"
-            >The Rambling Photography is designed to be easy to access from your smartphone, so that you can take these guides with you on your travels.</p>
+            >The Rambling Photographer is designed to be easy to access from your smartphone, so that you can take these guides with you on your travels.</p>
 
-            <p
-              class="mb-4"
-            >This site is my contribution to my fellow photography fans: a collection of guides, maps, and insights about the subject of photography spanning various subjects.</p>
-            <p class="mb-4">
+            <!--<p class="mb-4">
               Start by checking out the
               <a href="#guides" class="white-link">guides</a> above and the latest posts on the blog. You can also learn more about me
               <a
                 href="/about" class="white-link"
               >here.</a>
-            </p>
+            </p>-->
             <p class="mb-8">
               Make sure you
               <a href="/newsletter" class="white-link">sign up</a>
@@ -126,7 +123,7 @@
               >
                 <font-awesome :icon="['fab', 'twitter']" size="2x" class="text-white"/>
               </a>
-              <a
+              <!-- <a
                 href="https://www.linkedin.com/in/nicklewis/"
                 class="mr-4 shadow-none hover:shadow-none hover:text-grey-dark"
                 target="_blank"
@@ -135,7 +132,7 @@
                 rel="noopener"
               >
                 <font-awesome :icon="['fab', 'linkedin']" size="2x" class="text-white"/>
-              </a>
+              </a>-->
               <!-- <a
                 href="https://www.pinterest.de/theforeignarchitect/pins/"
                 class="mr-4 shadow-none hover:shadow-none hover:text-grey-dark"

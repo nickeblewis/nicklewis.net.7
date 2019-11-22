@@ -5,8 +5,9 @@
       <p>I only send 1-2 emails per month, and I promise it will always be entertaining! And you can unsubscribe at any time.</p>
     </div>
     <div id="mc_embed_signup">
+      
       <form
-        action="https://theforeignarchitect.us15.list-manage.com/subscribe/post?u=220ad385d5f90b6e7c5e808ba&amp;id=67c1661df3"
+        action="https://nicklewis.us6.list-manage.com/subscribe/post?u=7feeb83d6f2d04d9037a6da34&amp;id=6329947d2b"
         method="post"
         id="mc-embedded-subscribe-form"
         name="mc-embedded-subscribe-form"

@@ -61,3 +61,17 @@ https://github.com/danrocha/tfa-gridsome/
   - [ ] plus other galleries like that one
 - [ ] map domain to TRP
   - [ ] set up social media for it 
+
+- [ ] Revise some of the fields above and simplify
+- [ ] Swicth of auto publish so that I can preview new pages and articles first (Netluify)
+- [ ] swap above cover image for something else
+
+## New image galleries
+
+- [ ] Add one of those image gallery controls and add a mixture of images to it
+
+## Monetisation
+There are many options nowadays for monetising online content
+
+- paid newsletters
+- etc
