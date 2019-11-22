@@ -7,8 +7,8 @@
       xl:text-4xl xl:py-16">
       <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
       <div class="md:w-2/3 xl:w-full md:px-4">
-        <p class="font-sans font-bold">Content creator</p>
-        <p class="xl:w-3/4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti quam aliquid nemo ipsa placeat, fugit fuga iste. Exercitationem magnam veniam reprehenderit asperiores sint! Voluptate corporis magni libero! At, ducimus ex!</p>
+        <p class="font-sans font-bold">Grab the camera, we are going for a stroll!</p>
+        <p class="xl:w-3/4">Photography is a story-telling tool and we have all seen the world through others' photos. My aim is to help you find some fascinating new places, things, history and ideas through my own gradual discoveries. Welcome to the Rambling Photographer...</p>
       </div>
     </section>  
     <!-- <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
@@ -60,7 +60,7 @@
         Blog
       </template>
       <template #description>
-        A personal journal about the world in which we inhabit, through words and images
+        A series of (mostly) weekly posts
       </template>
       <template #content>
         <blog-grid :posts="$page.posts.edges" :show-excerpt="true"/>
@@ -78,7 +78,7 @@
         <div class="mb-8 sm:px-4">
             <p
               class="mb-4"
-            >Hi! My name is Nick and I am a photographer. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quae vero blanditiis inventore tenetur sapiente esse ullam? Commodi sint atque qui, consequatur facilis quidem quia eius harum fugit impedit deleniti adipisci!</p>
+            >Nick is a photographer based in Hampshire and runs a web development business, which is super handy as he has created the Rambling Photographer in response to authoring better, more frequntly updated walking guides and to blend in a good dose of photography tips along the way, helping you find and see things in a refreshing way.</p>
 
             <p
               class="mb-4"
