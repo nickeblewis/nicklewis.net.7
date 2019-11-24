@@ -8,7 +8,7 @@
       <div class="hidden md:w-1/3 md:block xl:max-w-sm">&nbsp;</div>
       <div class="md:w-2/3 xl:w-full md:px-4">
         <p class="font-sans font-bold">Grab the camera, let's go for a stroll!</p>
-        <p class="xl:w-3/4">Photography is a story-telling tool and we have all seen the world through others' photos. My aim is to help you find some fascinating new places, history and more through my own gradual discoveries. Welcome to the Rambling Photographer...</p>
+        <p class="xl:w-3/4">Photography is a storytelling tool and we have all seen the world through others' photos. My aim is to help you find some fascinating new places, history and more through my own gradual discoveries. Welcome to the Rambling Photographer...</p>
       </div>
     </section>  
     <!-- <div class="hero container-inner mx-auto flex flex-col sm:flex-row justify-between py-16">
