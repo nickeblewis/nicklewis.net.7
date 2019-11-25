@@ -13,6 +13,8 @@ tags:
 published: true
 ---
 
+UPDATE: There are now two websites, [nicklewis.net](https://nicklewis.net) and [The Rambling Photographer](http://theramblingphotographer.com), the former covers my web consultancy work and the latter my photography. I needed to split them apart, just felt like the right thing to do. So the following article is slightly out of date in that regard...
+
 ## Time for a change
 The site nicklewis.net has gone through various stop-starts over the years and in fact you can find the original Wordpress powered site at [nicklewis.online](https://nicklewis.online) where there are some 800 posts but I was never entirely happy with them or at least a good percentage of them. I have wished to write about many things and being prone to procrastination, I fell down the rabbit hole of blogging where you just lose direction completely and reach a point where you want to give it up.
 
