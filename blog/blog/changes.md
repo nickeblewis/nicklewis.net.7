@@ -12,7 +12,6 @@ tags:
  - Content
 published: true
 ---
-import McGeneralForm from '~/components/McGeneralForm.vue'
 
 ## Time for a change
 The site nicklewis.net has gone through various stop-starts over the years and in fact you can find the original Wordpress powered site at [nicklewis.online](https://nicklewis.online) where there are some 800 posts but I was never entirely happy with them or at least a good percentage of them. I have wished to write about many things and being prone to procrastination, I fell down the rabbit hole of blogging where you just lose direction completely and reach a point where you want to give it up.
@@ -55,4 +54,3 @@ I love this one especially with the Cyclamen flowers in the foreground
 ## Until next time...
 I am heading out to a few places over the coming weeks, so that means the hungry content monster that this blog is, will be well fed! Expect a mixture of Surrey Hills and Christmas Markets!
 
-<mc-general-form />
