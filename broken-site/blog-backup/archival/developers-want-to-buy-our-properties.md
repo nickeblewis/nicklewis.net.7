@@ -1,4 +1,0 @@
-- [ ] Who are they?
-- [ ] How serious a threat is this?
-- [ ] What is the consensus down our street?
-- [ ] How can we defend our property?

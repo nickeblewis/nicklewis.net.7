@@ -1,1 +1,0 @@
-Take part in a challenge, plan ahead, here are some topics I will write about and some I'd perhaps want to try out, like a comedian would with new material

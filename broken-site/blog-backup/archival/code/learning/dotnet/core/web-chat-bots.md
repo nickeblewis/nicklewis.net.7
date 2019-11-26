@@ -1,1 +1,0 @@
-http://aihelpwebsite.com/Blog/EntryId/1030/Creating-a-Hello-World-Bot-MS-Bot-Framework-V4-Preview-Edition -> Looks interesting, want to try this lot out!

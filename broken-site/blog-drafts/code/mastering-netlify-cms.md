@@ -1,1 +1,0 @@
-https://www.netlifycms.org/docs/customization/

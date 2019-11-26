@@ -1,1 +1,0 @@
-placeholder for page about this project

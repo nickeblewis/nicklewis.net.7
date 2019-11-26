@@ -1,3 +1,0 @@
-- [*] Install Xamarin
-- [*] How can you debug with network tab?
-- [ ] Explore Xamarin in spare time, build something with it

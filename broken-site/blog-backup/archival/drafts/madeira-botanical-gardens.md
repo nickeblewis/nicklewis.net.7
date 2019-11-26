@@ -1,1 +1,0 @@
-gather together the photos from the trip

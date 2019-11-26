@@ -1,1 +1,0 @@
-- [ ] What is X-State, what is a state machine?

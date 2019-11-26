@@ -1,1 +1,0 @@
-Why switch to a headless CMS and why I am helping other people do the same

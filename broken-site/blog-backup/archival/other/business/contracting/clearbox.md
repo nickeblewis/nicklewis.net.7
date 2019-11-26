@@ -1,1 +1,0 @@
-Write about the code base that is form builder, so much to take away from this, so almost tempted to create a mini version of it as a reference point... obv I can't copy the project that would be illegal 

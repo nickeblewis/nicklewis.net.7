@@ -1,2 +1,0 @@
-My ratings system
-keywording

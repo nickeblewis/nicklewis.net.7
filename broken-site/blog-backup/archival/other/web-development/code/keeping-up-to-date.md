@@ -1,4 +1,0 @@
-- Vue Mastery is a good source of information
-- Javascript weekly
-- Stuff I am exploring
-- areas to get to know better

@@ -1,2 +1,0 @@
-alamy
-pond 5

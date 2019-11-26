@@ -1,1 +1,0 @@
-Welcome to this section where through the power of screencasting I am going to reveal my approach to running a large scale site, ideas, fleshing out and publishing

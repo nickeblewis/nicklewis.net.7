@@ -1,3 +1,0 @@
-- [ ] Wordpress and the JAMStack
-
-I still have a place for Wordpress in my world despite all of the other options and here is why....

@@ -1,1 +1,0 @@
-did I post these on this site or .photo?? 

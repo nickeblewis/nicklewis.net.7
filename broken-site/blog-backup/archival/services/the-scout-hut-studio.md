@@ -1,1 +1,0 @@
-## Our mobile studio and it's regular venue

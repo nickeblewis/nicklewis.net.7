@@ -1,1 +1,0 @@
-I have been inspired by ProBlogger for many years and their 31 days programme which I am putting into practice here - so will update this page in the future and the blog 

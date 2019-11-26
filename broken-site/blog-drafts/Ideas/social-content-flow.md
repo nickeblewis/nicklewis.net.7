@@ -1,7 +1,0 @@
-- edgar,elokenz, buffer
-- FB, insta etc
-- edgar schedule which is being established
-- blogs and micro-blogging
-- substack, revue vs main site
-- newsletters
-- managng the above for myself and potentially others

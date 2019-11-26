@@ -1,1 +1,0 @@
-Sweet Fanny Adams, Alton 
