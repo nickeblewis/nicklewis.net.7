@@ -14,7 +14,7 @@
 
        <p
         class="text-lg sm:text-xl"
-      >I have worked for many years in the web and photography industries and have combined the two disciplines throughout my career. I am a highly experienced front-end web developer who specialises in VueJS at the current point in time. I am setting out to write about my experience through this website and hope that my blog posts and documentation can help you in some way, whether you are trying to get your head around the latest tech or just want to learn the basics.</p>
+      >I have worked for many years in the web and photography industries and have combined the two disciplines throughout my career. I am a highly experienced front-end web developer who specialises in VueJS/Gridsome at the current point in time. I am setting out to write about my experience through this website and hope that my blog posts and documentation can help you in some way, whether you are trying to get your head around the latest tech or just want to learn the basics. I also talk about the Consultancy services I offer on a freelance basis.</p>
 
       <div class="flex justify-between items-center py-6">
         <div class="w-full sm:w-1/2 px-8 py-8 sm:py-0">

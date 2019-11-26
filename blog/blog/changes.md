@@ -1,8 +1,8 @@
 ---
-title: Changes - new name, new horizons
+title: Changes - this site gets split into two
 slug: changes
 date: 2019-11-22
-summary: The site becomes The Rambling Photographer, as I buckle up my laces and concentrate on writing about exploring places and telling the story of those journeys.
+summary: The site is split into two with the creation of the new The Rambling Photographer, which will concentrate on my writing about exploration and telling the story of those journeys through photography
 section: updates
 sub: website
 coverImage: ./_imgs/trees-at-wisley.jpeg
@@ -12,9 +12,6 @@ tags:
  - Content
 published: true
 ---
-
-UPDATE: There are now two websites, [nicklewis.net](https://nicklewis.net) and [The Rambling Photographer](http://theramblingphotographer.com), the former covers my web consultancy work and the latter my photography. I needed to split them apart, just felt like the right thing to do. So the following article is slightly out of date in that regard...
-
 ## Time for a change
 The site nicklewis.net has gone through various stop-starts over the years and in fact you can find the original Wordpress powered site at [nicklewis.online](https://nicklewis.online) where there are some 800 posts but I was never entirely happy with them or at least a good percentage of them. I have wished to write about many things and being prone to procrastination, I fell down the rabbit hole of blogging where you just lose direction completely and reach a point where you want to give it up.
 
@@ -22,7 +19,7 @@ Not being one to give in too easily I came to the conclusion that all blogs shou
 
 Since I clearly love photography and exploring places on foot, I decided that I must knuckle down to concentrating on writing just about these two topics but how best to go about it? Simple, I came up with the name "The Rambling Photographer" and was telling my wife about this the other day with which she responded, "Now I like that, good name, you enjoy rambling both in the way you walk and talk!". We laughed at that but she genuinely liked the new title.
 
-So today I have launched some layout changes and would like to tell you about what I have up my sleeve, for the year ahead.
+So today I have launched a second website and would like to tell you about what I have up my sleeve, for the year ahead.
 
 ## Location guides
 The new site will focus on providing it's audience with town, city, village and rural guides complete with photos, maps and wot-not. I am also going to host photowalks and workshops etc... Those items will of course take time to develop so in the meantime, business as usual, the blog will continue pretty much as it has over the past month and a half ([Write52](https://write52.com) contributors will know) with my photographic essays on the places I love, in the hope that others will also visit them someday!
