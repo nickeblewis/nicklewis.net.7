@@ -31,6 +31,14 @@ module.exports = {
         }
       }
     },
+    // {
+    //   use: '@gridsome/source-filesystem',
+    //   options: {
+    //     path: 'docs/**/*.md',
+    //     typeName: 'Post',
+        
+    //   }
+    // },    
     {
       use: 'gridsome-plugin-rss',
       options: {
