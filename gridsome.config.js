@@ -23,6 +23,14 @@ module.exports = {
       options: {
         path: 'blog/**/*.md',
         typeName: 'Post',
+        remakr: {
+          plugins: [
+            [ '@noxify/gridsome-plugin-remark-embed', {
+                'enabledProviders' : ['Youtube', 'Twitter', 'Gist', 'JSFiddle'],
+            }]
+          ]
+
+        },
         refs: {
           tags: {
             typeName: 'Tag',

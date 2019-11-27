@@ -7,5 +7,7 @@ Most of the time now I use Netlify but on occasions may also use other services,
 
 What is Netlify? What do they offer that is so special? How expensive are they? Would you pay for them directly or pay via myself?
 
-Netlify allows you to host 
+Netlify enables you to host static file based sites and applications. The term "static" is a bit confusing because it doesn't mean you can't display dynamic content, it just means that the underlying files are static. You can inject JavaScript into the mix to provide access to APIs and thus combine real-time data with pre-built content from the server side.
+
+One immediate advantage of this approach is that it promotes great speed and security because there is no longer the need to render the same content multiple times as users request it via their browsers. Content is pre-built, ready to serve up and that means it is far harder, perhaps impossible to hack a site built on these principles.
 
