@@ -13,6 +13,8 @@ const postcssPlugins = [
 
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss())
 
+const clientConfig = require('./client-config')
+
 module.exports = {
   siteName: 'Nick Lewis',
   siteDescription: 'Photographer, Coder and Content Creator',
@@ -21,8 +23,9 @@ module.exports = {
     {
       use: 'gridsome-source-sanity',
       options: {
-        projectId: '85cmsqr4',
-        dataset: 'production',
+        ...clientConfig.sanity,
+        //projectId: '85cmsqr4',
+        //dataset: 'production',
         // Token is only required if dataset is private
         // or `overlayDrafts` is set to true
         // token: '<tokenWithReadRights>'

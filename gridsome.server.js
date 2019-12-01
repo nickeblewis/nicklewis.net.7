@@ -9,6 +9,8 @@ const fs = require('fs');
 const path = require('path');
 const pick = require('lodash.pick');
 const { pathPrefix } = require('./gridsome.config')
+const clientConfig = require('./client-config')
+
 
 module.exports = function (api, options) {
   api.loadSource(store => {
@@ -42,6 +44,8 @@ module.exports = function (api, options) {
     Using page-queries,   axios( this.$page.metaData.pathPrefix   + "/fileName" )
     */
     store.addMetadata('pathPrefix', cleanedPathPrefix)
+    store.addMetadata('sanityOptions', clientConfig.sanity)
+
   })
 
   api.beforeBuild(({ config, store }) => {
