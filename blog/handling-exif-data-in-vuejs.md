@@ -8,7 +8,7 @@ sub: javascript
 tags: 
  - Javascript
  - EXIF
-published: true
+published: false
 ---
 The following JS Fiddle demonstrates uploading of an image and reading of any present EXIF metadata:
 

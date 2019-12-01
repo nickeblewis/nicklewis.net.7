@@ -19,6 +19,25 @@ module.exports = {
   siteUrl: 'https://nicklewis.net',
   plugins: [ 
     {
+      use: 'gridsome-source-sanity',
+      options: {
+        projectId: '85cmsqr4',
+        dataset: 'production',
+        // Token is only required if dataset is private
+        // or `overlayDrafts` is set to true
+        // token: '<tokenWithReadRights>'
+        overlayDrafts: false,
+        watchMode: false,
+        refs: {
+          tags: {
+            typeName: 'Tag',
+            route: 'tag/:id',
+            create: true
+          }
+        }
+      }
+    },
+    {
       use: '@gridsome/source-filesystem',
       options: {
         path: 'blog/**/*.md',
@@ -77,6 +96,10 @@ module.exports = {
     },
   ],
   templates: {
+    SanityPost: [
+      { path: '/blog/:year/:month/:slug__current'},
+      { name: 'Features', path: '/:slug__current'},
+    ],
     Post: [
       { path: "/:section/:sub/:slug" },
       { name: "SubSection", path: "/:section/:slug" },

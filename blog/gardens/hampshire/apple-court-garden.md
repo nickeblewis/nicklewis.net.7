@@ -1,6 +1,6 @@
 ---
 title: Apple Court Garden
-slug: apple-court-garden
+slug: apple-court-garden-other
 published: true
 date: 2019-07-17T13:22:01.518Z
 section: gardens
