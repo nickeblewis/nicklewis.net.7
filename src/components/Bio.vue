@@ -9,7 +9,7 @@
     </div>
     <div
       class="flex-1 text-lg sm:text-xl ml-6"
-    >I am a freelance web developer, content creator and photographer, who is on a mission to help businesses and individuals build solutions for their online world.</div>
+    >I am a freelance web developer, content creator and writer, who is on a mission to help businesses and individuals build solutions for their online world.</div>
   </div>
 </template>
 
