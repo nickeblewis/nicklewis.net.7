@@ -11,8 +11,6 @@ tags:
  - Content
 published: true
 ---
-# What is Structured Content and why I now offer it as a key service?
-
 I tend not to work with traditional CMS systems anymore but with modern BaaS (back-end as a service) cloud services which I find are more lightweight, easier to get up and running plus scalable in size and price to suit all budgets. I am constantly reviewing all of the options on the market but the most compelling at the moment is Sanity, a Headless CMS product that is taking the industry by storm. So far I have found Sanity to be easy to use and is the best by far for mobile responsiveness, it just looks really sweet on my iPhone or iPad. Here is a little screen shot of the back-end behind this website:
 
 ![Screenshot_2019-12-02_at_16.43.01.png](./Screenshot_2019-12-02_at_16.43.01.png)
