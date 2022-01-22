@@ -760,9 +760,9 @@
     unist-util-visit "^1.4.0"
     vfile "^4.0.0"
 
-"@gridsome/transformer-remark@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@gridsome/transformer-remark/-/transformer-remark-0.4.0.tgz#7b03481e6be5064984fcacc6832693c766745a4d"
+"@gridsome/transformer-remark@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@gridsome/transformer-remark/-/transformer-remark-0.5.0.tgz#e872e91edc316205c507533395b8f1bc985185a1"
   dependencies:
     gray-matter "^4.0.2"
     hash-sum "^1.0.2"
@@ -782,16 +782,16 @@
     unist-util-visit "^1.4.0"
     vfile "^4.0.0"
 
-"@gridsome/vue-remark@^0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@gridsome/vue-remark/-/vue-remark-0.1.8.tgz#731b6b585f5c0856d4819d0d314cd60e8947cf25"
+"@gridsome/vue-remark@^0.1.7":
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/@gridsome/vue-remark/-/vue-remark-0.1.10.tgz#2c0715ea42bc3fb057cdaf970d708cb5bd8a884c"
   dependencies:
     "@babel/core" "^7.0.0"
     "@babel/parser" "^7.0.0"
     "@babel/preset-env" "^7.0.0"
     "@babel/traverse" "^7.0.0"
     "@gridsome/source-filesystem" "^0.6.2"
-    "@gridsome/transformer-remark" "^0.4.0"
+    "@gridsome/transformer-remark" "^0.5.0"
     hash-sum "^1.0.2"
     hast-util-to-html "^5.0.0"
     he "^1.2.0"
@@ -7073,8 +7073,10 @@ node-emoji@^1.8.1:
     lodash.toarray "^4.4.0"
 
 node-fetch@^2.2.0, node-fetch@^2.3.0, node-fetch@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.0.tgz#e633456386d4aa55863f676a7ab0daa8fdecb0fd"
+  version "2.6.7"
+  resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.7.tgz#24de9fba827e3b4ae44dc8b20256a379160052ad"
+  dependencies:
+    whatwg-url "^5.0.0"
 
 node-libs-browser@^2.2.1:
   version "2.2.1"
@@ -9968,6 +9970,10 @@ tough-cookie@~2.4.3:
     psl "^1.1.24"
     punycode "^1.4.1"
 
+tr46@~0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/tr46/-/tr46-0.0.3.tgz#8184fd347dac9cdc185992f3a6622e14b9d9ab6a"
+
 traverse@^0.6.6:
   version "0.6.6"
   resolved "https://registry.yarnpkg.com/traverse/-/traverse-0.6.6.tgz#cbdf560fd7b9af632502fed40f918c157ea97137"
@@ -10606,6 +10612,10 @@ wcwidth@^1.0.0, wcwidth@^1.0.1:
   dependencies:
     defaults "^1.0.3"
 
+webidl-conversions@^3.0.0:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/webidl-conversions/-/webidl-conversions-3.0.1.tgz#24534275e2a7bc6be7bc86611cc16ae0a5654871"
+
 webpack-chain@^5.2.0:
   version "5.2.4"
   resolved "https://registry.yarnpkg.com/webpack-chain/-/webpack-chain-5.2.4.tgz#cc3665a296a6edcda738324599103ac6e215dda3"
@@ -10695,6 +10705,13 @@ websocket-extensions@>=0.1.1:
 well-known-symbols@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/well-known-symbols/-/well-known-symbols-2.0.0.tgz#e9c7c07dbd132b7b84212c8174391ec1f9871ba5"
+
+whatwg-url@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/whatwg-url/-/whatwg-url-5.0.0.tgz#966454e8765462e37644d3626f6742ce8b70965d"
+  dependencies:
+    tr46 "~0.0.3"
+    webidl-conversions "^3.0.0"
 
 which-module@^2.0.0:
   version "2.0.0"
