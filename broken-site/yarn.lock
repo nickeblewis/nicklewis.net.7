@@ -760,9 +760,9 @@
     unist-util-visit "^1.4.0"
     vfile "^4.0.0"
 
-"@gridsome/transformer-remark@^0.4.0":
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/@gridsome/transformer-remark/-/transformer-remark-0.4.0.tgz#7b03481e6be5064984fcacc6832693c766745a4d"
+"@gridsome/transformer-remark@^0.5.0":
+  version "0.5.0"
+  resolved "https://registry.yarnpkg.com/@gridsome/transformer-remark/-/transformer-remark-0.5.0.tgz#e872e91edc316205c507533395b8f1bc985185a1"
   dependencies:
     gray-matter "^4.0.2"
     hash-sum "^1.0.2"
@@ -782,16 +782,16 @@
     unist-util-visit "^1.4.0"
     vfile "^4.0.0"
 
-"@gridsome/vue-remark@^0.1.8":
-  version "0.1.8"
-  resolved "https://registry.yarnpkg.com/@gridsome/vue-remark/-/vue-remark-0.1.8.tgz#731b6b585f5c0856d4819d0d314cd60e8947cf25"
+"@gridsome/vue-remark@^0.1.7":
+  version "0.1.10"
+  resolved "https://registry.yarnpkg.com/@gridsome/vue-remark/-/vue-remark-0.1.10.tgz#2c0715ea42bc3fb057cdaf970d708cb5bd8a884c"
   dependencies:
     "@babel/core" "^7.0.0"
     "@babel/parser" "^7.0.0"
     "@babel/preset-env" "^7.0.0"
     "@babel/traverse" "^7.0.0"
     "@gridsome/source-filesystem" "^0.6.2"
-    "@gridsome/transformer-remark" "^0.4.0"
+    "@gridsome/transformer-remark" "^0.5.0"
     hash-sum "^1.0.2"
     hast-util-to-html "^5.0.0"
     he "^1.2.0"
@@ -3359,8 +3359,8 @@ decamelize@^1.1.2, decamelize@^1.2.0:
   resolved "https://registry.yarnpkg.com/decamelize/-/decamelize-1.2.0.tgz#f6534d15148269b20352e7bee26f501f9a191290"
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
 
 decompress-response@^3.2.0, decompress-response@^3.3.0:
   version "3.3.0"
